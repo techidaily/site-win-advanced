@@ -1,7 +1,7 @@
 ---
 title: "The Ticking Clock for Microsoft: Addressing Major Windows 11 Issues in a Race Against Time | ZDNET Insights"
-date: 2024-09-18 10:28:34
-updated: 2024-09-20 12:31:20
+date: 2024-09-14T19:00:59.624Z
+updated: 2024-09-21T01:19:38.408Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -114,6 +121,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +173,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-macos-to-optimize-mixer-streams/"><u>2024 Approved Navigating MacOS to Optimize Mixer Streams</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-13-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 13 to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-nokia-xr21-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Nokia XR21 by Name | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-narzo-n55-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme Narzo N55 Lock Screen Password</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mastering-video-codecs-for-ps4-and-ps5-installing-h265-support-step-by-step/"><u>Mastering Video Codecs for PS4 & PS5: Installing H.265 Support Step-by-Step</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-best-5-audio-ducking-software-you-should-know/"><u>New In 2024, Best 5 Audio Ducking Software You Should Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-blue-screen-errors-how-to-fix-0x8007045d-in-windows-11/"><u>Overcoming Blue Screen Errors: How to Fix 0X8007045d in Windows 11</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/seamlessly-watch-flv-content-on-ios-devices-a-simple-tutorial/"><u>Seamlessly Watch FLV Content on iOS Devices - A Simple Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-instructions-master-the-art-of-ipad-soft-and-hard-resets/"><u>Step-by-Step Instructions: Master the Art of iPad Soft and Hard Resets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-tus-archivos-de-video-en-mp-para-vista-online-gratuita-con-herramientas-de-conversion-de-movavi/"><u>Transforma Tus Archivos De Video en MP Para Vista Online Gratuita Con Herramientas De Conversión De Movavi</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/ultimate-guide-effortlessly-download-high-resolution-8k-footage-using-top-video-converter/"><u>Ultimate Guide: Effortlessly Download High-Resolution 8K Footage Using Top Video Converter</u></a></li>
+</ul></div>
+

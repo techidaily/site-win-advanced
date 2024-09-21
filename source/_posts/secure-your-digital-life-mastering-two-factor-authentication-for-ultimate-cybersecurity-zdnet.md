@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Life: Mastering Two-Factor Authentication for Ultimate Cybersecurity | ZDNet"
-date: 2024-09-17 20:27:36
-updated: 2024-09-20 11:44:45
+date: 2024-09-18T23:58:49.610Z
+updated: 2024-09-20T19:02:21.251Z
 tags:
   - microsoft
 categories:
@@ -115,6 +115,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +131,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +173,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-2023s-scarcity-pioneering-vr-content-shortcomings/"><u>[New] 2023’S Scarcity Pioneering VR Content Shortcomings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-resolved-inaccessible-full-screen-obs/"><u>[New] 2024 Approved Resolved Inaccessible Full Screen OBS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-comprehensive-guide-the-triad-technique-for-assessing-youtube-revenue-streams/"><u>2024 Approved Comprehensive Guide The Triad Technique for Assessing YouTube Revenue Streams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-gopro-filming-techniques-unveiled/"><u>2024 Approved Pro-Gopro Filming Techniques Unveiled</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027743843-clipchamp/"><u>Clipchampにてビデオからスチルショットを抽出可能か教えてください</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-methods-to-overcome-the-0-stalled-windows-updates/"><u>Effortless Methods to Overcome the 0% Stalled Windows Updates</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027005866-facebook/"><u>Facebookビデオのカットと組み込み手順</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-resolution-passport-portraits-download-for-free-and-print-your-document-for-2024/"><u>High-Resolution Passport Portraits - Download for FREE & Print Your Document for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-can-you-capture-and-save-archived-web-videos-using-the-wayback-machine/"><u>How Can You Capture and Save Archived Web Videos Using the Wayback Machine?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-infinix-hot-30i-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Infinix Hot 30i to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-a2plus-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Redmi A2+ Data? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/quick-and-easy-tips-how-to-rotate-your-movies-using-three-windows-11-tricks/"><u>Quick & Easy Tips: How to Rotate Your Movies Using Three Windows 11 Tricks</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/tedpc/"><u>TED演説ビデオのPCとスマートフォンから簡単なダウンロードガイド</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/transferer-automatiquement-un-fichier-asf-vers-un-format-avi-convertissez-sans-frais-avec-moviesavvy/"><u>Transférer Automatiquement Un Fichier ASF Vers Un Format AVI - Convertissez Sans Frais Avec MovieSavvy</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/pc2/"><u>ウィンドウズPC用手描き動画製作入門：2コツで始められるアニメーション制作の方法</u></a></li>
+</ul></div>
+

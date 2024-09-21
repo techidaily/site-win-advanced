@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft’s Controversial Strategy: Another Reason for User Discontent? - Analysis by ZDNet"
-date: 2024-09-18 11:55:15
-updated: 2024-09-20 10:29:34
+date: 2024-09-17T19:03:02.136Z
+updated: 2024-09-21T06:53:33.539Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -114,6 +121,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +173,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-teaching-with-technology-incorporating-youtube-into-lessons/"><u>[New] In 2024, Teaching with Technology Incorporating YouTube Into Lessons</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-20-online-instagram-video-converters-to-mp4-format-for-2024/"><u>[Updated] Top 20 Online Instagram Video Converters to MP4 Format for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveil-nearby-neighbors-from-dining-deals-to-festivities-found-easily/"><u>2024 Approved Unveil Nearby Neighbors - From Dining Deals to Festivities Found Easily</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027556663-youtube/"><u>損なわれることなく、YouTubeビデオからの文章転記技術</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/batch-conversion-guide-transforming-ogg-files-into-wma-format/"><u>Batch Conversion Guide: Transforming OGG Files Into WMA Format</u></a></li>
+<li><a href="https://techidaily.com/beginners-guide-to-wiping-clean-and-refreshing-your-hp-laptop-the-complete-factory-reset-method/"><u>Beginner's Guide to Wiping Clean and Refreshing Your HP Laptop - The Complete Factory Reset Method</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-troubleshooting-counter-strike-2-desktop-issues/"><u>Expert Tips for Troubleshooting Counter-Strike 2 Desktop Issues</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027005866-facebook/"><u>Facebookビデオのカットと組み込み手順</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-can-you-locate-your-saved-vlc-recording-files-on-your-computer/"><u>How Can You Locate Your Saved VLC Recording Files on Your Computer?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-resurrecting-windows-photo-viewer-windows-10-techniques-1-and-2/"><u>In 2024, Resurrecting Windows Photo Viewer Windows 10 Techniques #1 & #2</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-prodigy-vs-creative-hub-beta-edition/"><u>In 2024, YouTube Prodigy Vs. Creative Hub Beta Edition</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/iosmtsiphoneipad/"><u>IOSデバイス向けMTS動画再生ガイド：iPhoneとiPadの二つの方法</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/must-have-iphone-upgrades-and-extras-a-shoppers-guide-to-smart-purchases/"><u>Must-Have iPhone Upgrades & Extras: A Shopper's Guide to Smart Purchases</u></a></li>
+<li><a href="https://win-forum.techidaily.com/secure-your-text-files-a-step-by-step-guide-to-applying-password-protection/"><u>Secure Your Text Files: A Step-by-Step Guide to Applying Password Protection</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/tedpc/"><u>TED演説ビデオのPCとスマートフォンから簡単なダウンロードガイド</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Dev Routines: The Impact of GPT-Based Tech on Programmer Efficiency - Perspectives by ZDNet"
-date: 2024-09-18 19:50:46
-updated: 2024-09-20 11:44:39
+date: 2024-09-17T23:45:57.854Z
+updated: 2024-09-20T16:28:10.457Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -114,6 +121,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +173,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-free-cross-platform-4k-playback-tools-for-win-and-os-x-devices/"><u>[Updated] Free, Cross-Platform 4K Playback Tools for Win & OS X Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/a-deep-dive-into-freenocam-software-features/"><u>A Deep Dive Into FreenoCam Software Features</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027743843-clipchamp/"><u>Clipchampにてビデオからスチルショットを抽出可能か教えてください</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-can-you-capture-and-save-archived-web-videos-using-the-wayback-machine/"><u>How Can You Capture and Save Archived Web Videos Using the Wayback Machine?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-80-pro-straight-screen-edition-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Honor 80 Pro Straight Screen Edition Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/quick-and-easy-tips-how-to-rotate-your-movies-using-three-windows-11-tricks/"><u>Quick & Easy Tips: How to Rotate Your Movies Using Three Windows 11 Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-customizing-display-preferences-in-microsofts-latest-operating-system/"><u>Step-by-Step Tutorial on Customizing Display Preferences in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/symbolic-financial-guidance/"><u>Symbolic Financial Guidance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-10-best-video-repair-software/"><u>Top 10 Best Video Repair Software</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/pc2/"><u>ウィンドウズPC用手描き動画製作入門：2コツで始められるアニメーション制作の方法</u></a></li>
+</ul></div>
+
