@@ -1,7 +1,7 @@
 ---
 title: "Leading Microsoft Tech Skills: Elite Professional Programs & Online Training - ZDNet"
-date: 2024-09-18T05:31:27.520Z
-updated: 2024-09-20T16:25:58.371Z
+date: 2024-09-18T18:22:20.666Z
+updated: 2024-09-25T20:00:09.839Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,13 +95,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,6 +128,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -129,15 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +200,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-blueprint-to-thriving-in-spotify-ads/"><u>[New] The Ultimate Blueprint to Thriving in Spotify Ads</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-leading-mac-graphics-recorder/"><u>[Updated] In 2024, Leading Mac Graphics Recorder</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-key-strategies-for-high-definition-iptv-logging-for-2024/"><u>[Updated] Key Strategies for High-Definition IPTV Logging for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/wmvmov-movavi/"><u>免費在線WMV到MOV格式改換 - 以 Movavi 為解決方案</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-year-with-steam-deck-and-rouges-my-insights-after-a-decade-of-gaming/"><u>A Year with Steam Deck & Rouges: My Insights After a Decade of Gaming</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/adapt-to-remote-and-office-work-with-microsofts-latest-device-lineup-as-featured-by-zdnet/"><u>Adapt to Remote and Office Work with Microsoft's Latest Device Lineup, as Featured by ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/alleviate-mouse-disruptions-in-windows-7-dell/"><u>Alleviate Mouse Disruptions in Windows 7 Dell</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-exclusive-preview-cut-compilation/"><u>In 2024, Exclusive Preview Cut Compilation</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/microsoft-steps-up-in-iot-as-google-pulls-out-the-future-of-smart-devices/"><u>Microsoft Steps Up in IoT as Google Pulls Out: The Future of Smart Devices</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/microsoft-unveils-competitive-edge-with-new-copilotplus-pc-against-apples-m3-powered-macbooks-zdnet/"><u>Microsoft Unveils Competitive Edge with New Copilot+ PC Against Apple's M3 Powered MacBooks - ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/navigating-user-types-in-windows-11-setup-expert-tips-for-an-effortless-choice-pcmagazine/"><u>Navigating User Types in Windows 11 Setup: Expert Tips for an Effortless Choice | PCMagazine</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sony-a6400-the-unseen-movie-problem/"><u>Sony A6400 The Unseen Movie Problem</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/the-ticking-clock-for-microsoft-addressing-major-windows-11-issues-in-a-race-against-time-zdnet-insights/"><u>The Ticking Clock for Microsoft: Addressing Major Windows 11 Issues in a Race Against Time | ZDNET Insights</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unveiling-bing-chats-dark-mode-feature-easily-activate-for-night-owls-zdnet/"><u>Unveiling Bing Chat's Dark Mode Feature - Easily Activate for Night Owls | ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unveiling-microsofts-controversial-strategy-another-reason-for-user-discontent-analysis-by-zdnet/"><u>Unveiling Microsoft’s Controversial Strategy: Another Reason for User Discontent? - Analysis by ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/upcoming-roadmap-for-microsoft-revolutionary-shift-in-cloud-computing-advertising-and-hardware-integration/"><u>Upcoming Roadmap for Microsoft: Revolutionary Shift in Cloud Computing, Advertising & Hardware Integration</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-11-challenges-microsofts-race-against-time-within-just-one-year-technews-today/"><u>Windows 11 Challenges: Microsoft's Race Against Time Within Just One Year | TechNews Today</u></a></li>
+</ul></div>
 

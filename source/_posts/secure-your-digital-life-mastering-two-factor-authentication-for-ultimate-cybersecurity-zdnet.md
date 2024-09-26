@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Life: Mastering Two-Factor Authentication for Ultimate Cybersecurity | ZDNet"
-date: 2024-09-18T23:58:49.610Z
-updated: 2024-09-20T19:02:21.251Z
+date: 2024-09-24T22:40:34.265Z
+updated: 2024-09-26T00:45:49.632Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -180,5 +194,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-a-collection-of-the-most-engrossing-amusing-ig-accounts-for-2024/"><u>[Updated] A Collection of The Most Engrossing, Amusing IG Accounts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-proper-mastery-of-quick-mac-recording-shortcut-strategies-at-hand/"><u>[Updated] Proper Mastery of Quick Mac Recording Shortcut Strategies at Hand</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-buyers-compass-to-choosing-correctly-between-surge-protectors/"><u>A Buyer's Compass to Choosing Correctly Between Surge Protectors</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/crossover-version-23-enhances-windows-game-experience-across-mac-os-chrome-os-and-linux-devices/"><u>CrossOver Version 23 Enhances Windows Game Experience Across Mac OS, Chrome OS & Linux Devices</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/cutting-edge-computing-redefined-in-depth-analysis-of-the-lightest-4k-oled-laptop-on-market-acers-swift-edge-showcase/"><u>Cutting-Edge Computing Redefined: In-Depth Analysis of the Lightest 4K OLED Laptop on Market - Acer's Swift Edge Showcase</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elevating-speech-understanding-via-google-translate/"><u>Elevating Speech Understanding via Google Translate</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/extending-the-lifespan-of-your-old-iphone-unlock-its-potential-with-our-revolutionary-flash-drive-zdnet/"><u>Extending the Lifespan of Your Old iPhone: Unlock Its Potential with Our Revolutionary Flash Drive | ZDNET</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/fast-track-termination-of-slow-programs-with-a-secret-win11-feature-discover-how-on-zdnet/"><u>Fast-Track Termination of Slow Programs with a Secret Win11 Feature - Discover How on ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/find-your-ideal-ergonomic-chair-for-a-standing-desk-expert-picks-of-2023/"><u>Find Your Ideal Ergonomic Chair for a Standing Desk – Expert Picks of 2023!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-an-authoritative-voice-for-medical-insights/"><u>Is ChatGPT an Authoritative Voice for Medical Insights?</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/microsoft-plans-another-overhaul-of-windows-update-timetable-insider-insights-from-zdnet/"><u>Microsoft Plans Another Overhaul of Windows Update Timetable: Insider Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-setup-professional-pioneer-dj-ddj-sx2-controller-driver-download-now/"><u>Quick Setup: Professional Pioneer DJ DDJ-SX2 Controller Driver Download Now</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/transformez-vos-fichiers-swf-en-avi-sans-frais-grace-au-convertisseur-en-ligne-movavi-solution-optimisee-seo/"><u>Transformez Vos Fichiers SWF en AVI Sans Frais Grâce Au Convertisseur en Ligne Movavi - Solution Optimisée SEO</u></a></li>
+</ul></div>
 

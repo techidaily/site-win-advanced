@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Dev Routines: The Impact of GPT-Based Tech on Programmer Efficiency - Perspectives by ZDNet"
-date: 2024-09-17T23:45:57.854Z
-updated: 2024-09-20T16:28:10.457Z
+date: 2024-09-22T23:32:20.854Z
+updated: 2024-09-25T19:45:46.198Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -134,6 +141,13 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -180,5 +194,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-advanced.techidaily.com/1-how-to-customize-your-own-photo-slideshow-dimensions-and-hues-in-flipbook-flipbuilder-guide/"><u>1. How to Customize Your Own Photo Slideshow Dimensions and Hues in FlipBook - FlipBuilder Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-celebrating-the-premier-25-ones-to-watch-on-insta/"><u>2024 Approved Celebrating the Premier 25 Ones to Watch on Insta</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-understanding-and-leveraging-telegram-browser-features/"><u>2024 Approved Understanding and Leveraging Telegram Browser Features</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-the-secrets-capturing-apple-devices-for-engaging-videos/"><u>2024 Approved Unlock the Secrets Capturing Apple Devices for Engaging Videos</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/adding-timestamps-to-rtf-and-txt-files-when-converting-with-flash-books-using-flipbuildercom/"><u>Adding Timestamps to RTF and TXT Files when Converting with Flash Books Using FlipBuilder.com</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/adjusting-flash-window-colors-in-your-flipbook-projects-tips-and-tricks/"><u>Adjusting Flash Window Colors in Your FlipBook Projects - Tips & Tricks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-stable-solutions-resolving-oxygen-not-included-game-crashes/"><u>How to Fix Stable Solutions: Resolving Oxygen Not Included Game Crashes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-gif-mastery-on-your-desktop/"><u>In 2024, Twitter Gif Mastery on Your Desktop</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-the-art-of-pc-games-screen-capture/"><u>In 2024, Unlocking the Art of PC Games Screen Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-setup-a-comprehensive-guide-for-windows-1110-users/"><u>Mastering Bluetooth Setup: A Comprehensive Guide for Windows 11/10 Users</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mp4m4atop5/"><u>MP4ファイルをM4Aに変換する人気無料ツールTOP5: 高画質音声楽しむ方法</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/pcweverse/"><u>PC用にWeverseのスクリーン録画テクニックを学ぶ</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tailoring-your-computer-to-run-intel-drivers-successfully/"><u>Tailoring Your Computer to Run Intel Drivers Successfully</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-rated-kodi-matrix-tv-interface-comprehensive-guide-on-19-must-have-addons-regular-updates/"><u>Top Rated Kodi Matrix TV Interface: Comprehensive Guide on 19 Must-Have Addons - Regular Updates</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-wax-how-to-use-free-video-editor-wax-to-edit-videos/"><u>Updated 2024 Approved Wax - How to Use Free Video Editor Wax to Edit Videos</u></a></li>
+</ul></div>
 

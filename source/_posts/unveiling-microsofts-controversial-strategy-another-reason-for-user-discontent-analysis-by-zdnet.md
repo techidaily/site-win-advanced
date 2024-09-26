@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft’s Controversial Strategy: Another Reason for User Discontent? - Analysis by ZDNet"
-date: 2024-09-17T19:03:02.136Z
-updated: 2024-09-21T06:53:33.539Z
+date: 2024-09-22T20:12:05.097Z
+updated: 2024-09-26T00:16:03.685Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,9 +135,23 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-final-cut-pros-essential-effect-enhancers-the-top-10-selection/"><u>[New] Final Cut Pro’s Essential Effect Enhancers The Top 10 Selection</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-create-high-impact-educational-videotutorials/"><u>[New] How to Create High-Impact Educational Videotutorials</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-insta-perfect-pivoting-mastering-video-angles-for-social-success/"><u>[New] In 2024, Insta Perfect Pivoting Mastering Video Angles for Social Success</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-snapedit-fundamentals-for-budding-photographers-for-2024/"><u>[New] Snapedit Fundamentals for Budding Photographers for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-parrot-bebop-2-review/"><u>[Updated] In 2024, Parrot Bebop 2 Review</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726026454554-tiktok/"><u>「TikTokのコピー不可能な映像をどうやって保存しますか?」</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/2024webm9/"><u>【2024年度】ベストのWebMフリーコンバーター9つ！</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/5puy5lit44gr5yq55p6c55qe44gq6zplusz5aowlplusayoowdjplusiomommsuobruocsplusodha/"><u>曲中に効果的な音声/映像記録のコツ</u></a></li>
+<li><a href="https://facebook.techidaily.com/banishing-your-online-profile-a-guide-to-deletion/"><u>Banishing Your Online Profile: A Guide to Deletion</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/comprehensive-tutorial-on-converting-3gp-files-into-flv-with-ease/"><u>Comprehensive Tutorial on Converting .3Gp Files Into .flv with Ease</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/enhance-your-vlc-experience-top-7-tips-for-seamless-4k-viewing/"><u>Enhance Your VLC Experience: Top 7 Tips for Seamless 4K Viewing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/evaluating-alternatives-to-magixs-acid-pro/"><u>Evaluating Alternatives to Magix's ACID Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y17s-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y17s to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mastering-the-art-of-subtitle-extraction-from-digital-footage/"><u>Mastering the Art of Subtitle Extraction From Digital Footage</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mastering-video-codecs-for-ps4-and-ps5-installing-h265-support-step-by-step/"><u>Mastering Video Codecs for PS4 & PS5: Installing H.265 Support Step-by-Step</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/seamlessly-watch-flv-content-on-ios-devices-a-simple-tutorial/"><u>Seamlessly Watch FLV Content on iOS Devices - A Simple Tutorial</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unboxing-flight-comprehensive-guide-to-dji-phantom-4-for-2024/"><u>Unboxing Flight Comprehensive Guide to DJI Phantom 4 for 2024</u></a></li>
+</ul></div>
 

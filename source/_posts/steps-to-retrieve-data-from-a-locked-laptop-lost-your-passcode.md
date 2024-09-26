@@ -1,7 +1,7 @@
 ---
 title: "Steps to Retrieve Data From a Locked Laptop: Lost Your Passcode?"
-date: 2024-09-18T06:13:54.531Z
-updated: 2024-09-21T01:41:05.178Z
+date: 2024-09-24T20:43:27.908Z
+updated: 2024-09-25T19:46:22.503Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -92,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -165,5 +179,20 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-zooming-in-to-the-heart-of-roleplay-robloxs-close-up-guide/"><u>[New] 2024 Approved Zooming In to the Heart of Roleplay Roblox's Close-Up Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-5-key-players-to-triple-your-youtube-views-for-2024/"><u>[New] The 5 Key Players to Triple Your YouTube Views for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-amazons-social-stardom-liking-and-viewing-leaderships/"><u>[Updated] Amazon's Social Stardom Liking and Viewing Leaderships</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-enhancing-your-drones-visual-capabilities-with-the-right-camera-gimbals/"><u>[Updated] In 2024, Enhancing Your Drones' Visual Capabilities with The Right Camera Gimbals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unmatched-warfare-discovering-the-prime-7-total-war-battles-for-2024/"><u>[Updated] Unmatched Warfare Discovering the Prime 7 Total War Battles for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-and-download-microsofts-virtual-academy-lessons-as-high-quality-video-files-mp4wmvaviflv/"><u>Convert and Download Microsoft's Virtual Academy Lessons as High-Quality Video Files (MP4/WMV/AVI/FLV)</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-any-audio-link-into-an-mp3-file-with-ease-for-pc-and-mac/"><u>Convert Any Audio Link Into an MP3 File with Ease - For PC & Mac</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-your-favorite-youtube-videos-into-premium-mp3-files-with-image-thumbnails/"><u>Convert Your Favorite YouTube Videos Into Premium MP3 Files With Image Thumbnails</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/converting-vimeo-content-into-itunes-compatible-formats-mp4-mov-mp3/"><u>Converting Vimeo Content Into iTunes Compatible Formats (MP4, MOV, MP3)</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/download-deezer-tracks-in-lossless-flac-format-and-preserve-album-covers-for-an-enhanced-listening-experience/"><u>Download Deezer Tracks in Lossless FLAC Format and Preserve Album Covers for an Enhanced Listening Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-power-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y100i Power 5G Phone Without Password?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-gaming-performance-in-windows-11-the-importance-of-disabling-mouse-acceleration/"><u>Maximizing Gaming Performance in Windows 11: The Importance of Disabling Mouse Acceleration</u></a></li>
+<li><a href="https://win-able.techidaily.com/titanfall-2-stability-issues-heres-how-you-can-fix-the-game-crashes-instantly/"><u>Titanfall 2 Stability Issues? Here's How You Can Fix the Game Crashes Instantly</u></a></li>
+</ul></div>
 
