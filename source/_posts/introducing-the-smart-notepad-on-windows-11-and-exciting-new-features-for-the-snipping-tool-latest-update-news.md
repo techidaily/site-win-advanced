@@ -1,7 +1,7 @@
 ---
 title: Introducing the Smart Notepad on Windows 11 and Exciting New Features For The Snipping Tool | Latest Update News.
-date: 2024-09-21T18:14:24.228Z
-updated: 2024-09-26T01:31:28.665Z
+date: 2024-09-27T23:57:27.888Z
+updated: 2024-09-30T08:34:46.424Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mobile-filmmaking-tips-designing-engaging-youtubes-thumbnails/"><u>[Updated] Mobile Filmmaking Tips Designing Engaging YouTubes Thumbnails</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-seamless-video-conversion-tool-transform-your-fc2-files-into-various-formats-including-mp4-wmv-and-avi/"><u>1. Seamless Video Conversion Tool: Transform Your FC2 Files Into Various Formats Including MP4, WMV & AVI</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/access-beacon-live-show-download-episodes-anytime-pc-and-mac-compatible/"><u>Access Beacon Live Show: Download Episodes Anytime, PC & Mac Compatible</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-flickering-screens-windows-11-edition/"><u>Banishing Flickering Screens: Windows 11 Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/easy-instructions-for-disabling-and-deleting-chatgpt-accounts/"><u>Easy Instructions for Disabling and Deleting ChatGPT Accounts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-concept-to-reality-10-best-music-video-making-platforms-for-2024/"><u>From Concept to Reality 10 Best Music Video Making Platforms for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-realme-narzo-n53-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Realme Narzo N53 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/"><u>iPhone Data Recovery Software</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/real-time-stream-recorder-capture-and-save-live-broadcasts-from-livestream-and-vimeo/"><u>Real-Time Stream Recorder: Capture and Save Live Broadcasts From Livestream & Vimeo</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/step-by-step-tutorial-on-downloading-and-saving-gamepro-tv-shows-as-mp4-mov-avi-or-mp3-files/"><u>Step-by-Step Tutorial on Downloading and Saving GamePro TV Shows as MP4, MOV, AVI, or MP3 Files</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/step-by-step-tutorial-on-saving-chess-tournament-videos-as-high-quality-mp4-mov-or-avi-files-for-personal-use/"><u>Step-by-Step Tutorial on Saving Chess Tournament Videos as High-Quality MP4, MOV, or AVI Files for Personal Use</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/video-extractor-efficiently-convert-and-save-patreon-content-as-mp4movavi-files/"><u>Video Extractor: Efficiently Convert and Save Patreon Content as MP4/MOV/AVI Files</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-se-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone SE files after scanning? | Stellar</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-harmonizing-horizons-easy-steps-for-sharing-soundtracks/"><u>[New] In 2024, Harmonizing Horizons Easy Steps for Sharing Soundtracks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-strategies-for-hiring-superior-cinematographers/"><u>[Updated] In 2024, Strategies for Hiring Superior Cinematographers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-integrating-social-features-for-playlist-dissemination/"><u>[Updated] Integrating Social Features for Playlist Dissemination</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-time-plan-and-record-slack-plus-filmora-meetings-for-2024/"><u>[Updated] Mastering Time Plan & Record Slack + Filmora Meetings for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlining-group-chats-on-skype-for-dual-os-environments-for-2024/"><u>[Updated] Streamlining Group Chats on Skype for Dual OS Environments for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-podcast-logo-design-for-maximum-impact/"><u>2024 Approved The Art of Podcast Logo Design for Maximum Impact</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/a-decade-of-consequences-microsofts-enduring-struggle-with-past-mobile-errors-insights-from-zdnet/"><u>A Decade of Consequences: Microsoft's Enduring Struggle with Past Mobile Errors - Insights From ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/discover-the-exciting-enhancements-in-windows-11s-most-recent-update-tech-insights/"><u>Discover the Exciting Enhancements in Windows 11'S Most Recent Update | Tech Insights</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/dont-risk-security-breach-microsoft-ends-support-for-win-11-21h2-22h2-immediate-update-required-now/"><u>Don't Risk Security Breach: Microsoft Ends Support for Win 11 21H2, 22H2 – Immediate Update Required Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-brother-dcp-l2540dw-printer-driver-on-windows-pc/"><u>Download and Install Brother DCP-L2540DW Printer Driver on Windows PC</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-choose-a-cost-effective-surface-pro-model-without-compromising-quality-a-personal-experience/"><u>How to Choose a Cost-Effective Surface Pro Model Without Compromising Quality - A Personal Experience.</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/master-top-rated-task-automation-with-microsoft-get-started-on-presidents-day-special-at-just-20-exclusive-offer/"><u>Master Top-Rated Task Automation with Microsoft: Get Started on President's Day Special at Just $20 - Exclusive Offer!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-techniques-broadcasting-via-obs-to-facebook-for-2024/"><u>Optimizing Techniques Broadcasting via OBS to Facebook for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/startling-discovery-a-look-into-microsofts-groundbreaking-research-on-changes-to-modern-work-practices-based-on-a-whopping-31000-responses/"><u>Startling Discovery! A Look Into Microsoft's Groundbreaking Research on Changes to Modern Work Practices, Based on a Whopping 31,000 Responses</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/streamline-your-inbox-overnight-using-simple-organization-tricks-say-goodbye-to-clutter-without-multiple-emails-smarttechhacks/"><u>Streamline Your Inbox Overnight Using Simple Organization Tricks - Say Goodbye to Clutter Without Multiple Emails | SmartTechHacks</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/the-role-of-microsoft-windows-in-shaping-the-future-of-work-from-home-and-office-integration/"><u>The Role of Microsoft Windows in Shaping the Future of Work-From-Home and Office Integration</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/why-mondly-is-perfect-for-your-first-steps-into-afrikaans/"><u>Why Mondly Is Perfect for Your First Steps Into Afrikaans</u></a></li>
 </ul></div>
 

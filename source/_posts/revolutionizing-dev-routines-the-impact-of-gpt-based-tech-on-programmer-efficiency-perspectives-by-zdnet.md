@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Dev Routines: The Impact of GPT-Based Tech on Programmer Efficiency - Perspectives by ZDNet"
-date: 2024-09-22T23:32:20.854Z
-updated: 2024-09-25T19:45:46.198Z
+date: 2024-09-26T09:52:48.615Z
+updated: 2024-09-29T20:11:23.054Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-advanced.techidaily.com/1-how-to-customize-your-own-photo-slideshow-dimensions-and-hues-in-flipbook-flipbuilder-guide/"><u>1. How to Customize Your Own Photo Slideshow Dimensions and Hues in FlipBook - FlipBuilder Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-celebrating-the-premier-25-ones-to-watch-on-insta/"><u>2024 Approved Celebrating the Premier 25 Ones to Watch on Insta</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-understanding-and-leveraging-telegram-browser-features/"><u>2024 Approved Understanding and Leveraging Telegram Browser Features</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-the-secrets-capturing-apple-devices-for-engaging-videos/"><u>2024 Approved Unlock the Secrets Capturing Apple Devices for Engaging Videos</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/adding-timestamps-to-rtf-and-txt-files-when-converting-with-flash-books-using-flipbuildercom/"><u>Adding Timestamps to RTF and TXT Files when Converting with Flash Books Using FlipBuilder.com</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/adjusting-flash-window-colors-in-your-flipbook-projects-tips-and-tricks/"><u>Adjusting Flash Window Colors in Your FlipBook Projects - Tips & Tricks</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-stable-solutions-resolving-oxygen-not-included-game-crashes/"><u>How to Fix Stable Solutions: Resolving Oxygen Not Included Game Crashes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitter-gif-mastery-on-your-desktop/"><u>In 2024, Twitter Gif Mastery on Your Desktop</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unlocking-the-art-of-pc-games-screen-capture/"><u>In 2024, Unlocking the Art of PC Games Screen Capture</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-bluetooth-setup-a-comprehensive-guide-for-windows-1110-users/"><u>Mastering Bluetooth Setup: A Comprehensive Guide for Windows 11/10 Users</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/mp4m4atop5/"><u>MP4ファイルをM4Aに変換する人気無料ツールTOP5: 高画質音声楽しむ方法</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/pcweverse/"><u>PC用にWeverseのスクリーン録画テクニックを学ぶ</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/tailoring-your-computer-to-run-intel-drivers-successfully/"><u>Tailoring Your Computer to Run Intel Drivers Successfully</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-rated-kodi-matrix-tv-interface-comprehensive-guide-on-19-must-have-addons-regular-updates/"><u>Top Rated Kodi Matrix TV Interface: Comprehensive Guide on 19 Must-Have Addons - Regular Updates</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-wax-how-to-use-free-video-editor-wax-to-edit-videos/"><u>Updated 2024 Approved Wax - How to Use Free Video Editor Wax to Edit Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-eliminating-exposure-how-to-conceal-private-video-sections/"><u>[New] In 2024, Eliminating Exposure How to Conceal Private Video Sections</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-full-potential-with-final-cut-pro/"><u>[New] Unlocking Full Potential with Final Cut Pro</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-roadmap-to-irresistible-podcast-intros-and-exits/"><u>[Updated] In 2024, The Roadmap to Irresistible Podcast Intros and Exits</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-narzo-n55-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme Narzo N55 without App | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-tecno-spark-20-proplus-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effortless-sohu-tv-content-downloading-get-high-quality-videos-as-mp4movavi-with-our-best-media-grabber-tool/"><u>Effortless Sohu TV Content Downloading - Get High-Quality Videos as MP4/MOV/AVI with Our Best Media Grabber Tool</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/sive-guide-choosing-among-top-9-free-logo-creators-for-2024/"><u>Exclusive Guide Choosing Among Top 9 Free Logo Creators for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/free-mac-software-convert-and-download-youtube-videos-as-mp4movavi/"><u>Free Mac Software: Convert & Download YouTube Videos as MP4/MOV/AVI</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-family-flicks-for-kids-free-movie-downloads-in-multiple-formats-via-kid-movie-downloader/"><u>Get Family Flicks for Kids - Free Movie Downloads in Multiple Formats via Kid Movie Downloader</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-kuwo-hit-songs-music-videos-and-charts-high-quality-downloads-in-mp3wav-for-every-category/"><u>Get Kuwo Hit Songs, Music Videos & Charts - High-Quality Downloads in MP3/WAV for Every Category</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-microsoft-va-training-content-in-multiple-formats-mp4-wmv-avi-and-flv/"><u>Get Microsoft VA Training Content in Multiple Formats: MP4, WMV, AVI & FLV</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/guide-on-converting-and-downloading-ethiotube-media-files-into-popular-video-and-audio-formats/"><u>Guide on Converting and Downloading EthioTube Media Files Into Popular Video & Audio Formats.</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/guide-to-converting-flowplayer-media-to-mp4avi-formats-tips-for-macos-and-windows-users/"><u>Guide to Converting Flowplayer Media to MP4/AVI Formats: Tips for macOS & Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-idevice-stalled-updates-a-guide-with-six-effective-strategies/"><u>Overcome iDevice Stalled Updates: A Guide with Six Effective Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/superior-liquid-cooling-solution-for-gamers-the-new-moora-iv-600-featuring-a-35lbs-radiator-and-9x-200mm-fans-at-600-price-point/"><u>Superior Liquid Cooling Solution for Gamers: The New MOORA IV 600 - Featuring a 35Lbs Radiator & 9X 200MM Fans at ~$600 Price Point</u></a></li>
 </ul></div>
 

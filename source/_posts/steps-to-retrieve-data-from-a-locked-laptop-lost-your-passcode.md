@@ -1,7 +1,7 @@
 ---
 title: "Steps to Retrieve Data From a Locked Laptop: Lost Your Passcode?"
-date: 2024-09-24T20:43:27.908Z
-updated: 2024-09-25T19:46:22.503Z
+date: 2024-09-28T14:21:53.023Z
+updated: 2024-09-30T10:23:55.793Z
 tags:
   - windows
 categories:
@@ -44,10 +44,16 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +91,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +187,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-zooming-in-to-the-heart-of-roleplay-robloxs-close-up-guide/"><u>[New] 2024 Approved Zooming In to the Heart of Roleplay Roblox's Close-Up Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-5-key-players-to-triple-your-youtube-views-for-2024/"><u>[New] The 5 Key Players to Triple Your YouTube Views for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-amazons-social-stardom-liking-and-viewing-leaderships/"><u>[Updated] Amazon's Social Stardom Liking and Viewing Leaderships</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-enhancing-your-drones-visual-capabilities-with-the-right-camera-gimbals/"><u>[Updated] In 2024, Enhancing Your Drones' Visual Capabilities with The Right Camera Gimbals</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unmatched-warfare-discovering-the-prime-7-total-war-battles-for-2024/"><u>[Updated] Unmatched Warfare Discovering the Prime 7 Total War Battles for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/convert-and-download-microsofts-virtual-academy-lessons-as-high-quality-video-files-mp4wmvaviflv/"><u>Convert and Download Microsoft's Virtual Academy Lessons as High-Quality Video Files (MP4/WMV/AVI/FLV)</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/convert-any-audio-link-into-an-mp3-file-with-ease-for-pc-and-mac/"><u>Convert Any Audio Link Into an MP3 File with Ease - For PC & Mac</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/convert-your-favorite-youtube-videos-into-premium-mp3-files-with-image-thumbnails/"><u>Convert Your Favorite YouTube Videos Into Premium MP3 Files With Image Thumbnails</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/converting-vimeo-content-into-itunes-compatible-formats-mp4-mov-mp3/"><u>Converting Vimeo Content Into iTunes Compatible Formats (MP4, MOV, MP3)</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/download-deezer-tracks-in-lossless-flac-format-and-preserve-album-covers-for-an-enhanced-listening-experience/"><u>Download Deezer Tracks in Lossless FLAC Format and Preserve Album Covers for an Enhanced Listening Experience</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-power-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y100i Power 5G Phone Without Password?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-gaming-performance-in-windows-11-the-importance-of-disabling-mouse-acceleration/"><u>Maximizing Gaming Performance in Windows 11: The Importance of Disabling Mouse Acceleration</u></a></li>
-<li><a href="https://win-able.techidaily.com/titanfall-2-stability-issues-heres-how-you-can-fix-the-game-crashes-instantly/"><u>Titanfall 2 Stability Issues? Here's How You Can Fix the Game Crashes Instantly</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>[New] 2024 Approved Add Shimmer to Photos Illustrator's Motion Blur Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-trimming-the-extras-a-practical-guide-to-instagram-video-edits/"><u>[New] 2024 Approved Trimming the Extras A Practical Guide to Instagram Video Edits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-linux-screenshot-the-most-acclaimed-applications/"><u>[Updated] 2024 Approved Linux Screenshot The Most Acclaimed Applications</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-perfect-methods-for-computer-based-vhs-artistic-touches/"><u>2024 Approved Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/approaches-to-tackle-error-0x800700e1-on-windows-11-devices/"><u>Approaches to Tackle Error 0X800700E1 on Windows 11 Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-guide-to-editing-full-degree-videos-with-premiere-pro/"><u>Essential Guide to Editing Full Degree Videos with Premiere Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone SE</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/microsoft-unveils-competitive-edge-with-new-copilotplus-pc-against-apples-m3-powered-macbooks-zdnet/"><u>Microsoft Unveils Competitive Edge with New Copilot+ PC Against Apple's M3 Powered MacBooks - ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/navigating-user-types-in-windows-11-setup-expert-tips-for-an-effortless-choice-pcmagazine/"><u>Navigating User Types in Windows 11 Setup: Expert Tips for an Effortless Choice | PCMagazine</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-mapi32dll-file-not-found-comprehensive-troubleshooting-guide/"><u>Resolving 'Mapi32.dll' File Not Found: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/revolutionizing-dev-routines-the-impact-of-gpt-based-tech-on-programmer-efficiency-perspectives-by-zdnet/"><u>Revolutionizing Dev Routines: The Impact of GPT-Based Tech on Programmer Efficiency - Perspectives by ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/the-ticking-clock-for-microsoft-addressing-major-windows-11-issues-in-a-race-against-time-zdnet-insights/"><u>The Ticking Clock for Microsoft: Addressing Major Windows 11 Issues in a Race Against Time | ZDNET Insights</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unveiling-bing-chats-dark-mode-feature-easily-activate-for-night-owls-zdnet/"><u>Unveiling Bing Chat's Dark Mode Feature - Easily Activate for Night Owls | ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/upcoming-roadmap-for-microsoft-revolutionary-shift-in-cloud-computing-advertising-and-hardware-integration/"><u>Upcoming Roadmap for Microsoft: Revolutionary Shift in Cloud Computing, Advertising & Hardware Integration</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-11-challenges-microsofts-race-against-time-within-just-one-year-technews-today/"><u>Windows 11 Challenges: Microsoft's Race Against Time Within Just One Year | TechNews Today</u></a></li>
 </ul></div>
 

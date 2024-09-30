@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Life: Mastering Two-Factor Authentication for Ultimate Cybersecurity | ZDNet"
-date: 2024-09-24T22:40:34.265Z
-updated: 2024-09-26T00:45:49.632Z
+date: 2024-09-25T20:07:52.627Z
+updated: 2024-09-30T05:05:00.140Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-a-collection-of-the-most-engrossing-amusing-ig-accounts-for-2024/"><u>[Updated] A Collection of The Most Engrossing, Amusing IG Accounts for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-proper-mastery-of-quick-mac-recording-shortcut-strategies-at-hand/"><u>[Updated] Proper Mastery of Quick Mac Recording Shortcut Strategies at Hand</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-buyers-compass-to-choosing-correctly-between-surge-protectors/"><u>A Buyer's Compass to Choosing Correctly Between Surge Protectors</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/crossover-version-23-enhances-windows-game-experience-across-mac-os-chrome-os-and-linux-devices/"><u>CrossOver Version 23 Enhances Windows Game Experience Across Mac OS, Chrome OS & Linux Devices</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/cutting-edge-computing-redefined-in-depth-analysis-of-the-lightest-4k-oled-laptop-on-market-acers-swift-edge-showcase/"><u>Cutting-Edge Computing Redefined: In-Depth Analysis of the Lightest 4K OLED Laptop on Market - Acer's Swift Edge Showcase</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/elevating-speech-understanding-via-google-translate/"><u>Elevating Speech Understanding via Google Translate</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/extending-the-lifespan-of-your-old-iphone-unlock-its-potential-with-our-revolutionary-flash-drive-zdnet/"><u>Extending the Lifespan of Your Old iPhone: Unlock Its Potential with Our Revolutionary Flash Drive | ZDNET</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/fast-track-termination-of-slow-programs-with-a-secret-win11-feature-discover-how-on-zdnet/"><u>Fast-Track Termination of Slow Programs with a Secret Win11 Feature - Discover How on ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/find-your-ideal-ergonomic-chair-for-a-standing-desk-expert-picks-of-2023/"><u>Find Your Ideal Ergonomic Chair for a Standing Desk – Expert Picks of 2023!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-chatgpt-an-authoritative-voice-for-medical-insights/"><u>Is ChatGPT an Authoritative Voice for Medical Insights?</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/microsoft-plans-another-overhaul-of-windows-update-timetable-insider-insights-from-zdnet/"><u>Microsoft Plans Another Overhaul of Windows Update Timetable: Insider Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-setup-professional-pioneer-dj-ddj-sx2-controller-driver-download-now/"><u>Quick Setup: Professional Pioneer DJ DDJ-SX2 Controller Driver Download Now</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/transformez-vos-fichiers-swf-en-avi-sans-frais-grace-au-convertisseur-en-ligne-movavi-solution-optimisee-seo/"><u>Transformez Vos Fichiers SWF en AVI Sans Frais Grâce Au Convertisseur en Ligne Movavi - Solution Optimisée SEO</u></a></li>
+<li><a href="https://network-issues.techidaily.com/corrected-halo-tt-fail-to-launch-dx12-windows-error/"><u>[CORRECTED] Halo: TT Fail to Launch - DX12 Windows Error</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-moving-data-quick-techniques-to-send-files-to-your-computer/"><u>[Updated] Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027779212-datmp4/"><u>複雑さ無くDATファイルをMP4に容易に変更するチュートリアル</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-gt-neo-5-se-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme GT Neo 5 SE? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-x-flip-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo X Flip? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easy-tutorial-for-transforming-quicktime-videos-into-prores-on-microsofts-latest-operating-systems/"><u>Easy Tutorial for Transforming QuickTime Videos Into ProRes on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhanced-traffic-with-cutting-edge-cookiebot-technology/"><u>Enhanced Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://fox-access.techidaily.com/how-lgs-27uhd68-enhances-gaming-experience-for-2024/"><u>How LG's 27UHD68 Enhances Gaming Experience for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-se-2020-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone SE (2020) Apple ID on MacBook</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mp4m4atop5/"><u>MP4ファイルをM4Aに変換する人気無料ツールTOP5: 高画質音声楽しむ方法</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/revive-lost-contacts-on-your-iphone-with-these-easy-fixes/"><u>Revive Lost Contacts on Your iPhone with These Easy Fixes</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-rated-avcleaner-software-perfect-for-converting-dvds-to-avi-format-on-windows-1011/"><u>Top Rated AVCleaner Software: Perfect for Converting DVDs to Avi Format on Windows 10/11</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/ultimate-guide-top-5-universal-hdri-players-of-2024/"><u>Ultimate Guide: Top 5 Universal HDRI Players of 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/understanding-the-laws-on-dvd-copying-a-comprehensive-overview/"><u>Understanding the Laws on DVD Copying: A Comprehensive Overview</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/warzone-on-your-screen-discover-the-best-strategies-to-record-and-share-gameplay-on-pc-with-our-expert-tips-methodologies-explained/"><u>Warzone on Your Screen: Discover the Best Strategies to Record and Share Gameplay on PC with Our Expert Tips (Methodologies Explained)</u></a></li>
 </ul></div>
 

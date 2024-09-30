@@ -1,7 +1,7 @@
 ---
 title: "Act Fast: Critical Update for Windows 11 (Builds 21H2 and 22H2) Before Support Terminates"
-date: 2024-09-22T20:01:56.875Z
-updated: 2024-09-25T16:32:16.302Z
+date: 2024-09-26T03:53:56.575Z
+updated: 2024-09-30T05:35:06.672Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-for-entering-google-meet-via-devices-for-2024/"><u>[New] Step-by-Step for Entering Google Meet via Devices for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-steelseries-arctis-1-mic-not-working/"><u>[SOLVED] SteelSeries Arctis 1 Mic Not Working</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-speedy-resizing-your-youtube-videos-for-mac-view/"><u>[Updated] Speedy Resizing Your Youtube Videos for Mac View</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1726027743843-clipchamp/"><u>Clipchampにてビデオからスチルショットを抽出可能か教えてください</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-launch-errors-in-robocop-rogue-city-on-your-windows-computer/"><u>Fixing Launch Errors in 'RoboCop: Rogue City' On Your Windows Computer</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-can-you-capture-and-save-archived-web-videos-using-the-wayback-machine/"><u>How Can You Capture and Save Archived Web Videos Using the Wayback Machine?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-unlocking-potential-your-ultimate-youtube-facebook-transition-guide/"><u>In 2024, Unlocking Potential Your Ultimate YouTube-Facebook Transition Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/minify-window-dimensions-in-win-10/"><u>Minify Window Dimensions in WIN 10</u></a></li>
-<li><a href="https://os-tips.techidaily.com/phone-ring-holders-how-my-initial-dislike-turned-into-an-essential-accessory-for-me/"><u>Phone Ring Holders: How My Initial Dislike Turned Into an Essential Accessory for Me</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/quick-and-easy-tips-how-to-rotate-your-movies-using-three-windows-11-tricks/"><u>Quick & Easy Tips: How to Rotate Your Movies Using Three Windows 11 Tricks</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/tedpc/"><u>TED演説ビデオのPCとスマートフォンから簡単なダウンロードガイド</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/ultimate-guide-effortlessly-download-high-resolution-8k-footage-using-top-video-converter/"><u>Ultimate Guide: Effortlessly Download High-Resolution 8K Footage Using Top Video Converter</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/pc2/"><u>ウィンドウズPC用手描き動画製作入門：2コツで始められるアニメーション制作の方法</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-apps-best-10-software-to-capture-your-screens/"><u>[New] 2024 Approved Essential Apps Best 10 Software to Capture Your Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-turning-tides-in-the-social-stream-boosting-post-performance/"><u>[New] 2024 Approved Turning Tides in the Social Stream Boosting Post Performance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-youtube-content-with-free-music-sources-for-2024/"><u>[Updated] Enhancing YouTube Content with Free Music Sources for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-next-generation-of-social-video-periscopes-counterparts/"><u>[Updated] In 2024, The Next Generation of Social Video Periscope's Counterparts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-kinemasters-features-with-ease-ranked-by-best-opponent-games/"><u>[Updated] Master KineMaster's Features with Ease, Ranked by Best Opponent Games</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-expanding-horizinas-with-vlcs-versatile-conversion-capabilities/"><u>2024 Approved Expanding Horizinas with VLC's Versatile Conversion Capabilities</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-expert-tag-analyzer-devices-for-popular-platforms-fbtwitterinsta/"><u>2024 Approved Expert Tag Analyzer Devices for Popular Platforms (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-innovation-for-windows-and-mac-photo-to-cartoon-software/"><u>2024 Approved Image Innovation for Windows & Mac Photo-to-Cartoon Software</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/design-your-unique-book-jacket-using-flipbuilder-beginners-tutorial/"><u>Design Your Unique Book Jacket Using FlipBuilder - Beginner's Tutorial</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/download-our-free-pdf-to-jpg-converter-and-transform-documents-effortlessly-on-flipbuildercom/"><u>Download Our Free PDF-to-JPG Converter and Transform Documents Effortlessly on FlipBuilder.com</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easy-guide-on-enabling-pdf-printer-support-in-flipbuilder-for-instant-page-printing/"><u>Easy Guide on Enabling PDF Printer Support in FlipBuilder for Instant Page Printing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-add-multilingual-support-in-your-flipbooks-using-flipbuilder/"><u>How to Add Multilingual Support in Your Flipbooks Using FlipBuilder</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-convert-multiple-pdfs-into-separate-flipbooks-with-custom-file-names-via-flipbuildercom/"><u>How to Convert Multiple PDFs Into Separate Flipbooks with Custom File Names via FlipBuilder.com</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-customize-hyperlink-appearances-in-flipbook-change-link-colors-on-hover-with-flipbuilder-guidance/"><u>How To Customize Hyperlink Appearances in FlipBook - Change Link Colors On Hover with FlipBuilder Guidance</u></a></li>
 </ul></div>
 

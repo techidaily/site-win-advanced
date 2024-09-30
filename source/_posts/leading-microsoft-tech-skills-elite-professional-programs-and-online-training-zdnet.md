@@ -1,7 +1,7 @@
 ---
 title: "Leading Microsoft Tech Skills: Elite Professional Programs & Online Training - ZDNet"
-date: 2024-09-18T18:22:20.666Z
-updated: 2024-09-25T20:00:09.839Z
+date: 2024-09-26T02:32:56.161Z
+updated: 2024-09-30T04:42:18.370Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -129,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,24 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-blueprint-to-thriving-in-spotify-ads/"><u>[New] The Ultimate Blueprint to Thriving in Spotify Ads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-leading-mac-graphics-recorder/"><u>[Updated] In 2024, Leading Mac Graphics Recorder</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-key-strategies-for-high-definition-iptv-logging-for-2024/"><u>[Updated] Key Strategies for High-Definition IPTV Logging for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/wmvmov-movavi/"><u>免費在線WMV到MOV格式改換 - 以 Movavi 為解決方案</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-year-with-steam-deck-and-rouges-my-insights-after-a-decade-of-gaming/"><u>A Year with Steam Deck & Rouges: My Insights After a Decade of Gaming</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/adapt-to-remote-and-office-work-with-microsofts-latest-device-lineup-as-featured-by-zdnet/"><u>Adapt to Remote and Office Work with Microsoft's Latest Device Lineup, as Featured by ZDNet</u></a></li>
-<li><a href="https://driver-error.techidaily.com/alleviate-mouse-disruptions-in-windows-7-dell/"><u>Alleviate Mouse Disruptions in Windows 7 Dell</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-exclusive-preview-cut-compilation/"><u>In 2024, Exclusive Preview Cut Compilation</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/microsoft-steps-up-in-iot-as-google-pulls-out-the-future-of-smart-devices/"><u>Microsoft Steps Up in IoT as Google Pulls Out: The Future of Smart Devices</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/microsoft-unveils-competitive-edge-with-new-copilotplus-pc-against-apples-m3-powered-macbooks-zdnet/"><u>Microsoft Unveils Competitive Edge with New Copilot+ PC Against Apple's M3 Powered MacBooks - ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/navigating-user-types-in-windows-11-setup-expert-tips-for-an-effortless-choice-pcmagazine/"><u>Navigating User Types in Windows 11 Setup: Expert Tips for an Effortless Choice | PCMagazine</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sony-a6400-the-unseen-movie-problem/"><u>Sony A6400 The Unseen Movie Problem</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/the-ticking-clock-for-microsoft-addressing-major-windows-11-issues-in-a-race-against-time-zdnet-insights/"><u>The Ticking Clock for Microsoft: Addressing Major Windows 11 Issues in a Race Against Time | ZDNET Insights</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unveiling-bing-chats-dark-mode-feature-easily-activate-for-night-owls-zdnet/"><u>Unveiling Bing Chat's Dark Mode Feature - Easily Activate for Night Owls | ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unveiling-microsofts-controversial-strategy-another-reason-for-user-discontent-analysis-by-zdnet/"><u>Unveiling Microsoft’s Controversial Strategy: Another Reason for User Discontent? - Analysis by ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/upcoming-roadmap-for-microsoft-revolutionary-shift-in-cloud-computing-advertising-and-hardware-integration/"><u>Upcoming Roadmap for Microsoft: Revolutionary Shift in Cloud Computing, Advertising & Hardware Integration</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-11-challenges-microsofts-race-against-time-within-just-one-year-technews-today/"><u>Windows 11 Challenges: Microsoft's Race Against Time Within Just One Year | TechNews Today</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android/"><u>[New] 2024 Approved Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tricks-to-acquire-dry-stock-photography/"><u>[New] Tricks to Acquire Dry Stock Photography</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamline-your-tech-expertise-with-io-screen-recording/"><u>[Updated] 2024 Approved Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-free-sites-for-accessing-3d-text-psd-images/"><u>2024 Approved Top 8 Free Sites for Accessing 3D Text PSD Images</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/affordable-windows-laptop-showdown-which-brands-excel-acer-dell-and-beyond-reviewed-by-zdnet/"><u>Affordable Windows Laptop Showdown: Which Brands Excel? Acer, Dell & Beyond Reviewed by ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/choosing-the-right-windows-11-user-profile-tips-and-decision-guidelines-techadvice/"><u>Choosing the Right Windows 11 User Profile: Tips & Decision Guidelines | TechAdvice</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/critiquing-the-newest-microsoft-os-has-windows-11-earned-its-unpopular-status-too-quickly/"><u>Critiquing the Newest Microsoft OS: Has Windows 11 Earned Its Unpopular Status Too Quickly?</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/crossover-version-23-enhances-windows-game-experience-across-mac-os-chrome-os-and-linux-devices/"><u>CrossOver Version 23 Enhances Windows Game Experience Across Mac OS, Chrome OS & Linux Devices</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/cutting-edge-computing-redefined-in-depth-analysis-of-the-lightest-4k-oled-laptop-on-market-acers-swift-edge-showcase/"><u>Cutting-Edge Computing Redefined: In-Depth Analysis of the Lightest 4K OLED Laptop on Market - Acer's Swift Edge Showcase</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x6-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X6 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-perfecting-instagrams-audio-emoji-placement/"><u>In 2024, Perfecting Instagram's Audio Emoji Placement</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-protective-covers-for-ipad-pro-11-inch-models-in-2-user/"><u>Top-Rated Protective Covers for iPad Pro 11-Inch Models in 2# User</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029616120-flac/"><u>ハイレゾオーディオ圧縮形式FLACによるサウンド楽しみ方教えます</u></a></li>
 </ul></div>
 

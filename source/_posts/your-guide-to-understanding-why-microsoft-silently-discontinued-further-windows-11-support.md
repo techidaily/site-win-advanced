@@ -1,7 +1,7 @@
 ---
 title: Your Guide to Understanding Why Microsoft Silently Discontinued Further Windows 11 Support
-date: 2024-09-20T19:13:10.003Z
-updated: 2024-09-25T18:57:17.680Z
+date: 2024-09-24T09:04:33.286Z
+updated: 2024-09-30T14:30:22.831Z
 tags:
   - windows
 categories:
@@ -27,18 +27,18 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Create a new folder
 
@@ -55,6 +55,13 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -62,10 +69,16 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -81,10 +94,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -97,13 +110,6 @@ At the window for New, choose the option for shortcut instead of folder. In the 
 When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
 
@@ -156,20 +162,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-designing-engaging-instagram-feature-film-posts-for-2024/"><u>[New] Designing Engaging Instagram Feature Film Posts for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-turbocharged-triumphs-unveiling-five-pinnacle-racer-simulators-for-2024/"><u>[New] Turbocharged Triumphs Unveiling Five Pinnacle Racer Simulators for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-epicurean-escapades-crafting-kitchen-films-for-2024/"><u>[Updated] Epicurean Escapades Crafting Kitchen Films for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-moto-g24-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Moto G24 without App | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/adapt-to-remote-and-office-work-with-microsofts-latest-device-lineup-as-featured-by-zdnet/"><u>Adapt to Remote and Office Work with Microsoft's Latest Device Lineup, as Featured by ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/introducing-the-smart-notepad-on-windows-11-and-exciting-new-features-for-the-snipping-tool-latest-update-news/"><u>Introducing the Smart Notepad on Windows 11 and Exciting New Features For The Snipping Tool | Latest Update News.</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/leading-microsoft-tech-skills-elite-professional-programs-and-online-training-zdnet/"><u>Leading Microsoft Tech Skills: Elite Professional Programs & Online Training - ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/microsoft-steps-up-in-iot-as-google-pulls-out-the-future-of-smart-devices/"><u>Microsoft Steps Up in IoT as Google Pulls Out: The Future of Smart Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719170382520-nvidia-drivers-the-solution-to-your-computer-glitches/"><u>Nvidia Drivers: The Solution to Your Computer Glitches.</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23/"><u>The Ultimate Guide to YouTube's Most Captivating Storytellers in '23</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-online-interaction-facebook-to-youtube/"><u>Understanding the Giants of Online Interaction: Facebook to YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unlock-advanced-coding-assistance-for-free-learn-how-copilot-pro-can-transform-your-workflow-tips-and-analysis-by-zdnet/"><u>Unlock Advanced Coding Assistance for Free: Learn How Copilot Pro Can Transform Your Workflow | Tips and Analysis by ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unveiling-bing-chats-dark-mode-feature-easily-activate-for-night-owls-zdnet/"><u>Unveiling Bing Chat's Dark Mode Feature - Easily Activate for Night Owls | ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unveiling-microsofts-controversial-strategy-another-reason-for-user-discontent-analysis-by-zdnet/"><u>Unveiling Microsoft’s Controversial Strategy: Another Reason for User Discontent? - Analysis by ZDNet</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-experts-guide-to-minecraft-3d-shapes-crafting/"><u>[New] 2024 Approved Expert's Guide to Minecraft 3D Shapes Crafting</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726026454554-tiktok/"><u>「TikTokのコピー不可能な映像をどうやって保存しますか?」</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/2024webm9/"><u>【2024年度】ベストのWebMフリーコンバーター9つ！</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-adventures-galore-the-best-games-unveiled/"><u>2024 Approved Ultimate Adventures Galore – The Best Games Unveiled</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/5puy5lit44gr5yq55p6c55qe44gq6zplusz5aowlplusayoowdjplusiomommsuobruocsplusodha/"><u>曲中に効果的な音声/映像記録のコツ</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-high-quality-video-capture-a-comprehensive-guide-to-the-logitech-c615/"><u>Affordable High-Quality Video Capture: A Comprehensive Guide to the Logitech C615</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/comprehensive-tutorial-on-converting-3gp-files-into-flv-with-ease/"><u>Comprehensive Tutorial on Converting .3Gp Files Into .flv with Ease</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/enhance-your-vlc-experience-top-7-tips-for-seamless-4k-viewing/"><u>Enhance Your VLC Experience: Top 7 Tips for Seamless 4K Viewing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-y100t-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo Y100t to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-iphone-time-lapse-101-minimizing-wait-times/"><u>In 2024, IPhone Time Lapse 101 Minimizing Wait Times</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-find-n3-flip-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Oppo Find N3 Flip Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/jotunheims-gambit-warriors-of-ragnarok-for-2024/"><u>Jotunheim's Gambit Warriors of Ragnarok for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mastering-the-art-of-subtitle-extraction-from-digital-footage/"><u>Mastering the Art of Subtitle Extraction From Digital Footage</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-11-most-recent-update-available-discover-the-new-features-and-improvements-techworld/"><u>Windows 11 Most Recent Update Available: Discover the New Features and Improvements | TechWorld</u></a></li>
 </ul></div>
 
