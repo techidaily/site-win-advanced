@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Dev Routines: The Impact of GPT-Based Tech on Programmer Efficiency - Perspectives by ZDNet"
-date: 2024-09-26T09:52:48.615Z
-updated: 2024-09-29T20:11:23.054Z
+date: 2024-09-28T21:40:37.134Z
+updated: 2024-10-05T18:36:50.237Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-eliminating-exposure-how-to-conceal-private-video-sections/"><u>[New] In 2024, Eliminating Exposure How to Conceal Private Video Sections</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-full-potential-with-final-cut-pro/"><u>[New] Unlocking Full Potential with Final Cut Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-roadmap-to-irresistible-podcast-intros-and-exits/"><u>[Updated] In 2024, The Roadmap to Irresistible Podcast Intros and Exits</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-narzo-n55-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme Narzo N55 without App | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-tecno-spark-20-proplus-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effortless-sohu-tv-content-downloading-get-high-quality-videos-as-mp4movavi-with-our-best-media-grabber-tool/"><u>Effortless Sohu TV Content Downloading - Get High-Quality Videos as MP4/MOV/AVI with Our Best Media Grabber Tool</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/sive-guide-choosing-among-top-9-free-logo-creators-for-2024/"><u>Exclusive Guide Choosing Among Top 9 Free Logo Creators for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/free-mac-software-convert-and-download-youtube-videos-as-mp4movavi/"><u>Free Mac Software: Convert & Download YouTube Videos as MP4/MOV/AVI</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/get-family-flicks-for-kids-free-movie-downloads-in-multiple-formats-via-kid-movie-downloader/"><u>Get Family Flicks for Kids - Free Movie Downloads in Multiple Formats via Kid Movie Downloader</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/get-kuwo-hit-songs-music-videos-and-charts-high-quality-downloads-in-mp3wav-for-every-category/"><u>Get Kuwo Hit Songs, Music Videos & Charts - High-Quality Downloads in MP3/WAV for Every Category</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/get-microsoft-va-training-content-in-multiple-formats-mp4-wmv-avi-and-flv/"><u>Get Microsoft VA Training Content in Multiple Formats: MP4, WMV, AVI & FLV</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/guide-on-converting-and-downloading-ethiotube-media-files-into-popular-video-and-audio-formats/"><u>Guide on Converting and Downloading EthioTube Media Files Into Popular Video & Audio Formats.</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/guide-to-converting-flowplayer-media-to-mp4avi-formats-tips-for-macos-and-windows-users/"><u>Guide to Converting Flowplayer Media to MP4/AVI Formats: Tips for macOS & Windows Users</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-idevice-stalled-updates-a-guide-with-six-effective-strategies/"><u>Overcome iDevice Stalled Updates: A Guide with Six Effective Strategies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/superior-liquid-cooling-solution-for-gamers-the-new-moora-iv-600-featuring-a-35lbs-radiator-and-9x-200mm-fans-at-600-price-point/"><u>Superior Liquid Cooling Solution for Gamers: The New MOORA IV 600 - Featuring a 35Lbs Radiator & 9X 200MM Fans at ~$600 Price Point</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-secrets-for-striking-fb-video-promos/"><u>[New] Secrets for Striking FB Video Promos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premium-fullscreen-screen-recording-tools/"><u>[Updated] 2024 Approved Premium Fullscreen Screen Recording Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722902836490-fire-stick-remote-not-working-here-are-the-quick-fixes-you-need/"><u>Fire Stick Remote Not Working? Here Are the Quick Fixes You Need</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-visual-markers-guide-customizing-instagram-photo-watermarks/"><u>In 2024, The Visual Marker's Guide Customizing Instagram Photo Watermarks</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/openai-releases-commercial-variant-of-chatgpt-expanding-ai-solutions-insights-from-zdnet/"><u>OpenAI Releases Commercial Variant of ChatGPT, Expanding AI Solutions: Insights From ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/purchase-premium-microsoft-project-and-visio-software-for-a-bargain-price-of-just-20license-via-zdnets-special-promotion/"><u>Purchase Premium Microsoft Project & Visio Software for a Bargain Price of Just $20/License via ZDNet's Special Promotion!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/revamped-microsoft-surface-studio-2-unleashed-the-ultimate-desktop-experience-for-creatives-awaits-insights-from-zdnet/"><u>Revamped Microsoft Surface Studio 2 Unleashed: The Ultimate Desktop Experience for Creatives Awaits - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-5-ios-platforms-for-experiencing-classic-psp-games-for-2024/"><u>Top 5 iOS Platforms for Experiencing Classic PSP Games for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-seleccion-de-herramientas-gratis-para-comprimir-videos-sin-perder-calidad/"><u>Top Selección De Herramientas Gratis Para Comprimir Videos Sin Perder Calidad</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/understanding-various-microsoft-copilot-tools-a-comprehensive-guide-on-distinct-features-and-applications/"><u>Understanding Various Microsoft Copilot Tools: A Comprehensive Guide on Distinct Features & Applications</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unveiling-microsofts-latest-creation-high-tech-smart-trousers-for-only-150-what-you-need-to-know/"><u>Unveiling Microsoft’s Latest Creation: High-Tech Smart Trousers for Only $150? What You Need to Know</u></a></li>
 </ul></div>
 

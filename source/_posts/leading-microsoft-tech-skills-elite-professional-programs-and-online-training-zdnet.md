@@ -1,7 +1,7 @@
 ---
 title: "Leading Microsoft Tech Skills: Elite Professional Programs & Online Training - ZDNet"
-date: 2024-09-26T02:32:56.161Z
-updated: 2024-09-30T04:42:18.370Z
+date: 2024-10-02T18:02:09.084Z
+updated: 2024-10-05T19:29:45.975Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,19 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android/"><u>[New] 2024 Approved Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tricks-to-acquire-dry-stock-photography/"><u>[New] Tricks to Acquire Dry Stock Photography</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamline-your-tech-expertise-with-io-screen-recording/"><u>[Updated] 2024 Approved Streamline Your Tech Expertise with IO Screen Recording</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-free-sites-for-accessing-3d-text-psd-images/"><u>2024 Approved Top 8 Free Sites for Accessing 3D Text PSD Images</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/affordable-windows-laptop-showdown-which-brands-excel-acer-dell-and-beyond-reviewed-by-zdnet/"><u>Affordable Windows Laptop Showdown: Which Brands Excel? Acer, Dell & Beyond Reviewed by ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/choosing-the-right-windows-11-user-profile-tips-and-decision-guidelines-techadvice/"><u>Choosing the Right Windows 11 User Profile: Tips & Decision Guidelines | TechAdvice</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/critiquing-the-newest-microsoft-os-has-windows-11-earned-its-unpopular-status-too-quickly/"><u>Critiquing the Newest Microsoft OS: Has Windows 11 Earned Its Unpopular Status Too Quickly?</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/crossover-version-23-enhances-windows-game-experience-across-mac-os-chrome-os-and-linux-devices/"><u>CrossOver Version 23 Enhances Windows Game Experience Across Mac OS, Chrome OS & Linux Devices</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/cutting-edge-computing-redefined-in-depth-analysis-of-the-lightest-4k-oled-laptop-on-market-acers-swift-edge-showcase/"><u>Cutting-Edge Computing Redefined: In-Depth Analysis of the Lightest 4K OLED Laptop on Market - Acer's Swift Edge Showcase</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-x6-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco X6 to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-perfecting-instagrams-audio-emoji-placement/"><u>In 2024, Perfecting Instagram's Audio Emoji Placement</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-protective-covers-for-ipad-pro-11-inch-models-in-2-user/"><u>Top-Rated Protective Covers for iPad Pro 11-Inch Models in 2# User</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029616120-flac/"><u>ハイレゾオーディオ圧縮形式FLACによるサウンド楽しみ方教えます</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitter-trends-the-hottest-video-buzz/"><u>[New] 2024 Approved Twitter Trends The Hottest Video Buzz</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-aspects-a-beginner-cookbook-for-asmr-filmmaking/"><u>[New] Elevate Your Aspects A Beginner' Cookbook for ASMR Filmmaking</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-funnyfaces-forum-jokeye-imagez/"><u>[New] FunnyFaces Forum Jokeye Imagez</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ingenious-tactics-to-elevate-customer-feedback-visual-content/"><u>[New] In 2024, Ingenious Tactics to Elevate Customer Feedback Visual Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-tools-elevate-your-online-video-quality/"><u>[Updated] Essential Tools Elevate Your Online Video Quality</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-expert-tips-on-choosing-top-9-webcam-enhancement-tools-for-2024/"><u>[Updated] Expert Tips on Choosing Top 9 Webcam Enhancement Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-procedure-of-ending-linkedin-services-and-deletion-process/"><u>[Updated] Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1-how-to-customize-your-own-photo-slideshow-dimensions-and-hues-in-flipbook-flipbuilder-guide/"><u>1. How to Customize Your Own Photo Slideshow Dimensions and Hues in FlipBook - FlipBuilder Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/adding-timestamps-to-rtf-and-txt-files-when-converting-with-flash-books-using-flipbuildercom/"><u>Adding Timestamps to RTF and TXT Files when Converting with Flash Books Using FlipBuilder.com</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/adjusting-flash-window-colors-in-your-flipbook-projects-tips-and-tricks/"><u>Adjusting Flash Window Colors in Your FlipBook Projects - Tips & Tricks</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/advanced-virtual-camcorder-with-manycam-elevate-your-live-streaming-experience-on-any-device/"><u>Advanced Virtual Camcorder with ManyCam - Elevate Your Live Streaming Experience on Any Device</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/best-practices-for-creating-a-flipbook-template-integrating-inner-and-outer-image-backgrounds-learn-how-at-flipbuilder/"><u>Best Practices for Creating a Flipbook Template: Integrating Inner & Outer Image Backgrounds - Learn How at FlipBuilder</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/can-you-embed-videos-using-flipbuilders-flash-integration-tool/"><u>Can You Embed Videos Using FlipBuilder's Flash Integration Tool?</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/combining-several-pictures-into-one-digital-flipbook-a-comprehensive-guide-with-flipbuilder/"><u>Combining Several Pictures Into One Digital Flipbook: A Comprehensive Guide with FlipBuilder</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-multiple-pdf-files-into-editable-docx-documents-with-flipbuilder-free-download/"><u>Convert Multiple PDF Files Into Editable DOCX Documents with FlipBuilder - Free Download</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-your-pdfs-into-editable-text-formats-at-no-cost-maintain-the-original-layout-discover-flipbuildercom/"><u>Convert Your PDFs Into Editable Text Formats at No Cost - Maintain the Original Layout [Discover FlipBuilder.com!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
 

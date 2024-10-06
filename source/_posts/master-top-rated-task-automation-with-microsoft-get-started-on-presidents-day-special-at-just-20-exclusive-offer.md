@@ -1,7 +1,7 @@
 ---
 title: "Master Top-Rated Task Automation with Microsoft: Get Started on President's Day Special at Just $20 - Exclusive Offer!"
-date: 2024-09-26T21:56:56.971Z
-updated: 2024-09-30T00:25:23.446Z
+date: 2024-10-04T19:05:50.231Z
+updated: 2024-10-05T18:48:04.421Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-brother-dcp-l2540dw-printer-software-for-windows-easy-guide/"><u>Download and Install Brother DCP-L2540DW Printer Software for Windows - Easy Guide</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/download-our-free-pdf-to-jpg-converter-and-transform-documents-effortlessly-on-flipbuildercom/"><u>Download Our Free PDF-to-JPG Converter and Transform Documents Effortlessly on FlipBuilder.com</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/easy-guide-on-enabling-pdf-printer-support-in-flipbuilder-for-instant-page-printing/"><u>Easy Guide on Enabling PDF Printer Support in FlipBuilder for Instant Page Printing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/easycapture-prox-diagnosis-for-2024/"><u>EasyCapture ProX Diagnosis for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-add-multilingual-support-in-your-flipbooks-using-flipbuilder/"><u>How to Add Multilingual Support in Your Flipbooks Using FlipBuilder</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-convert-multiple-pdfs-into-separate-flipbooks-with-custom-file-names-via-flipbuildercom/"><u>How to Convert Multiple PDFs Into Separate Flipbooks with Custom File Names via FlipBuilder.com</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-customize-hyperlink-appearances-in-flipbook-change-link-colors-on-hover-with-flipbuilder-guidance/"><u>How To Customize Hyperlink Appearances in FlipBook - Change Link Colors On Hover with FlipBuilder Guidance</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-easily-add-your-digital-booklets-to-your-site-with-flipbuilder-a-step-by-step-guide/"><u>How to Easily Add Your Digital Booklets to Your Site with FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-gameplay-with-proximity-focus-in-roblox/"><u>In 2024, Precision Gameplay with Proximity Focus in Roblox</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-trouble-how-to-fix-backspace-not-working-errors-efficiently/"><u>Keyboard Trouble? How to Fix 'Backspace Not Working' Errors Efficiently</u></a></li>
-<li><a href="https://os-tips.techidaily.com/troubleshooting-steps-resolving-issues-with-iphones-icloud-backup-restoration/"><u>Troubleshooting Steps: Resolving Issues with iPhone's iCloud Backup Restoration</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-chortle-chronicles-recording-7-amusing-video-adventures/"><u>[Updated] In 2024, Chortle Chronicles Recording 7 Amusing Video Adventures</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-s23-fe-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy S23 FE without App | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/discover-the-exciting-enhancements-in-windows-11s-most-recent-update-tech-insights/"><u>Discover the Exciting Enhancements in Windows 11'S Most Recent Update | Tech Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-90-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-logitech-c525-webcam-driver-on-windows-1087/"><u>How to Update Your Logitech C525 Webcam Driver on Windows 10/8/7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-become-a-meme-genius-with-kinemaster-skills/"><u>In 2024, Become a Meme Genius with KineMaster Skills</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/introducing-the-smart-notepad-on-windows-11-and-exciting-new-features-for-the-snipping-tool-latest-update-news/"><u>Introducing the Smart Notepad on Windows 11 and Exciting New Features For The Snipping Tool | Latest Update News.</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/leading-microsoft-tech-skills-elite-professional-programs-and-online-training-zdnet/"><u>Leading Microsoft Tech Skills: Elite Professional Programs & Online Training - ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/startling-discovery-a-look-into-microsofts-groundbreaking-research-on-changes-to-modern-work-practices-based-on-a-whopping-31000-responses/"><u>Startling Discovery! A Look Into Microsoft's Groundbreaking Research on Changes to Modern Work Practices, Based on a Whopping 31,000 Responses</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/streamline-your-inbox-overnight-using-simple-organization-tricks-say-goodbye-to-clutter-without-multiple-emails-smarttechhacks/"><u>Streamline Your Inbox Overnight Using Simple Organization Tricks - Say Goodbye to Clutter Without Multiple Emails | SmartTechHacks</u></a></li>
 </ul></div>
 

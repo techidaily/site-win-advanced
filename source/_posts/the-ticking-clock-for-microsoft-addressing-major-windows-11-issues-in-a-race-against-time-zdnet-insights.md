@@ -1,7 +1,7 @@
 ---
 title: "The Ticking Clock for Microsoft: Addressing Major Windows 11 Issues in a Race Against Time | ZDNET Insights"
-date: 2024-09-27T21:33:26.432Z
-updated: 2024-09-30T06:26:14.721Z
+date: 2024-10-01T18:24:17.961Z
+updated: 2024-10-05T20:25:21.409Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +104,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +149,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,13 +160,6 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,22 +208,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-crafting-professional-edits-including-sounds-in-premiere-projects/"><u>[New] 2024 Approved Crafting Professional Edits Including Sounds in Premiere Projects</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nique-stories-crafting-powerful-yt-narratives-for-2024/"><u>[New] Unique Stories Crafting Powerful YT Narratives for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-gecata-game-recorder-review-complete/"><u>[Updated] Gecata Game Recorder Review [Complete]</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-fbx-gametime-tracking-solutions/"><u>[Updated] Innovative FBX Gametime Tracking Solutions</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-foremost-picks-superior-ringtone-developers/"><u>2024 Approved Foremost Picks Superior Ringtone Developers</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1726027779212-datmp4/"><u>複雑さ無くDATファイルをMP4に容易に変更するチュートリアル</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/easy-tutorial-for-transforming-quicktime-videos-into-prores-on-microsofts-latest-operating-systems/"><u>Easy Tutorial for Transforming QuickTime Videos Into ProRes on Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/glorious-gratitude-for-us-national-day/"><u>Glorious Gratitude for U.S. National Day</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/mastering-subtitle-integration-a-complete-guide-for-social-media-platforms/"><u>Mastering Subtitle Integration A Complete Guide for Social Media Platforms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-gopro-filming-techniques-unveiled/"><u>Pro-Gopro Filming Techniques Unveiled</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/simple-guide-on-converting-your-dvd-files-into-avi-format/"><u>Simple Guide on Converting Your DVD Files Into AVI Format</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/step-by-step-tutorial-for-extracting-dvd-content-to-various-video-types-mp4-mkv-mov-via-ffmpeg-techniques-for-both-windows-and-linux-users/"><u>Step-by-Step Tutorial for Extracting DVD Content to Various Video Types (MP4, MKV, MOV) via FFmpeg - Techniques for Both Windows and Linux Users</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-rated-avcleaner-software-perfect-for-converting-dvds-to-avi-format-on-windows-1011/"><u>Top Rated AVCleaner Software: Perfect for Converting DVDs to Avi Format on Windows 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sound-glitches-effective-solutions-for-outriders/"><u>Troubleshooting Sound Glitches - Effective Solutions for Outriders</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/ultimate-guide-top-5-universal-hdri-players-of-2024/"><u>Ultimate Guide: Top 5 Universal HDRI Players of 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/understanding-the-laws-on-dvd-copying-a-comprehensive-overview/"><u>Understanding the Laws on DVD Copying: A Comprehensive Overview</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/warzone-on-your-screen-discover-the-best-strategies-to-record-and-share-gameplay-on-pc-with-our-expert-tips-methodologies-explained/"><u>Warzone on Your Screen: Discover the Best Strategies to Record and Share Gameplay on PC with Our Expert Tips (Methodologies Explained)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-brightening-edge-of-android-videos-easy-steps-unveiled/"><u>[Updated] Brightening Edge of Android Videos - Easy Steps Unveiled</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/free-mac-software-convert-and-download-youtube-videos-as-mp4movavi/"><u>Free Mac Software: Convert & Download YouTube Videos as MP4/MOV/AVI</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-family-flicks-for-kids-free-movie-downloads-in-multiple-formats-via-kid-movie-downloader/"><u>Get Family Flicks for Kids - Free Movie Downloads in Multiple Formats via Kid Movie Downloader</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-kuwo-hit-songs-music-videos-and-charts-high-quality-downloads-in-mp3wav-for-every-category/"><u>Get Kuwo Hit Songs, Music Videos & Charts - High-Quality Downloads in MP3/WAV for Every Category</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-microsoft-va-training-content-in-multiple-formats-mp4-wmv-avi-and-flv/"><u>Get Microsoft VA Training Content in Multiple Formats: MP4, WMV, AVI & FLV</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-mobile-ai-utilizing-the-chatgpt-widget-on-android-smartphones/"><u>Mastering Mobile AI: Utilizing the ChatGPT Widget on Android Smartphones</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-streaming-success-implementing-2fa-on-your-twitch-channel-made-easy/"><u>Secure Streaming Success: Implementing 2FA on Your Twitch Channel Made Easy</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-eero-pro-mesh-router-ensuring-seamless-internet-across-your-home/"><u>The Ultimate Guide to Eero Pro Mesh Router: Ensuring Seamless Internet Across Your Home</u></a></li>
 </ul></div>
 

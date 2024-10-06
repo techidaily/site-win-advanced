@@ -1,7 +1,7 @@
 ---
 title: Introducing the Smart Notepad on Windows 11 and Exciting New Features For The Snipping Tool | Latest Update News.
-date: 2024-09-27T23:57:27.888Z
-updated: 2024-09-30T08:34:46.424Z
+date: 2024-09-29T01:06:46.163Z
+updated: 2024-10-05T16:15:27.935Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-harmonizing-horizons-easy-steps-for-sharing-soundtracks/"><u>[New] In 2024, Harmonizing Horizons Easy Steps for Sharing Soundtracks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-strategies-for-hiring-superior-cinematographers/"><u>[Updated] In 2024, Strategies for Hiring Superior Cinematographers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-integrating-social-features-for-playlist-dissemination/"><u>[Updated] Integrating Social Features for Playlist Dissemination</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mastering-time-plan-and-record-slack-plus-filmora-meetings-for-2024/"><u>[Updated] Mastering Time Plan & Record Slack + Filmora Meetings for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlining-group-chats-on-skype-for-dual-os-environments-for-2024/"><u>[Updated] Streamlining Group Chats on Skype for Dual OS Environments for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-podcast-logo-design-for-maximum-impact/"><u>2024 Approved The Art of Podcast Logo Design for Maximum Impact</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/a-decade-of-consequences-microsofts-enduring-struggle-with-past-mobile-errors-insights-from-zdnet/"><u>A Decade of Consequences: Microsoft's Enduring Struggle with Past Mobile Errors - Insights From ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/discover-the-exciting-enhancements-in-windows-11s-most-recent-update-tech-insights/"><u>Discover the Exciting Enhancements in Windows 11'S Most Recent Update | Tech Insights</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/dont-risk-security-breach-microsoft-ends-support-for-win-11-21h2-22h2-immediate-update-required-now/"><u>Don't Risk Security Breach: Microsoft Ends Support for Win 11 21H2, 22H2 – Immediate Update Required Now!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-brother-dcp-l2540dw-printer-driver-on-windows-pc/"><u>Download and Install Brother DCP-L2540DW Printer Driver on Windows PC</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-choose-a-cost-effective-surface-pro-model-without-compromising-quality-a-personal-experience/"><u>How to Choose a Cost-Effective Surface Pro Model Without Compromising Quality - A Personal Experience.</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/master-top-rated-task-automation-with-microsoft-get-started-on-presidents-day-special-at-just-20-exclusive-offer/"><u>Master Top-Rated Task Automation with Microsoft: Get Started on President's Day Special at Just $20 - Exclusive Offer!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-techniques-broadcasting-via-obs-to-facebook-for-2024/"><u>Optimizing Techniques Broadcasting via OBS to Facebook for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/startling-discovery-a-look-into-microsofts-groundbreaking-research-on-changes-to-modern-work-practices-based-on-a-whopping-31000-responses/"><u>Startling Discovery! A Look Into Microsoft's Groundbreaking Research on Changes to Modern Work Practices, Based on a Whopping 31,000 Responses</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/streamline-your-inbox-overnight-using-simple-organization-tricks-say-goodbye-to-clutter-without-multiple-emails-smarttechhacks/"><u>Streamline Your Inbox Overnight Using Simple Organization Tricks - Say Goodbye to Clutter Without Multiple Emails | SmartTechHacks</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/the-role-of-microsoft-windows-in-shaping-the-future-of-work-from-home-and-office-integration/"><u>The Role of Microsoft Windows in Shaping the Future of Work-From-Home and Office Integration</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/why-mondly-is-perfect-for-your-first-steps-into-afrikaans/"><u>Why Mondly Is Perfect for Your First Steps Into Afrikaans</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-compreenhensive-guide-for-youtube-short-video-creators/"><u>[New] 2024 Approved Compreenhensive Guide for YouTube Short Video Creators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-demystifying-whatsapp-voice-chat-functionality/"><u>[New] 2024 Approved Demystifying WhatsApp Voice Chat Functionality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-effortlessly-embedding-visual-media-in-free-content-creation/"><u>[New] In 2024, Effortlessly Embedding Visual Media in Free Content Creation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-video-capture-with-a-focus-on-vsdc/"><u>[New] Mastering Video Capture with a Focus on VSDC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-seamless-streaming-tackle-instagram-video-woes-for-2024/"><u>[New] Seamless Streaming Tackle Instagram Video Woes for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-transitions-made-simple-screen-record-with-aiseesoft-for-2024/"><u>[Updated] Seamless Transitions Made Simple Screen Record With Aiseesoft for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-process-expert-techniques-for-chapter-integration-in-youtube/"><u>2024 Approved Step-by-Step Process Expert Techniques for Chapter Integration in YouTube</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027556663-youtube/"><u>損なわれることなく、YouTubeビデオからの文章転記技術</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/batch-conversion-guide-transforming-ogg-files-into-wma-format/"><u>Batch Conversion Guide: Transforming OGG Files Into WMA Format</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027005866-facebook/"><u>Facebookビデオのカットと組み込み手順</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-can-you-locate-your-saved-vlc-recording-files-on-your-computer/"><u>How Can You Locate Your Saved VLC Recording Files on Your Computer?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expanding-minds-virtualizing-classrooms/"><u>In 2024, Expanding Minds, Virtualizing Classrooms</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/iosmtsiphoneipad/"><u>IOSデバイス向けMTS動画再生ガイド：iPhoneとiPadの二つの方法</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/quick-and-easy-tips-how-to-rotate-your-movies-using-three-windows-11-tricks/"><u>Quick & Easy Tips: How to Rotate Your Movies Using Three Windows 11 Tricks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mlining-youtube-sharing-with-google-account-accessibility/"><u>Streamlining YouTube Sharing with Google Account Accessibility</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/tedpc/"><u>TED演説ビデオのPCとスマートフォンから簡単なダウンロードガイド</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/pc2/"><u>ウィンドウズPC用手描き動画製作入門：2コツで始められるアニメーション制作の方法</u></a></li>
 </ul></div>
 

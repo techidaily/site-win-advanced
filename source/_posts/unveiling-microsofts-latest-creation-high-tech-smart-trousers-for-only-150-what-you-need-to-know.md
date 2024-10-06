@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft’s Latest Creation: High-Tech Smart Trousers for Only $150? What You Need to Know"
-date: 2024-09-24T04:43:48.567Z
-updated: 2024-09-30T07:26:28.615Z
+date: 2024-10-01T16:19:51.434Z
+updated: 2024-10-05T19:17:39.468Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -145,13 +152,6 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-webcam-wonders-innovative-home-tech-use/"><u>[New] 2024 Approved Webcam Wonders Innovative Home Tech Use</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-arcade-alpha-check-in-gamers-thoughts/"><u>[New] ARCADE ALPHA CHECK-IN Gamers' Thoughts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-fuel-fascination-with-imagery-the-most-motivating-ig-shots-for-2024/"><u>[New] Fuel Fascination with Imagery The Most Motivating IG Shots for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-avoiding-lost-sequences-with-obs-fixes-for-2024/"><u>[Updated] Avoiding Lost Sequences with OBS Fixes for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-enjoy-games-not-glitches-use-nvidia/"><u>[Updated] Enjoy Games, Not Glitches - Use NVIDIA</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-edible-media-recipe-tutorials-for-2024/"><u>[Updated] The Art of Edible Media Recipe Tutorials for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/efficiently-clean-up-your-friends-list-removing-multiple-connections-in-snapchat/"><u>Efficiently Clean Up Your Friends List: Removing Multiple Connections in Snapchat</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effortless-downloads-with-alavsoft-your-go-to-solution-for-macoswindows-beyond-traditional-youtube-dl/"><u>Effortless Downloads with Alavsoft: Your Go-To Solution for macOS/Windows, Beyond Traditional YouTube-Dl!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effortless-sohu-tv-content-downloading-get-high-quality-videos-as-mp4movavi-with-our-best-media-grabber-tool/"><u>Effortless Sohu TV Content Downloading - Get High-Quality Videos as MP4/MOV/AVI with Our Best Media Grabber Tool</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/free-mac-software-convert-and-download-youtube-videos-as-mp4movavi/"><u>Free Mac Software: Convert & Download YouTube Videos as MP4/MOV/AVI</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/get-family-flicks-for-kids-free-movie-downloads-in-multiple-formats-via-kid-movie-downloader/"><u>Get Family Flicks for Kids - Free Movie Downloads in Multiple Formats via Kid Movie Downloader</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/get-kuwo-hit-songs-music-videos-and-charts-high-quality-downloads-in-mp3wav-for-every-category/"><u>Get Kuwo Hit Songs, Music Videos & Charts - High-Quality Downloads in MP3/WAV for Every Category</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/get-microsoft-va-training-content-in-multiple-formats-mp4-wmv-avi-and-flv/"><u>Get Microsoft VA Training Content in Multiple Formats: MP4, WMV, AVI & FLV</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silent-battlefield-4-how-to-restore-your-game-audio/"><u>Silent Battlefield 4: How to Restore Your Game Audio</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/tech-giant-intel-under-scrutiny-uncovering-the-details-of-a-recent-cpu-stability-lawsuit/"><u>Tech Giant Intel Under Scrutiny: Uncovering the Details of a Recent CPU Stability Lawsuit</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/igital-artisans-gathering-haven/"><u>[New] Digital Artisans Gathering Haven</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-the-cost-per-thousand-views-on-youtube-for-successful-earning/"><u>[New] In 2024, Decoding the Cost Per Thousand Views on YouTube for Successful Earning</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-become-a-snapboom-expert-in-minutes-for-2024/"><u>[Updated] Become a SnapBoom Expert in Minutes for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-discover-ultimate-sites-for-stunning-sky-photos/"><u>2024 Approved Discover Ultimate Sites for Stunning Sky Photos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-tally-unveiling-the-highest-rated-threads-on-reddit/"><u>2024 Approved The Ultimate Tally Unveiling the Highest-Rated Threads on Reddit</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/extending-the-lifespan-of-your-old-iphone-unlock-its-potential-with-our-revolutionary-flash-drive-zdnet/"><u>Extending the Lifespan of Your Old iPhone: Unlock Its Potential with Our Revolutionary Flash Drive | ZDNET</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/fast-track-termination-of-slow-programs-with-a-secret-win11-feature-discover-how-on-zdnet/"><u>Fast-Track Termination of Slow Programs with a Secret Win11 Feature - Discover How on ZDNet</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-13-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your iPhone 13 Pro Max Lock Screen with Notifications?</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/microsoft-plans-another-overhaul-of-windows-update-timetable-insider-insights-from-zdnet/"><u>Microsoft Plans Another Overhaul of Windows Update Timetable: Insider Insights From ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mpegipad/"><u>MPEG動画がIPadで見やすくなるヒント</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/optimal-user-profile-selection-during-windows-11-installation-tips-and-decision-guide/"><u>Optimal User Profile Selection During Windows 11 Installation - Tips & Decision Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/steps-to-retrieve-data-from-a-locked-laptop-lost-your-passcode/"><u>Steps to Retrieve Data From a Locked Laptop: Lost Your Passcode?</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/the-ultimate-walkthrough-for-tweaking-windows-dns-settings-and-understanding-its-benefits/"><u>The Ultimate Walkthrough for Tweaking Windows DNS Settings & Understanding Its Benefits</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-make-unforgettable-video-invites-with-these-mobile-apps/"><u>Updated 2024 Approved Make Unforgettable Video Invites with These Mobile Apps</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-take-your-edits-to-the-next-level-10-free-fcpx-plugins/"><u>Updated In 2024, Take Your Edits to the Next Level 10 Free FCPX Plugins</u></a></li>
 </ul></div>
 

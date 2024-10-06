@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Microsoft’s Controversial Strategy: Another Reason for User Discontent? - Analysis by ZDNet"
-date: 2024-09-23T03:42:56.560Z
-updated: 2024-09-29T18:29:42.445Z
+date: 2024-10-02T23:48:23.082Z
+updated: 2024-10-05T21:52:10.256Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,28 +129,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,18 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-your-ultimate-guide-to-mac-audio-capture-via-audacity/"><u>[New] Your Ultimate Guide to Mac Audio Capture via Audacity</u></a></li>
-<li><a href="https://games-able.techidaily.com/akko-mod007b-pro-gaming-keyboard-unveiled/"><u>Akko MOD007B Pro-Gaming Keyboard Unveiled</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/can-you-embed-videos-using-flipbuilders-flash-integration-tool/"><u>Can You Embed Videos Using FlipBuilder's Flash Integration Tool?</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/combining-several-pictures-into-one-digital-flipbook-a-comprehensive-guide-with-flipbuilder/"><u>Combining Several Pictures Into One Digital Flipbook: A Comprehensive Guide with FlipBuilder</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/convert-multiple-pdf-files-into-editable-docx-documents-with-flipbuilder-free-download/"><u>Convert Multiple PDF Files Into Editable DOCX Documents with FlipBuilder - Free Download</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/convert-your-pdfs-into-editable-text-formats-at-no-cost-maintain-the-original-layout-discover-flipbuildercom/"><u>Convert Your PDFs Into Editable Text Formats at No Cost - Maintain the Original Layout [Discover FlipBuilder.com!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/crafting-engaging-audio-storybooks-for-kids-a-comprehensive-guide-with-flipbuilder/"><u>Crafting Engaging Audio Storybooks for Kids: A Comprehensive Guide with FlipBuilder</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-windows-games-on-m1-a-guide-with-crossover/"><u>Playing Windows Games on M1: A Guide with Crossover</u></a></li>
-<li><a href="https://howto.techidaily.com/solved-warning-camera-failed-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-monetization-a-deep-dive/"><u>YouTube's Monetization A Deep Dive</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-preeminent-5-cloud-video-capture-systems/"><u>[New] In 2024, Preeminent 5 Cloud Video Capture Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-guide-to-choosing-a-tunefab-recorder-for-2024/"><u>[Updated] The Ultimate Guide to Choosing a Tunefab Recorder for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/access-beacon-live-show-download-episodes-anytime-pc-and-mac-compatible/"><u>Access Beacon Live Show: Download Episodes Anytime, PC & Mac Compatible</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easy-video-retrieval-how-to-download-footage-from-photobucket-across-pc-and-mac-platforms/"><u>Easy Video Retrieval: How to Download Footage From Photobucket Across PC and Mac Platforms</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effortless-anime-downloading-guide-convert-and-save-kissanime-episodes-as-mp4-files/"><u>Effortless Anime Downloading Guide: Convert & Save Kissanime Episodes as MP4 Files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-pushing-creative-boundaries-the-power-of-magix-vpx/"><u>In 2024, Pushing Creative Boundaries The Power of Magix VPX</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-google-pixel-fold-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Google Pixel Fold FRP Without Computer</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mastering-the-art-of-iqiyi-file-extraction-a-comprehensive-tutorial-on-secure-download-methods/"><u>Mastering the Art of iQIYI File Extraction: A Comprehensive Tutorial on Secure Download Methods</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/save-and-enjoy-nba-matches-anywhere-easy-steps-for-downloading-videos-as-mp4-mov-avi-flv-wmv-or-mkv/"><u>Save & Enjoy NBA Matches Anywhere: Easy Steps for Downloading Videos as MP4, MOV, AVI, FLV, WMV or MKV</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-subtle-art-of-easing-audio-intensity-garageband-for-2024/"><u>The Subtle Art of Easing Audio Intensity (Garageband) for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/tips-to-rectify-broken-airdrop-connectivity-across-apple-gadgets-for-2024/"><u>Tips to Rectify Broken AirDrop Connectivity Across Apple Gadgets for 2024</u></a></li>
 </ul></div>
 

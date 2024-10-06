@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Inbox Overnight Using Simple Organization Tricks - Say Goodbye to Clutter Without Multiple Emails | SmartTechHacks
-date: 2024-09-25T00:38:21.574Z
-updated: 2024-09-30T13:37:45.453Z
+date: 2024-10-03T00:19:17.542Z
+updated: 2024-10-05T16:34:22.302Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -97,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -142,28 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -208,24 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-dissecting-the-hidden-mechanics-behind-youtubes-popularity-index/"><u>[New] 2024 Approved Dissecting the Hidden Mechanics Behind YouTube's Popularity Index</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-alarms-best-download-sites/"><u>[New] Excellent Alarms Best Download Sites</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revitalize-your-reels-selecting-the-best-5-enhancers/"><u>[New] Revitalize Your Reels Selecting the Best 5 Enhancers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-visualstoryteller-for-windows/"><u>[New] VisualStoryteller for Windows</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-creating-compelling-content-using-windows-movie-maker-in-windows-8-os/"><u>[Updated] 2024 Approved Creating Compelling Content Using Windows Movie Maker in Windows 8 OS</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-top-strategies-to-ensure-success-with-desktop-tiktok-content/"><u>2024 Approved Top Strategies to Ensure Success with Desktop TikTok Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-tecno-spark-20-proplus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Tecno Spark 20 Pro+ to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/affordable-windows-laptop-showdown-exploring-options-from-acer-to-asus-on-zdnet/"><u>Affordable Windows Laptop Showdown: Exploring Options From Acer to Asus on ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/comprehensive-analysis-of-the-mavix-m9-gaming-chair-an-ultimate-guide-on-its-unmatched-customizability-and-user-feedback-a-zdnet-perspective/"><u>Comprehensive Analysis of the Mavix M9 Gaming Chair: An Ultimate Guide on Its Unmatched Customizability and User Feedback - A ZDNet Perspective</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/find-your-ideal-ergonomic-chair-for-a-standing-desk-expert-picks-of-2023/"><u>Find Your Ideal Ergonomic Chair for a Standing Desk – Expert Picks of 2023!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/secure-your-digital-life-mastering-two-factor-authentication-for-ultimate-cybersecurity-zdnet/"><u>Secure Your Digital Life: Mastering Two-Factor Authentication for Ultimate Cybersecurity | ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-rated-desk-chair-picks-expert-reviews-from-zdnet/"><u>Top-Rated Desk Chair Picks - Expert Reviews From ZDNet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unraveling-the-latest-in-tech-insights-from-toms-gear-analysis/"><u>Unraveling the Latest in Tech: Insights From Tom's Gear Analysis</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/unveiling-abbyys-advanced-ai-capabilities-for-efficient-document-handling-at-the-london-ai-conference/"><u>Unveiling ABBYY's Advanced AI Capabilities for Efficient Document Handling at the London AI Conference</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unveiling-microsofts-latest-creation-high-tech-smart-trousers-for-only-150-what-you-need-to-know/"><u>Unveiling Microsoft’s Latest Creation: High-Tech Smart Trousers for Only $150? What You Need to Know</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-excellence-of-samsung-galaxy-s21-ultra-why-it-reigns-supreme-in-the-android-realm/"><u>Unveiling the Excellence of Samsung Galaxy S21 Ultra: Why It Reigns Supreme in the Android Realm</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unveiling-the-key-to-true-workplace-joy-tech-innovation-over-interpersonal-relationships-a-perspective-by-microsofts-top-executive-zdnet/"><u>Unveiling the Key to True Workplace Joy: Tech Innovation Over Interpersonal Relationships - A Perspective by Microsoft's Top Executive | ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unveiling-windows-11-se-the-latest-educational-laptops-from-pc-manufacturers-zdnet/"><u>Unveiling Windows 11 SE: The Latest Educational Laptops From PC Manufacturers - ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-vs-apple-silicon-can-microsofts-arm-strategy-triumph-in-the-next-gen-chip-battle/"><u>Windows Vs. Apple Silicon: Can Microsoft's ARM Strategy Triumph in the Next-Gen Chip Battle?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elite-listing-top-10-windows-11-cam-capture-devices/"><u>[New] In 2024, Elite Listing Top 10 Windows 11 Cam Capture Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027779212-datmp4/"><u>複雑さ無くDATファイルをMP4に容易に変更するチュートリアル</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-g310-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia G310</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehve-solutions-install-and-update-d-link-drivers-seamlessly-on-windows-systems/"><u>Comprehve Solutions: Install and Update D-Link Drivers Seamlessly on Windows Systems</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easy-tutorial-for-transforming-quicktime-videos-into-prores-on-microsofts-latest-operating-systems/"><u>Easy Tutorial for Transforming QuickTime Videos Into ProRes on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-code-4201-resolved-effective-ways-to-correct-issues-in-genshin-impact-gameplay/"><u>Error Code 4201 Resolved: Effective Ways to Correct Issues in Genshin Impact Gameplay</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fixing-silent-screenshots-restore-sound-on-your-nvidia-shadowplay-recordings/"><u>Fixing Silent Screenshots: Restore Sound on Your NVIDIA ShadowPlay Recordings!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-msi-afterburner-failure-to-recognize-gpu-in-windows-11/"><u>How to Fix MSI Afterburner Failure to Recognize GPU in Windows 11</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mp4m4atop5/"><u>MP4ファイルをM4Aに変換する人気無料ツールTOP5: 高画質音声楽しむ方法</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/pcweverse/"><u>PC用にWeverseのスクリーン録画テクニックを学ぶ</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-best-note-taking-software-of-2024-a-comprehensive-guide-to-enhancing-your-efficiency/"><u>The Best Note-Taking Software of 2024: A Comprehensive Guide to Enhancing Your Efficiency</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-rated-avcleaner-software-perfect-for-converting-dvds-to-avi-format-on-windows-1011/"><u>Top Rated AVCleaner Software: Perfect for Converting DVDs to Avi Format on Windows 10/11</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-rated-kodi-matrix-tv-interface-comprehensive-guide-on-19-must-have-addons-regular-updates/"><u>Top Rated Kodi Matrix TV Interface: Comprehensive Guide on 19 Must-Have Addons - Regular Updates</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/ultimate-guide-top-5-universal-hdri-players-of-2024/"><u>Ultimate Guide: Top 5 Universal HDRI Players of 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/understanding-the-laws-on-dvd-copying-a-comprehensive-overview/"><u>Understanding the Laws on DVD Copying: A Comprehensive Overview</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-10plus-slow-motion-video-editing-software/"><u>Updated Top 10+ Slow Motion Video Editing Software</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/warzone-on-your-screen-discover-the-best-strategies-to-record-and-share-gameplay-on-pc-with-our-expert-tips-methodologies-explained/"><u>Warzone on Your Screen: Discover the Best Strategies to Record and Share Gameplay on PC with Our Expert Tips (Methodologies Explained)</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-c51-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme C51 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Steps Up in IoT as Google Pulls Out: The Future of Smart Devices"
-date: 2024-09-27T14:54:19.927Z
-updated: 2024-09-30T01:49:25.098Z
+date: 2024-09-30T21:50:28.335Z
+updated: 2024-10-05T19:18:56.353Z
 tags:
   - microsoft
 categories:
@@ -114,34 +114,26 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-imagination-drought-hindering-vr-development/"><u>[Updated] 2024 Approved The Imagination Drought Hindering VR Development</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-harness-the-power-of-twitch-livestream-tips-and-tricks/"><u>[Updated] In 2024, Harness the Power of Twitch Livestream Tips & Tricks</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1726026454554-tiktok/"><u>「TikTokのコピー不可能な映像をどうやって保存しますか?」</u></a></li>
-<li><a href="https://article-helps.techidaily.com/all-encompassing-review-the-hero4-black-guide-for-2024/"><u>All-Encompassing Review The Hero4 Black Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-meizu-21-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Meizu 21 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-microphone-problems-with-your-razer-barracuda-x-in-windows-1110/"><u>How to Resolve Microphone Problems with Your Razer Barracuda X in Windows 11/10</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-computers-at-your-fingertips/"><u>In 2024, Advanced Computers at Your Fingertips</u></a></li>
-<li><a href="https://fox-place.techidaily.com/personalize-your-digital-content-adding-a-logo-in-flipbuilder-ebooks/"><u>Personalize Your Digital Content: Adding a Logo in FlipBuilder Ebooks</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-secret-mouse-gestures-and-shortcuts-every-tech-enthusiast-should-master-learn-now/"><u>Top Secret Mouse Gestures and Shortcuts Every Tech Enthusiast Should Master – Learn Now!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-rated-surface-devices-in-depth-analysis-and-comparison-techadvocate/"><u>Top-Rated Surface Devices : In-Depth Analysis & Comparison | TechAdvocate</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/upcoming-change-to-windows-10-pay-per-update-feature-from-microsoft-revealed-for-next-year/"><u>Upcoming Change to Windows 10: Pay-Per-Update Feature From Microsoft Revealed for Next Year</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/upgrade-triumph-how-enthusiasts-overcame-microsofts-barriers-for-a-legacy-system-compatible-with-windows-11-insights-from-zdnet/"><u>Upgrade Triumph: How Enthusiasts Overcame Microsoft's Barriers for a Legacy System Compatible with Windows 11 | Insights From ZDNET</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-11-most-recent-update-available-discover-the-new-features-and-improvements-techworld/"><u>Windows 11 Most Recent Update Available: Discover the New Features and Improvements | TechWorld</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/your-guide-to-understanding-why-microsoft-silently-discontinued-further-windows-11-support/"><u>Your Guide to Understanding Why Microsoft Silently Discontinued Further Windows 11 Support</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-maximizing-call-recording-20plus-techniques-for-windowsmac-users/"><u>[New] In 2024, Maximizing Call Recording 20+ Techniques for Windows/Mac Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unlock-your-potential-with-ez-grabber-installation-and-usage-for-2024/"><u>[New] Unlock Your Potential with EZ Grabber - Installation & Usage for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-limelight-rhythms-the-creme-de-la-crop-of-yt-short-scores/"><u>[Updated] Limelight Rhythms The Crème De La Crop of YT Short Scores</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-customizing-the-twitter-interface-an-experts-tutorial-for-video-images/"><u>2024 Approved Customizing the Twitter Interface An Expert's Tutorial for Video Images</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-review-of-the-oneplus-8t-speedy-yet-flawed-cameras/"><u>A Comprehensive Review of the OnePlus 8T: Speedy Yet Flawed Cameras</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-easily-add-your-digital-booklets-to-your-site-with-flipbuilder-a-step-by-step-guide/"><u>How to Easily Add Your Digital Booklets to Your Site with FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-reposition-your-flipbook-on-flipbuilder-a-complete-guide/"><u>How to Reposition Your Flipbook on FlipBuilder: A Complete Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-update-or-generate-a-custom-table-of-contents-in-your-epub-book-with-flipbook-a-step-by-step-guide/"><u>How to Update or Generate a Custom Table of Contents in Your ePub Book with FlipBook - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/improving-image-quality-easy-tips-for-tweaking-contrast-on-flipiamagenet/"><u>Improving Image Quality: Easy Tips for Tweaking Contrast on flipiamage.net</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/improving-readability-with-zoom-functionality-in-flipbuilders-digital-books/"><u>Improving Readability with Zoom Functionality in FlipBuilder's Digital Books</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-rotate-and-share-with-ease-enhancing-instagram-videos-on-all-devices/"><u>In 2024, Rotate & Share with Ease Enhancing Instagram Videos on All Devices</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/instantly-engage-visitors-with-video-content-using-flipbuilders-powerful-page-playback-feature/"><u>Instantly Engage Visitors with Video Content Using FlipBuilder's Powerful Page Playback Feature</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-lag-issues-how-to-fix-frame-drops-in-fallout-76/"><u>Resolving Lag Issues: How to Fix Frame Drops in Fallout 76</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

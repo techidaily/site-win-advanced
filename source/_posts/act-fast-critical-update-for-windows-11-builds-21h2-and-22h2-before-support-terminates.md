@@ -1,7 +1,7 @@
 ---
 title: "Act Fast: Critical Update for Windows 11 (Builds 21H2 and 22H2) Before Support Terminates"
-date: 2024-09-26T03:53:56.575Z
-updated: 2024-09-30T05:35:06.672Z
+date: 2024-09-29T20:31:07.152Z
+updated: 2024-10-05T20:19:25.637Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-apps-best-10-software-to-capture-your-screens/"><u>[New] 2024 Approved Essential Apps Best 10 Software to Capture Your Screens</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-turning-tides-in-the-social-stream-boosting-post-performance/"><u>[New] 2024 Approved Turning Tides in the Social Stream Boosting Post Performance</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-enhancing-youtube-content-with-free-music-sources-for-2024/"><u>[Updated] Enhancing YouTube Content with Free Music Sources for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-next-generation-of-social-video-periscopes-counterparts/"><u>[Updated] In 2024, The Next Generation of Social Video Periscope's Counterparts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-kinemasters-features-with-ease-ranked-by-best-opponent-games/"><u>[Updated] Master KineMaster's Features with Ease, Ranked by Best Opponent Games</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-expanding-horizinas-with-vlcs-versatile-conversion-capabilities/"><u>2024 Approved Expanding Horizinas with VLC's Versatile Conversion Capabilities</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-expert-tag-analyzer-devices-for-popular-platforms-fbtwitterinsta/"><u>2024 Approved Expert Tag Analyzer Devices for Popular Platforms (FB/Twitter/Insta)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-image-innovation-for-windows-and-mac-photo-to-cartoon-software/"><u>2024 Approved Image Innovation for Windows & Mac Photo-to-Cartoon Software</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/design-your-unique-book-jacket-using-flipbuilder-beginners-tutorial/"><u>Design Your Unique Book Jacket Using FlipBuilder - Beginner's Tutorial</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/download-our-free-pdf-to-jpg-converter-and-transform-documents-effortlessly-on-flipbuildercom/"><u>Download Our Free PDF-to-JPG Converter and Transform Documents Effortlessly on FlipBuilder.com</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/easy-guide-on-enabling-pdf-printer-support-in-flipbuilder-for-instant-page-printing/"><u>Easy Guide on Enabling PDF Printer Support in FlipBuilder for Instant Page Printing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-add-multilingual-support-in-your-flipbooks-using-flipbuilder/"><u>How to Add Multilingual Support in Your Flipbooks Using FlipBuilder</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-convert-multiple-pdfs-into-separate-flipbooks-with-custom-file-names-via-flipbuildercom/"><u>How to Convert Multiple PDFs Into Separate Flipbooks with Custom File Names via FlipBuilder.com</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-customize-hyperlink-appearances-in-flipbook-change-link-colors-on-hover-with-flipbuilder-guidance/"><u>How To Customize Hyperlink Appearances in FlipBook - Change Link Colors On Hover with FlipBuilder Guidance</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-psychology-of-persuasion-in-subscription-growth/"><u>[Updated] 2024 Approved The Psychology of Persuasion in Subscription Growth</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-depth-analysis-asus-proart-pa-329q-4k-monitor-for-2024/"><u>[Updated] In-Depth Analysis Asus ProArt PA 329Q 4K Monitor for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/behind-the-scenes-how-microsoft-plans-to-outshine-apple-with-its-innovative-ai-processor/"><u>Behind the Scenes: How Microsoft Plans to Outshine Apple with Its Innovative AI Processor</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/craft-your-personal-touch-setting-up-custom-email-footers-using-microsoft-outlook/"><u>Craft Your Personal Touch: Setting Up Custom Email Footers Using Microsoft Outlook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/highly-recommended-animated-and-live-action-films-for-kids-on-netflix/"><u>Highly Recommended Animated and Live-Action Films for Kids on Netflix</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-pixelpartition-review/"><u>In 2024, PixelPartition Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-se-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone SE?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/iphone-15-pro-max-versus-samsung-s24-ultra-the-battle-of-flagship-phones-explained/"><u>IPhone 15 Pro Max Versus Samsung S24 Ultra: The Battle of Flagship Phones Explained</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-x1-carbon-drivers-download-for-windows-10-and-7-easily/"><u>Lenovo X1 Carbon Drivers Download for Windows 10 & 7 [Easily]</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mirillis-marketplace-your-digital-destination-for-exclusive-designs/"><u>Mirillis Marketplace: Your Digital Destination for Exclusive Designs</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mirillis-comprehensive-media-asset-repository-and-solutions/"><u>Mirillis: Comprehensive Media Asset Repository & Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/nocturnal-narrative-videos-analysis-for-2024/"><u>Nocturnal Narrative Videos Analysis for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-stabilizing-palworld-performance-on-your-desktop-pc/"><u>Step-by-Step Solution: Stabilizing PalWorld Performance on Your Desktop PC</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/tailor-made-camera-frame-sets-with-unique-accents/"><u>Tailor-Made Camera Frame Sets with Unique Accents</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-rated-youtube-downloader-apps-for-bulk-video-and-audio-extraction/"><u>Top Rated YouTube Downloader Apps for Bulk Video and Audio Extraction</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-action-program-issue-overcoming-critical-error-101-successfully/"><u>Troubleshooting 'Action!' Program Issue - Overcoming Critical Error 101 Successfully</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/watch-zootopia-full-film-without-cost-get-mp4-mov-or-avi-versions-available-for-download-now/"><u>Watch Zootopia Full Film Without Cost – Get MP4, MOV or AVI Versions Available for Download Now!</u></a></li>
 </ul></div>
 

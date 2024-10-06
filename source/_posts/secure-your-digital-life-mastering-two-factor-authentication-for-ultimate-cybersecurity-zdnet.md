@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Life: Mastering Two-Factor Authentication for Ultimate Cybersecurity | ZDNet"
-date: 2024-09-25T20:07:52.627Z
-updated: 2024-09-30T05:05:00.140Z
+date: 2024-09-28T21:19:22.137Z
+updated: 2024-10-05T16:40:45.850Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/corrected-halo-tt-fail-to-launch-dx12-windows-error/"><u>[CORRECTED] Halo: TT Fail to Launch - DX12 Windows Error</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-moving-data-quick-techniques-to-send-files-to-your-computer/"><u>[Updated] Moving Data Quick Techniques to Send Files to Your Computer</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1726027779212-datmp4/"><u>複雑さ無くDATファイルをMP4に容易に変更するチュートリアル</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-gt-neo-5-se-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme GT Neo 5 SE? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-x-flip-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo X Flip? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/easy-tutorial-for-transforming-quicktime-videos-into-prores-on-microsofts-latest-operating-systems/"><u>Easy Tutorial for Transforming QuickTime Videos Into ProRes on Microsoft's Latest Operating Systems</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/enhanced-traffic-with-cutting-edge-cookiebot-technology/"><u>Enhanced Traffic with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://fox-access.techidaily.com/how-lgs-27uhd68-enhances-gaming-experience-for-2024/"><u>How LG's 27UHD68 Enhances Gaming Experience for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-se-2020-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone SE (2020) Apple ID on MacBook</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/mp4m4atop5/"><u>MP4ファイルをM4Aに変換する人気無料ツールTOP5: 高画質音声楽しむ方法</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/revive-lost-contacts-on-your-iphone-with-these-easy-fixes/"><u>Revive Lost Contacts on Your iPhone with These Easy Fixes</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-rated-avcleaner-software-perfect-for-converting-dvds-to-avi-format-on-windows-1011/"><u>Top Rated AVCleaner Software: Perfect for Converting DVDs to Avi Format on Windows 10/11</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/ultimate-guide-top-5-universal-hdri-players-of-2024/"><u>Ultimate Guide: Top 5 Universal HDRI Players of 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/understanding-the-laws-on-dvd-copying-a-comprehensive-overview/"><u>Understanding the Laws on DVD Copying: A Comprehensive Overview</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/warzone-on-your-screen-discover-the-best-strategies-to-record-and-share-gameplay-on-pc-with-our-expert-tips-methodologies-explained/"><u>Warzone on Your Screen: Discover the Best Strategies to Record and Share Gameplay on PC with Our Expert Tips (Methodologies Explained)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-comprehensive-guide-the-features-of-google-podcasts-app/"><u>[New] In 2024, Comprehensive Guide The Features of Google Podcasts App</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-earning-big-on-youtube-shorts-must-haves-opportunities-and-more/"><u>[Updated] 2024 Approved Earning Big on YouTube Shorts Must-Haves, Opportunities and More</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-bridge-gaps-between-tech-worlds-stream-and-save-youtube-from-various-devices/"><u>[Updated] Bridge Gaps Between Tech Worlds Stream and Save YouTube From Various Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-guide-to-facebook-livestreaming-via-wirecast-for-2024/"><u>[Updated] The Ultimate Guide to Facebook Livestreaming via Wirecast for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/advanced-free-pdf-editor-and-highlighter-2020-enhance-pdf-reading-and-interaction/"><u>Advanced Free PDF Editor & Highlighter 2020 - Enhance PDF Reading and Interaction</u></a></li>
+<li><a href="https://article-posts.techidaily.com/comparing-gopro-and-yi-4k-cams-new-insights-on-high-speed-cameras-for-2024/"><u>Comparing GoPro and Yi 4K Cams New Insights on High-Speed Cameras for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/complete-guide-transforming-ts-files-into-mp4-format/"><u>Complete Guide: Transforming .TS Files Into MP4 Format</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-tutorial-on-trimming-and-editing-footage-with-vlc-software/"><u>Easy Tutorial on Trimming and Editing Footage with VLC Software</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/efficiently-move-pictures-from-ios-device-to-windows-7-pc-tutorial/"><u>Efficiently Move Pictures From iOS Device to Windows 7 PC - Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-motorola-moto-g-5g-2023-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Motorola Moto G 5G (2023) to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-instructional-guide-seamlessly-integrating-apowermirror-into-your-home-entertainment-system/"><u>Step-by-Step Instructional Guide: Seamlessly Integrating ApowerMirror Into Your Home Entertainment System</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/synthesizing-clarity-a-complete-voice-note-taking-course-for-2024/"><u>Synthesizing Clarity A Complete Voice Note-Taking Course for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tips-and-tricks-for-exceptional-steam-playback-footage-for-2024/"><u>Tips and Tricks for Exceptional Steam Playback Footage for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/ultimate-tips-for-effectively-recording-a-microsoft-teams-virtual-meeting/"><u>Ultimate Tips for Effectively Recording a Microsoft Teams Virtual Meeting</u></a></li>
 </ul></div>
 

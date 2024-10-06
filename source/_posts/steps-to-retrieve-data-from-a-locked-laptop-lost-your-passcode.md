@@ -1,7 +1,7 @@
 ---
 title: "Steps to Retrieve Data From a Locked Laptop: Lost Your Passcode?"
-date: 2024-09-28T14:21:53.023Z
-updated: 2024-09-30T10:23:55.793Z
+date: 2024-10-01T17:46:28.658Z
+updated: 2024-10-05T21:07:10.797Z
 tags:
   - windows
 categories:
@@ -44,16 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -91,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,20 +181,16 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>[New] 2024 Approved Add Shimmer to Photos Illustrator's Motion Blur Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-trimming-the-extras-a-practical-guide-to-instagram-video-edits/"><u>[New] 2024 Approved Trimming the Extras A Practical Guide to Instagram Video Edits</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-linux-screenshot-the-most-acclaimed-applications/"><u>[Updated] 2024 Approved Linux Screenshot The Most Acclaimed Applications</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-perfect-methods-for-computer-based-vhs-artistic-touches/"><u>2024 Approved Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/approaches-to-tackle-error-0x800700e1-on-windows-11-devices/"><u>Approaches to Tackle Error 0X800700E1 on Windows 11 Devices</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/essential-guide-to-editing-full-degree-videos-with-premiere-pro/"><u>Essential Guide to Editing Full Degree Videos with Premiere Pro</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-icloud-unlocker-download-unlock-icloud-lock-for-your-apple-iphone-se-by-drfone-ios/"><u>In 2024, iCloud Unlocker Download Unlock iCloud Lock for your Apple iPhone SE</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/microsoft-unveils-competitive-edge-with-new-copilotplus-pc-against-apples-m3-powered-macbooks-zdnet/"><u>Microsoft Unveils Competitive Edge with New Copilot+ PC Against Apple's M3 Powered MacBooks - ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/navigating-user-types-in-windows-11-setup-expert-tips-for-an-effortless-choice-pcmagazine/"><u>Navigating User Types in Windows 11 Setup: Expert Tips for an Effortless Choice | PCMagazine</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-mapi32dll-file-not-found-comprehensive-troubleshooting-guide/"><u>Resolving 'Mapi32.dll' File Not Found: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/revolutionizing-dev-routines-the-impact-of-gpt-based-tech-on-programmer-efficiency-perspectives-by-zdnet/"><u>Revolutionizing Dev Routines: The Impact of GPT-Based Tech on Programmer Efficiency - Perspectives by ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/the-ticking-clock-for-microsoft-addressing-major-windows-11-issues-in-a-race-against-time-zdnet-insights/"><u>The Ticking Clock for Microsoft: Addressing Major Windows 11 Issues in a Race Against Time | ZDNET Insights</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unveiling-bing-chats-dark-mode-feature-easily-activate-for-night-owls-zdnet/"><u>Unveiling Bing Chat's Dark Mode Feature - Easily Activate for Night Owls | ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/upcoming-roadmap-for-microsoft-revolutionary-shift-in-cloud-computing-advertising-and-hardware-integration/"><u>Upcoming Roadmap for Microsoft: Revolutionary Shift in Cloud Computing, Advertising & Hardware Integration</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-11-challenges-microsofts-race-against-time-within-just-one-year-technews-today/"><u>Windows 11 Challenges: Microsoft's Race Against Time Within Just One Year | TechNews Today</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-capturing-your-beloved-tv/"><u>[New] 2024 Approved The Ultimate Guide to Capturing Your Beloved TV</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-animationpros-complete-guide-24-for-2024/"><u>[New] AnimationPros Complete Guide '24 for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-10-camcorders-for-stellar-recordings-2024-edition-reviewed/"><u>[New] Top 10 Camcorders for Stellar Recordings 2024 Edition Reviewed</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1-easy-steps-for-implementing-your-personalized-signature-in-pdf-files/"><u>1. Easy Steps for Implementing Your Personalized Signature in PDF Files</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1-extend-your-mac-experience-a-comprehensive-guide-to-adding-an-external-monitor/"><u>1. Extend Your Mac Experience: A Comprehensive Guide to Adding an External Monitor</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/all-you-need-to-know-about-graphics-interchange-format-gif-explained/"><u>All You Need to Know About Graphics Interchange Format (GIF) Explained</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effective-techniques-for-capturing-facetime-conversations-on-your-device/"><u>Effective Techniques for Capturing FaceTime Conversations on Your Device</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effortless-cross-device-sharing-how-to-move-images-from-your-iphone-onto-a-windows-or-mac-computer/"><u>Effortless Cross-Device Sharing: How to Move Images From Your iPhone Onto a Windows or Mac Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-spark-20-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Spark 20 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-helldivers-2-error-with-msvcr110dll-not-found-problems/"><u>Resolve Helldivers 2 Error with MSVCR110.dll Not Found Problems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/l-power-in-gaming-channels-a-template-guidebook-for-2024/"><u>Visual Power in Gaming Channels A Template Guidebook for 2024</u></a></li>
 </ul></div>
 
