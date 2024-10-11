@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Dev Routines: The Impact of GPT-Based Tech on Programmer Efficiency - Perspectives by ZDNet"
-date: 2024-09-28T21:40:37.134Z
-updated: 2024-10-05T18:36:50.237Z
+date: 2024-10-09T16:23:25.704Z
+updated: 2024-10-11T16:04:23.192Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-secrets-for-striking-fb-video-promos/"><u>[New] Secrets for Striking FB Video Promos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premium-fullscreen-screen-recording-tools/"><u>[Updated] 2024 Approved Premium Fullscreen Screen Recording Tools</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722902836490-fire-stick-remote-not-working-here-are-the-quick-fixes-you-need/"><u>Fire Stick Remote Not Working? Here Are the Quick Fixes You Need</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-visual-markers-guide-customizing-instagram-photo-watermarks/"><u>In 2024, The Visual Marker's Guide Customizing Instagram Photo Watermarks</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/openai-releases-commercial-variant-of-chatgpt-expanding-ai-solutions-insights-from-zdnet/"><u>OpenAI Releases Commercial Variant of ChatGPT, Expanding AI Solutions: Insights From ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/purchase-premium-microsoft-project-and-visio-software-for-a-bargain-price-of-just-20license-via-zdnets-special-promotion/"><u>Purchase Premium Microsoft Project & Visio Software for a Bargain Price of Just $20/License via ZDNet's Special Promotion!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/revamped-microsoft-surface-studio-2-unleashed-the-ultimate-desktop-experience-for-creatives-awaits-insights-from-zdnet/"><u>Revamped Microsoft Surface Studio 2 Unleashed: The Ultimate Desktop Experience for Creatives Awaits - Insights From ZDNet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/top-5-ios-platforms-for-experiencing-classic-psp-games-for-2024/"><u>Top 5 iOS Platforms for Experiencing Classic PSP Games for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-seleccion-de-herramientas-gratis-para-comprimir-videos-sin-perder-calidad/"><u>Top Selección De Herramientas Gratis Para Comprimir Videos Sin Perder Calidad</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/understanding-various-microsoft-copilot-tools-a-comprehensive-guide-on-distinct-features-and-applications/"><u>Understanding Various Microsoft Copilot Tools: A Comprehensive Guide on Distinct Features & Applications</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unveiling-microsofts-latest-creation-high-tech-smart-trousers-for-only-150-what-you-need-to-know/"><u>Unveiling Microsoft’s Latest Creation: High-Tech Smart Trousers for Only $150? What You Need to Know</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-beginners-handbook-to-igtv-mastery/"><u>[New] In 2024, The Beginner's Handbook to IGTV Mastery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-clocking-down-the-big-day-10-best-mobile-apps-revealed/"><u>2024 Approved Clocking Down the Big Day 10 Best Mobile Apps Revealed</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/adding-timestamps-to-rtf-and-txt-files-when-converting-with-flash-books-using-flipbuildercom/"><u>Adding Timestamps to RTF and TXT Files when Converting with Flash Books Using FlipBuilder.com</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/adjusting-flash-window-colors-in-your-flipbook-projects-tips-and-tricks/"><u>Adjusting Flash Window Colors in Your FlipBook Projects - Tips & Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/anticipated-meta-quest-3-lite-exclusive-news-on-pricing-strategies-release-forecasts-and-device-specs-rumors/"><u>Anticipated Meta Quest 3 Lite - Exclusive News on Pricing Strategies, Release Forecasts & Device Specs Rumors</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/best-practices-for-creating-a-flipbook-template-integrating-inner-and-outer-image-backgrounds-learn-how-at-flipbuilder/"><u>Best Practices for Creating a Flipbook Template: Integrating Inner & Outer Image Backgrounds - Learn How at FlipBuilder</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/can-you-embed-videos-using-flipbuilders-flash-integration-tool/"><u>Can You Embed Videos Using FlipBuilder's Flash Integration Tool?</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/combining-several-pictures-into-one-digital-flipbook-a-comprehensive-guide-with-flipbuilder/"><u>Combining Several Pictures Into One Digital Flipbook: A Comprehensive Guide with FlipBuilder</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-multiple-pdf-files-into-editable-docx-documents-with-flipbuilder-free-download/"><u>Convert Multiple PDF Files Into Editable DOCX Documents with FlipBuilder - Free Download</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-your-pdfs-into-editable-text-formats-at-no-cost-maintain-the-original-layout-discover-flipbuildercom/"><u>Convert Your PDFs Into Editable Text Formats at No Cost - Maintain the Original Layout [Discover FlipBuilder.com!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/full-guide-to-apple-iphone-12-mini-icloud-bypass-by-drfone-ios/"><u>Full guide to Apple iPhone 12 mini iCloud Bypass</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-driver-update-for-brother-mfc-7360n-on-windows-10-8-and-7-download-now/"><u>Hassle-Free Driver Update for Brother MFC-7360N on Windows 10, 8 & 7 - Download Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-xiaomi-14-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi 14 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/las-formas-mas-eficaces-y-gratuitas-de-comprimir-archivos-video-en-formato-mkv-top-5-recomendaciones/"><u>Las Formas Más Eficaces Y Gratuitas De Comprimir Archivos Vídeo en Formato MKV - Top 5 Recomendaciones</u></a></li>
 </ul></div>
 

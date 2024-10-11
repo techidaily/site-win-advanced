@@ -1,7 +1,7 @@
 ---
 title: "Act Fast: Critical Update for Windows 11 (Builds 21H2 and 22H2) Before Support Terminates"
-date: 2024-09-29T20:31:07.152Z
-updated: 2024-10-05T20:19:25.637Z
+date: 2024-10-10T16:13:31.082Z
+updated: 2024-10-11T16:15:30.215Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-psychology-of-persuasion-in-subscription-growth/"><u>[Updated] 2024 Approved The Psychology of Persuasion in Subscription Growth</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-depth-analysis-asus-proart-pa-329q-4k-monitor-for-2024/"><u>[Updated] In-Depth Analysis Asus ProArt PA 329Q 4K Monitor for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/behind-the-scenes-how-microsoft-plans-to-outshine-apple-with-its-innovative-ai-processor/"><u>Behind the Scenes: How Microsoft Plans to Outshine Apple with Its Innovative AI Processor</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/craft-your-personal-touch-setting-up-custom-email-footers-using-microsoft-outlook/"><u>Craft Your Personal Touch: Setting Up Custom Email Footers Using Microsoft Outlook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/highly-recommended-animated-and-live-action-films-for-kids-on-netflix/"><u>Highly Recommended Animated and Live-Action Films for Kids on Netflix</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-pixelpartition-review/"><u>In 2024, PixelPartition Review</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-se-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On iPhone SE?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/iphone-15-pro-max-versus-samsung-s24-ultra-the-battle-of-flagship-phones-explained/"><u>IPhone 15 Pro Max Versus Samsung S24 Ultra: The Battle of Flagship Phones Explained</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/lenovo-x1-carbon-drivers-download-for-windows-10-and-7-easily/"><u>Lenovo X1 Carbon Drivers Download for Windows 10 & 7 [Easily]</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/mirillis-marketplace-your-digital-destination-for-exclusive-designs/"><u>Mirillis Marketplace: Your Digital Destination for Exclusive Designs</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/mirillis-comprehensive-media-asset-repository-and-solutions/"><u>Mirillis: Comprehensive Media Asset Repository & Solutions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nocturnal-narrative-videos-analysis-for-2024/"><u>Nocturnal Narrative Videos Analysis for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-stabilizing-palworld-performance-on-your-desktop-pc/"><u>Step-by-Step Solution: Stabilizing PalWorld Performance on Your Desktop PC</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/tailor-made-camera-frame-sets-with-unique-accents/"><u>Tailor-Made Camera Frame Sets with Unique Accents</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-rated-youtube-downloader-apps-for-bulk-video-and-audio-extraction/"><u>Top Rated YouTube Downloader Apps for Bulk Video and Audio Extraction</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-action-program-issue-overcoming-critical-error-101-successfully/"><u>Troubleshooting 'Action!' Program Issue - Overcoming Critical Error 101 Successfully</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/watch-zootopia-full-film-without-cost-get-mp4-mov-or-avi-versions-available-for-download-now/"><u>Watch Zootopia Full Film Without Cost – Get MP4, MOV or AVI Versions Available for Download Now!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-your-beginners-guide-to-making-money-on-youtubers/"><u>[New] In 2024, Your Beginner's Guide to Making Money on YouTubers</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027743843-clipchamp/"><u>Clipchampにてビデオからスチルショットを抽出可能か教えてください</u></a></li>
+<li><a href="https://fox-http.techidaily.com/easy-to-implement-opening-sequences-for-you-for-2024/"><u>Easy-to-Implement Opening Sequences for You for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027005866-facebook/"><u>Facebookビデオのカットと組み込み手順</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-can-you-capture-and-save-archived-web-videos-using-the-wayback-machine/"><u>How Can You Capture and Save Archived Web Videos Using the Wayback Machine?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-14-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone 14</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-innovating-quickly-2-approaches-to-making-snapchat-filters/"><u>In 2024, Innovating Quickly 2 Approaches to Making Snapchat Filters</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/los-mejor-reproductores-en-alta-definicion-4k-que-debe-tener-para-su-pc-o-mac-ranking-exclusivo/"><u>Los Mejor Reproductores en Alta Definición 4K Que Debe Tener Para Su PC O Mac: Ranking Exclusivo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-market-top-picks-in-monitors-for-enhanced-experience-with-ps5-and-xbox-series-sx/"><u>Navigating the Market: Top Picks in Monitors for Enhanced Experience with PS5 & Xbox Series S/X</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ct-pixels-in-a-minute-quick-fixes-with-studio-editor-for-2024/"><u>Perfect Pixels in a Minute Quick Fixes with Studio Editor for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/quick-and-easy-tips-how-to-rotate-your-movies-using-three-windows-11-tricks/"><u>Quick & Easy Tips: How to Rotate Your Movies Using Three Windows 11 Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-reduce-msmpengs-excessive-cpu-consumption-on-pc-windows-10/"><u>Resolved: How to Reduce MsMpEng's Excessive CPU Consumption on PC [Windows 10]</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/seamlessly-watch-flv-content-on-ios-devices-a-simple-tutorial/"><u>Seamlessly Watch FLV Content on iOS Devices - A Simple Tutorial</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/tedpc/"><u>TED演説ビデオのPCとスマートフォンから簡単なダウンロードガイド</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/ultimate-guide-effortlessly-download-high-resolution-8k-footage-using-top-video-converter/"><u>Ultimate Guide: Effortlessly Download High-Resolution 8K Footage Using Top Video Converter</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/vonage-vs-competitors-who-reigns-supreme-in-voip/"><u>Vonage Vs. Competitors: Who Reigns Supreme in VoIP?</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/pc2/"><u>ウィンドウズPC用手描き動画製作入門：2コツで始められるアニメーション制作の方法</u></a></li>
 </ul></div>
 

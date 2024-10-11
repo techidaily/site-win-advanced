@@ -1,7 +1,7 @@
 ---
 title: Tailor-Made Camera Frame Sets with Unique Accents
-date: 2024-09-29T23:13:43.558Z
-updated: 2024-10-05T17:42:58.437Z
+date: 2024-10-05T16:02:18.872Z
+updated: 2024-10-11T16:03:36.169Z
 tags:
   - product
 categories:
@@ -56,22 +56,15 @@ Action Tutorials
 
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_settings.jpg "Action! Webcam Settings") 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Set up your webcam using options available in Webcam Settings window. Open Action! Preview and use mouse to set your webcam position and size.
 
 ![Mirillis Action! - Webcam settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_always_record.jpg "Action! Webcam Settings") 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Create a graphic file with frame or shadow 
@@ -80,13 +73,6 @@ Action Tutorials
 
 ![Mirillis Action! - Create overlay graphic file](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_frame_graphics.jpg "Create overlay graphic file") 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Setup overlay graphics settings 
 
  Make sure to enable **Overlay graphics** option, select your PNG file as **Input file** and set correct overlay graphics **position** using Action! Preview area. 
@@ -94,10 +80,17 @@ Action Tutorials
 ![Mirillis Action! - Webcam - Overlay graphics settings](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_overlay_graphics_settings.jpg "Webcam recording - Overlay graphics settings") 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Make a test video recording 
@@ -105,6 +98,19 @@ Action Tutorials
  Make a test desktop or gameplay recording to check if your overlay graphic is placed correctly.
 
 ![Mirillis Action! - Gameplay recording with webcam and frame](https://mirillis.com/res/old/gfx/tutorials/webcams/mirillis_action_webcam_frame_graphics_recording.jpg "Gameplay recording with webcam and frame")
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,24 +127,24 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-leveraging-brand-partnerships-for-youtube-content-creators/"><u>[Updated] Leveraging Brand Partnerships for YouTube Content Creators</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-extend-your-mac-experience-a-comprehensive-guide-to-adding-an-external-monitor/"><u>1. Extend Your Mac Experience: A Comprehensive Guide to Adding an External Monitor</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/14s-easy-screenshot-shortcut-with-back-tap-technique/"><u>14'S Easy Screenshot Shortcut with Back Tap Technique</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/advanced-free-pdf-editor-and-highlighter-2020-enhance-pdf-reading-and-interaction/"><u>Advanced Free PDF Editor & Highlighter 2020 - Enhance PDF Reading and Interaction</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/create-personalized-holiday-greeting-videos-for-free-diy-guide/"><u>Create Personalized Holiday Greeting Videos for FREE - DIY Guide</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/discover-the-finest-screen-capture-software-for-windows-11-users-both-cost-free-and-subscription-services-compared/"><u>Discover the Finest Screen Capture Software for Windows 11 Users - Both Cost-Free and Subscription Services Compared</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/expert-picks-for-superior-mac-recording-software-in-macos-sierra-era/"><u>Expert Picks for Superior Mac Recording Software in macOS Sierra Era</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fostering-long-lasting-communication-with-gpt/"><u>Fostering Long-Lasting Communication with GPT</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-12-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 12 Pro Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-vivo-y200e-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y200e 5G Lock Screen Password</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-realme-12-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Realme 12 Pro 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-tecno-spark-10-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Tecno Spark 10 5G Easily?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-vr-game-engines/"><u>In 2024, Top VR Game Engines</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/practical-techniques-for-creating-successful-tutorial-videos-for-windows-and-macos-users/"><u>Practical Techniques for Creating Successful Tutorial Videos for Windows & macOS Users</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/quick-tips-on-how-to-exclude-specific-pages-in-a-pdf-file/"><u>Quick Tips on How to Exclude Specific Pages in a PDF File</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-s23-ultra-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy S23 Ultra with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-f5-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco F5 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformation-gratuite-de-dvd-en-hevch2-surveillance-un-guide-pour-la-qualite-maximale/"><u>Transformation Gratuite De DVD en HEVC/H.2 Surveillance : Un Guide Pour La Qualité Maximale</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/your-guide-to-understanding-why-microsoft-silently-discontinued-further-windows-11-support/"><u>Your Guide to Understanding Why Microsoft Silently Discontinued Further Windows 11 Support</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-filmmaking-for-the-future-adapting-videos-vertically-for-instagram/"><u>[New] 2024 Approved Filmmaking for the Future Adapting Videos Vertically for Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-infinite-loop-twitters-live-video-saga-in-23/"><u>[New] 2024 Approved Infinite Loop Twitter's Live Video Saga in '23</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-effortless-streaming-to-facebook-audiences-using-zoom/"><u>2024 Approved Effortless Streaming to Facebook Audiences Using Zoom</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed/"><u>2024 Approved Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-motorola-moto-g13-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Motorola Moto G13 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effortless-downloads-with-alavsoft-your-go-to-solution-for-macoswindows-beyond-traditional-youtube-dl/"><u>Effortless Downloads with Alavsoft: Your Go-To Solution for macOS/Windows, Beyond Traditional YouTube-Dl!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effortless-sohu-tv-content-downloading-get-high-quality-videos-as-mp4movavi-with-our-best-media-grabber-tool/"><u>Effortless Sohu TV Content Downloading - Get High-Quality Videos as MP4/MOV/AVI with Our Best Media Grabber Tool</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/free-mac-software-convert-and-download-youtube-videos-as-mp4movavi/"><u>Free Mac Software: Convert & Download YouTube Videos as MP4/MOV/AVI</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-family-flicks-for-kids-free-movie-downloads-in-multiple-formats-via-kid-movie-downloader/"><u>Get Family Flicks for Kids - Free Movie Downloads in Multiple Formats via Kid Movie Downloader</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-kuwo-hit-songs-music-videos-and-charts-high-quality-downloads-in-mp3wav-for-every-category/"><u>Get Kuwo Hit Songs, Music Videos & Charts - High-Quality Downloads in MP3/WAV for Every Category</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-microsoft-va-training-content-in-multiple-formats-mp4-wmv-avi-and-flv/"><u>Get Microsoft VA Training Content in Multiple Formats: MP4, WMV, AVI & FLV</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/guide-on-converting-and-downloading-ethiotube-media-files-into-popular-video-and-audio-formats/"><u>Guide on Converting and Downloading EthioTube Media Files Into Popular Video & Audio Formats.</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/guide-to-converting-flowplayer-media-to-mp4avi-formats-tips-for-macos-and-windows-users/"><u>Guide to Converting Flowplayer Media to MP4/AVI Formats: Tips for macOS & Windows Users</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/guide-to-extracting-media-content-from-canlplusfr-for-desktop-use/"><u>Guide to Extracting Media Content From canlplus.fr for Desktop Use</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-6-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 6 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-hurdles-a-step-by-step-guide-to-stabilizing-the-witcher-3-on-your-computer/"><u>Overcoming Technical Hurdles: A Step-by-Step Guide to Stabilizing The Witcher 3 on Your Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-is-now-examining-hp-envy-27s-innovations-for-2024/"><u>The Future Is Now Examining HP Envy 27'S Innovations for 2024</u></a></li>
 </ul></div>
 

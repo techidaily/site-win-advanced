@@ -1,7 +1,7 @@
 ---
 title: "Steps to Retrieve Data From a Locked Laptop: Lost Your Passcode?"
-date: 2024-10-01T17:46:28.658Z
-updated: 2024-10-05T21:07:10.797Z
+date: 2024-10-09T16:03:45.404Z
+updated: 2024-10-11T16:09:40.836Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,16 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-capturing-your-beloved-tv/"><u>[New] 2024 Approved The Ultimate Guide to Capturing Your Beloved TV</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-animationpros-complete-guide-24-for-2024/"><u>[New] AnimationPros Complete Guide '24 for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-10-camcorders-for-stellar-recordings-2024-edition-reviewed/"><u>[New] Top 10 Camcorders for Stellar Recordings 2024 Edition Reviewed</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-easy-steps-for-implementing-your-personalized-signature-in-pdf-files/"><u>1. Easy Steps for Implementing Your Personalized Signature in PDF Files</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-extend-your-mac-experience-a-comprehensive-guide-to-adding-an-external-monitor/"><u>1. Extend Your Mac Experience: A Comprehensive Guide to Adding an External Monitor</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/all-you-need-to-know-about-graphics-interchange-format-gif-explained/"><u>All You Need to Know About Graphics Interchange Format (GIF) Explained</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effective-techniques-for-capturing-facetime-conversations-on-your-device/"><u>Effective Techniques for Capturing FaceTime Conversations on Your Device</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effortless-cross-device-sharing-how-to-move-images-from-your-iphone-onto-a-windows-or-mac-computer/"><u>Effortless Cross-Device Sharing: How to Move Images From Your iPhone Onto a Windows or Mac Computer</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-tecno-spark-20-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Tecno Spark 20 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-helldivers-2-error-with-msvcr110dll-not-found-problems/"><u>Resolve Helldivers 2 Error with MSVCR110.dll Not Found Problems</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/l-power-in-gaming-channels-a-template-guidebook-for-2024/"><u>Visual Power in Gaming Channels A Template Guidebook for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-clueless-to-confident-configuring-zoom-made-simple/"><u>[Updated] From Clueless to Confident Configuring Zoom Made Simple</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-navigating-hashtag-use-for-maximum-marketing-reach/"><u>[Updated] Navigating Hashtag Use for Maximum Marketing Reach</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-full-spectrum-visionary-eizos-cg318-4k-reviewed-and-revealed/"><u>2024 Approved Full Spectrum Visionary EIZO's CG318-4K Reviewed and Revealed</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/a-decade-of-consequences-microsofts-enduring-struggle-with-past-mobile-errors-insights-from-zdnet/"><u>A Decade of Consequences: Microsoft's Enduring Struggle with Past Mobile Errors - Insights From ZDNet</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/dont-risk-security-breach-microsoft-ends-support-for-win-11-21h2-22h2-immediate-update-required-now/"><u>Don't Risk Security Breach: Microsoft Ends Support for Win 11 21H2, 22H2 – Immediate Update Required Now!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-choose-a-cost-effective-surface-pro-model-without-compromising-quality-a-personal-experience/"><u>How to Choose a Cost-Effective Surface Pro Model Without Compromising Quality - A Personal Experience.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-v27-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo V27 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/make-a-statement-with-free-profile-pics-for-2024/"><u>Make a Statement With Free Profile Pics for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/master-top-rated-task-automation-with-microsoft-get-started-on-presidents-day-special-at-just-20-exclusive-offer/"><u>Master Top-Rated Task Automation with Microsoft: Get Started on President's Day Special at Just $20 - Exclusive Offer!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/openai-releases-commercial-variant-of-chatgpt-expanding-ai-solutions-insights-from-zdnet/"><u>OpenAI Releases Commercial Variant of ChatGPT, Expanding AI Solutions: Insights From ZDNet</u></a></li>
+<li><a href="https://article-files.techidaily.com/pushing-boundaries-with-hps-next-gen-4k-display-envy-27/"><u>Pushing Boundaries with HP's Next Gen 4K Display, Envy 27</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/the-role-of-microsoft-windows-in-shaping-the-future-of-work-from-home-and-office-integration/"><u>The Role of Microsoft Windows in Shaping the Future of Work-From-Home and Office Integration</u></a></li>
 </ul></div>
 
