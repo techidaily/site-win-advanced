@@ -1,7 +1,7 @@
 ---
 title: Sul Vuoto? 5 Trichefici Strategie per Superare L'Impegno Del Trasferimento Dati Bloccato Sugli iPhone 14/15
-date: 2024-11-05T21:26:45.294Z
-updated: 2024-11-13T00:48:26.587Z
+date: 2024-11-20T01:10:14.365Z
+updated: 2024-11-22T17:05:17.918Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e27ba9c3d55f238a99b357fbb.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/919428e7eabfca4b711aa4a4cd51f4e93cb7908e2
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
@@ -42,13 +46,6 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
@@ -63,6 +60,10 @@ If you meet similar problems that you can’t find winload.efi, you have been in
 
 Before we fix the file winload.efi missing error, let’s explore the causes that may lie with it:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What caused winload.efi missing error?
 
 Causes of "winload.efi missing or contains error after clone" issues:
@@ -73,16 +74,13 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Option 1\. Use the Boot Repair Tool
 
@@ -104,38 +102,20 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
@@ -152,16 +132,13 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
@@ -175,6 +152,10 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -182,13 +163,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -211,13 +185,6 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 **✍Note**: Replace "**C**" with the system hard drive partition letter.
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
 
@@ -285,9 +252,17 @@ Was the provided information useful? Your vote is important to us!
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -310,10 +285,7 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free Get AOMEI Backupper Now
@@ -341,19 +313,24 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-twitters-mandated-video-dimensions-aspect-ratio-noted/"><u>[New] 2024 Approved Twitter's Mandated Video Dimensions (Aspect Ratio Noted)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-driving-traffic-to-long-form-videos-via-shorts-for-2024/"><u>[New] Driving Traffic to Long-Form Videos via Shorts for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-digital-to-physical-crafting-flawless-dvds-on-a-mac/"><u>[New] From Digital to Physical Crafting Flawless DVDs on a Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-viewership-responsibly-strategies-that-work/"><u>[New] In 2024, Boosting Viewership Responsibly Strategies That Work</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nlocking-music-free-converters-for-youtube-and-mac-users-for-2024/"><u>[New] Unlocking Music Free Converters for YouTube & Mac Users for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-efficiently-removing-youtube-channels-a-device-centric-approach/"><u>[Updated] In 2024, Efficiently Removing Youtube Channels A Device-Centric Approach</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-samsung-image-maker-insights-and-overview-2023/"><u>[Updated] Samsung Image Maker Insights & Overview 2023</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-how-to-recover-accidentally-deleted-downloads-or-folders-in-windows-11/"><u>1. How To Recover Accidentally Deleted Downloads Or Folders In Windows 11</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/des-astuces-pour-gerer-et-nettoyer-vos-sauvegardes-windows-section-1-advanced-problem-on-dental-materials-and-their-properties/"><u>Des Astuces Pour Gérer Et Nettoyer Vos Sauvegardes Windows # Section 1: Advanced Problem on Dental Materials and Their Properties</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/reinventez-votre-vieux-ordinateur-avec-un-nouvel-os-transformez-et-reutilisez-efficacement/"><u>Réinventez Votre Vieux Ordinateur Avec Un Nouvel OS – Transformez Et Réutilisez Efficacement!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/step-by-step-tutorial-on-restoring-deleted-webm-media-content/"><u>Step-by-Step Tutorial on Restoring Deleted WebM Media Content</u></a></li>
-<li><a href="https://article-files.techidaily.com/top-tier-auditory-theatre-plays/"><u>Top-Tier Auditory Theatre Plays</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-excellence-the-ultimate-guide-to-apple-arcade-games/"><u>Unlock Excellence: The Ultimate Guide to Apple Arcade Games</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows2/"><u>Windowsサーバーにおける2種類の同期手法:ファイル同時更新ガイド</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unveiling-the-best-video-grabber-listings/"><u>[Updated] In 2024, Unveiling the Best Video Grabber Listings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725288462451-windows-8-windows-11/"><u>步驟：轉換 Windows 8 成功地進行到 Windows 11 的無限制版更新</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chilling-out-cool-down-the-dough-just-right/"><u>Chilling Out: Cool Down the Dough Just Right</u></a></li>
+<li><a href="https://games-able.techidaily.com/compare-and-contrast-founder-original-and-aib-graphics-cards/"><u>Compare and Contrast: Founder Original & AIB Graphics Cards</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-logitech-t630-drivers-for-optimal-audio-experience-windows-2009-2021/"><u>Download and Install Logitech T630 Drivers for Optimal Audio Experience (Windows 2009-2021)</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easy-steps-setting-up-system-restore-on-windows-server-2019/"><u>Easy Steps: Setting Up System Restore on Windows Server 2019</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/erfolgreiches-datensicherungsprotokoll-fur-raw-festplatten-professionelle-tipps-und-tricks/"><u>Erfolgreiches Datensicherungsprotokoll Für RAW-Festplatten - Professionelle Tipps Und Tricks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-vivo-y100i-power-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Y100i Power 5G Lock Screen Password</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-in-depth-analysis-of-yuneecs-typhoon-h-drone-technology/"><u>In 2024, In-Depth Analysis of Yuneec's Typhoon H Drone Technology</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/le-prove-piu-affidabili-per-risolvere-linsufficienza-dellarchiviazione-vss-un-ranking-tops/"><u>Le Prove Più Affidabili per Risolvere L'Insufficienza Dell'Archiviazione VSS: Un Ranking Tops</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-on-8tb-samsung-t5-portable-ssd-up-to-36-off-post-prime-day-deals-now-at-amazon/"><u>Massive Discount on 8TB Samsung T5 Portable SSD - Up to 36% Off Post-Prime Day Deals, Now at Amazon!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/recuperacion-gratuita-de-discos-duros-formateados-en-windows-108711/"><u>Recuperación Gratuita De Discos Duros Formateados en Windows 10/8/7/11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/sed-caught-in-the-web-of-missing-shorts-for-2024/"><u>Released Caught in the Web of Missing Shorts for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/should-you-upgrade-to-newer-windows-os-a-detailed-comparison-of-windows-7-vs-10-vs-11/"><u>Should You Upgrade to Newer Windows OS? A Detailed Comparison of Windows 7 Vs. 10 Vs. 11</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/sichere-iphone-daten-mit-diesen-3-alternativen-losungen-keine-notwendigkeit-von-icloud/"><u>Sichere iPhone-Daten Mit Diesen 3 Alternativen Lösungen, Keine Notwendigkeit Von iCloud</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-resolving-the-12002-error-on-your-windows-computer/"><u>Step-by-Step Guide: Resolving the 12002 Error on Your Windows Computer</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-video-to-live-photo-the-ultimate-app-roundup-and-tutorial/"><u>Updated 2024 Approved From Video to Live Photo The Ultimate App Roundup and Tutorial</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728503606823-windows-11/"><u>ピクチャリソーシュナブの変更：Windows 11でドライブ間転送方法</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728466540553-windows-11/"><u>ファイル・フォルダが消えない？Windows 11での力任せ削除手段を学ぶ。</u></a></li>
 </ul></div>
 
