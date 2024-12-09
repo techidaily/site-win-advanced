@@ -1,7 +1,7 @@
 ---
 title: Free Update Packs Available for Pro DEX3 and Mac Karaoke App LYRX - Download Now
-date: 2024-11-26T06:27:20.624Z
-updated: 2024-12-01T07:37:21.455Z
+date: 2024-12-01T23:23:37.989Z
+updated: 2024-12-08T20:52:06.670Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ DEX 3.9.0.5 | Global Support For Party Tyme Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 [LEARN MORE ABOUT DEX 3 ![Party Tyme Karaoke Subscription for DEX 3 karaoke software](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/DEX3-PartyTyme.jpg?fit=300%2C169&ssl=1 "Party Tyme Karaoke Subscription for DEX 3 karaoke software")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.9.0.5 is now available as a free update for existing DEX 3 owners. Largely a maintenance release with under-the-hood performance improvements, DEX 3 version 3.9.0.5 brings world-wide (with the exemption of Japan) support for the Party Tyme Karaoke Subscription service.
@@ -46,7 +46,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [DOWNLOAD DEX 3.9.0.5 FREE TRIAL](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### LYRX v1.1.1 | Global Support For Party Tyme Karaoke And Ultra-Wide Screen Support
@@ -54,7 +54,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [LEARN MORE ABOUT LYRX ![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?fit=300%2C188&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX version 1.1.1 also brings global support for the Party Tyme Karaoke Subscription (Japan being the only exemption) as well as support for ultra-wide displays (21:9 aspect ratio). A few minor tweaks to the user interface have been applied as well as a few minor bug fixes and various performance improvements.
@@ -75,7 +75,7 @@ LYRX with Party Tyme Karaoke provides KJs and karaoke venues the perfect duet of
 [LEARN MORE ABOUT THE PARTY TYME KARAOKE SUBSCRIPTION](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -97,20 +97,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/lyrxdex3updatept-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-a-guide-to-instagram-video-brilliance-with-templates-for-2024/"><u>[New] A Guide to Instagram Video Brilliance with Templates for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-spearheading-social-media-select-the-best-video-editors-for-ig/"><u>[New] Spearheading Social Media Select the Best Video Editors for IG</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-boost-your-creative-output-mastering-template-centric-video-making-for-tiktok/"><u>[Updated] 2024 Approved Boost Your Creative Output Mastering Template-Centric Video Making for TikTok</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-step-by-step-guide-to-using-polarr-for-stunning-images/"><u>A Step-by-Step Guide to Using Polarr for Stunning Images</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/come-recuperare-i-tuoi-file-e-cartelle-con-il-backup-di-aomei-cloud/"><u>Come Recuperare I Tuoi File E Cartelle Con Il Backup Di AOMEI Cloud</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effiziente-speicheroptimierung-selbstreinigende-funktion-bei-onedrive-dateien-loschen/"><u>Effiziente Speicheroptimierung: Selbstreinigende Funktion Bei OneDrive-Datei(en) Löschen</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/guide-to-crafting-effective-festive-season-text-message-blitzes-via-massmail-software/"><u>Guide to Crafting Effective Festive Season Text Message Blitzes via MassMail Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-use-green-screen-in-kinemaster/"><u>How To Use Green Screen In KineMaster</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/quick-guide-how-to-implement-simple-restore-features-in-windows-server-2019/"><u>Quick Guide: How To Implement Simple Restore Features In Windows Server 2019</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/resolve-your-editing-softwares-limitations-in-windows-11-a-guide-to-essential-plugins-and-extensions/"><u>Resolve Your Editing Software's Limitations in Windows 11 - A Guide to Essential Plugins and Extensions</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/restauracion-de-sistema-profesional-aomei-onekey-recupere-sin-esfuerzo-sus-archivos-y-particion/"><u>Restauración De Sistema Profesional AOMEI OneKey - Recupere Sin Esfuerzo Sus Archivos Y Partición</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/twitter-elite-moments-live-on-snapchat-for-2024/"><u>Twitter Elite Moments Live on Snapchat for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728505771028-usbos/"><u>USBフラッシュドライブへのOSバックアップを手軽に実行する方法</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/podrobnoe-rukovodstvo-po-klonirovaniyu-hdd-na-m2-ssd-metod-ustanovki-i-zagruzochnyj-process/"><u>Подробное Руководство По Клонированию HDD На M.2 SSD: Метод Установки И Загрузочный Процесс</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728501251738-windows-11/"><u>システム設定変更後Windows 11データ保護 - バックアップガイド</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-innovative-split-screen-videos-for-youtube-sharing/"><u>[New] 2024 Approved Innovative Split-Screen Videos for YouTube Sharing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlock-visual-potential-with-smart-photo-text-tools-online/"><u>[New] 2024 Approved Unlock Visual Potential with Smart Photo Text Tools Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-hide-and-seek-top-5-for-secret-story-lovers/"><u>[Updated] 2024 Approved Hide & Seek Top 5 For Secret Story Lovers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-seamless-youtube-experience-facebooks-autoplay-solution/"><u>[Updated] In 2024, Seamless YouTube Experience Facebook's Autoplay Solution</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1728482179087-windows-11/"><u>如何在 Windows 11 中修复丢失的重构分区（终极指南）</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/are-regular-windows-defender-updates-delivered-automatically-insights-by-yl-computing/"><u>Are Regular Windows Defender Updates Delivered Automatically? - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/dvd-winx-dvd-copy-iso/"><u>DVD 복사를 위해 WinX DVD Copy를 사용하여 ISO 파일을 생성하는 방법</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easily-extract-compressed-files-using-windows-built-in-tools-tips-from-yl-computing/"><u>Easily Extract Compressed Files Using Windows' Built-In Tools - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/engaging-local-audiences-with-social-media-videos-for-2024/"><u>Engaging Local Audiences with Social Media Videos for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/exploring-the-factors-contributing-to-weak-sound-quality-on-audio-gadgets-a-guide-by-yl-software-experts/"><u>Exploring the Factors Contributing to Weak Sound Quality on Audio Gadgets - A Guide by YL Software Experts</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-can-you-accelerate-your-computers-performance-expert-tips-from-yl-computing/"><u>How Can You Accelerate Your Computer's Performance: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-your-presents-10-leading-e-commerce-platforms-unveiled/"><u>In 2024, Tailoring Your Presents 10 Leading E-Commerce Platforms Unveiled</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/preserve-high-quality-viewing-for-the-wolverine-dvd-ripping-process/"><u>Preserve High-Quality Viewing for 'The Wolverine' DVD Ripping Process</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/stunning-easter-hd-walls-and-visuals-for-your-pcphone-powered-by-yl-computings-imagery-selection/"><u>Stunning Easter HD Walls and Visuals for Your PC/Phone - Powered by YL Computing's Imagery Selection</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-guide-getting-your-internet-connection-back-with-tips-from-yl-software/"><u>Troubleshooting Guide: Getting Your Internet Connection Back with Tips From YL Software</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-steps-how-to-fix-windows-not-recognizing-your-scanner-tips-from-yl-computing/"><u>Troubleshooting Steps: How to Fix Windows Not Recognizing Your Scanner - Tips From YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/yl-computings-ultimate-troubleshooting-techniques-for-a-damaged-notebook-screen-fixes/"><u>YL Computing's Ultimate Troubleshooting Techniques for a Damaged Notebook Screen Fixes</u></a></li>
 </ul></div>
 

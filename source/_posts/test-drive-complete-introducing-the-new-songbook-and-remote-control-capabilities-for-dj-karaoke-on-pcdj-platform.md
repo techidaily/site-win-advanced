@@ -1,7 +1,7 @@
 ---
 title: "Test Drive Complete: Introducing the New Songbook & Remote Control Capabilities for DJ Karaoke on PCDJ Platform."
-date: 2024-11-25T19:41:21.690Z
-updated: 2024-12-01T06:08:55.487Z
+date: 2024-12-06T09:26:25.161Z
+updated: 2024-12-08T17:47:50.587Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What is SongBookDB?_
@@ -31,7 +31,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 [![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?resize=461%2C550&ssl=1 "songbookdb")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?fit=461%2C550&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 SongbookDB is a karaoke song book app (_web-app, Android, and soon iOS_) that lets the public view and browse KJ’s songbooks on their mobile devices.
@@ -59,13 +59,13 @@ We’re in the final stages of integration now and are looking for a few beta te
 What we’re testing right now is support for PCDJ Karaoki’s TSV files (_TSV files are exported from Karaoki cases_). Export a TSV from PCDJ Karaoki, and upload to SongBook DB. As we get closer to a release, beta testers that sign up now will get a priority look at the full platform and release candidate additionally!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If you’d like to take part in the beta test, please fill out the form below and we’ll get in touch with you shortly:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,18 +87,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimagejpg.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-real-time-photo-sharing-in-google-meet-for-2024/"><u>[New] Mastering Real-Time Photo Sharing in Google Meet for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-canva-expertise-10-sneak-peek-tips-for-photo-editors/"><u>[Updated] Canva Expertise 10 Sneak Peek Tips for Photo Editors</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-high-quality-speech-to-text-solutions/"><u>[Updated] High-Quality Speech-to-Text Solutions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-securely-growing-your-channels-popularity-a-one-million-goal-guide/"><u>[Updated] Securely Growing Your Channel's Popularity A One-Million Goal Guide</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/comment-resoudre-les-problemes-de-non-reconnaissance-du-ssd-samsung-t7-sous-windows-11-3-solutions-efficaces/"><u>Comment Résoudre Les Problèmes De Non-Reconnaissance Du SSD Samsung T7 Sous Windows 11: 3 Solutions Efficaces</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/explore-the-features-of-emeditor-the-ultimate-text-editing-software/"><u>Explore the Features of EmEditor - The Ultimate Text Editing Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-web-video-file-changer-convert-avi-to-mp4-easily-with-the-help-of-movevivai/"><u>Free Web Video File Changer - Convert AVI To MP4 Easily With the Help of MoveVIvAi</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-address-overwatch-2-device-rendering-issue/"><u>How to Address Overwatch 2 Device Rendering Issue</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-itel-p55plus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Itel P55+ to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/tecnicas-efectivas-de-recuperacion-de-informacion-borrada-en-un-unidad-exterior/"><u>Técnicas Efectivas De Recuperación De Información Borrada en Un Unidad Exterior</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ozy-cinematic-approach-to-cold-season-videography/"><u>The Cozy Cinematic Approach to Cold Season Videography</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-11-wd-ssd/"><u>Windows 11 データ移行の専門レシピ: WD SSDへのコピー手順詳細ガイド</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/data-ka-vapasa-usb-sakashana-ma-rakhana-ka-taraka/"><u>डेटा को वापस USB सेक्शन में रखने के तरीके</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-become-a-pro-downloading-and-setting-up-vrecord/"><u>[Updated] 2024 Approved Become a Pro Downloading & Setting Up VRecord</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-picks-user-friendly-software-for-new-game-recorders-and-editors/"><u>[Updated] In 2024, Top Picks User-Friendly Software for New Game Recorders & Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-no-money-photo-enhancers-for-web-users/"><u>[Updated] Top 10 No-Money Photo Enhancers for Web Users</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/adjusting-your-sign-in-settings-a-step-by-step-guide-with-yl-computing/"><u>Adjusting Your Sign-In Settings: A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/best-free-stunning-4k-starry-sky-walls-and-backgrounds-download-high-res-images-at-yl-computing/"><u>Best Free Stunning 4K Starry Sky Walls & Backgrounds - Download High-Res Images at YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/captivating-ocean-views-at-dusk-premium-sunset-beach-hd-imagery-and-photos-from-yl-software/"><u>Captivating Ocean Views at Dusk: Premium Sunset Beach HD Imagery & Photos From YL Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/electronic-gamblers-journal/"><u>ELECTRONIC GAMBLER'S JOURNAL</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-xs-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone XS without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-securely-set-up-dual-or-multi-graphics-card-configurations-with-guidance-from-yl-computing/"><u>How to Securely Set Up Dual or Multi-Graphics Card Configurations with Guidance From YL Computing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-from-basic-to-pro-3-advanced-transition-techniques-in-fcp-for-2024/"><u>New From Basic to Pro 3 Advanced Transition Techniques in FCP for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-add-emojis-to-videos-the-ultimate-guide/"><u>New In 2024, How to Add Emojis to Videos The Ultimate Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/resolving-monitor-issues-what-if-you-encounter-a-blank-display-insights-by-yl-computing/"><u>Resolving Monitor Issues: What If You Encounter a Blank Display? Insights by YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-accessing-and-using-powerpoint-files-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing and Using PowerPoint Files - Tips From YL Computing</u></a></li>
 </ul></div>
 

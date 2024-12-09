@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ's Newest Mixing Console: The DDJ-SR2 with Enhanced DEX3 Compatibility for DJ Pros"
-date: 2024-11-27T19:50:34.806Z
-updated: 2024-11-30T23:13:47.544Z
+date: 2024-12-04T21:32:24.602Z
+updated: 2024-12-09T06:58:24.463Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Now that we’ve released a custom map (available below), [DEX 3](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a look at some of the key features included with the DDJ-SR2:
@@ -86,7 +86,7 @@ The built-in 2-channel mixer on the DDJ-SR2 is ideal for scratch performances. T
 _Have questions about the **Pioneer DJ DDJ-SR2** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -108,22 +108,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/ddjsr2cover-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-heres-how-you-can-ace-the-tiktok-photo-editing-hacks/"><u>[New] Here’s How You Can Ace the TikTok Photo Editing Hacks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-professional-tips-top-10-text-effects/"><u>[New] In 2024, Professional Tips Top 10 Text Effects</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-shine-up-advanced-setups-to-make-your-clips-pop/"><u>[Updated] Shine Up Advanced Setups to Make Your Clips Pop</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/hdd-windows-11/"><u>容易なHDDイメージのバックアップ - Windows 11で学ぶ基本的テクニック</u></a></li>
-<li><a href="https://article-helps.techidaily.com/airborne-ingenuity-sections/"><u>Airborne Ingenuity Sections</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/datensicherung-mit-original-firmware-einstellungen-fur-maximalen-datenschutz/"><u>Datensicherung Mit Original-Firmware-Einstellungen Für Maximalen Datenschutz</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-learning-how-to-track-opened-messages-in-gmail/"><u>Guide: Learning How to Track Opened Messages in Gmail</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/hddsuneast-ssd4/"><u>HDDからSUNEAST SSDへ容易なクローニング手順を解説:4ステップマニュアル</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-it-time-to-upgrade-a-detailed-comparison-between-iphone-16-and-iphone-15-making-an-informed-choice-with-apples-latest-offerings/"><u>Is It Time to Upgrade? A Detailed Comparison Between iPhone 16 & iPhone 15 - Making an Informed Choice with Apple's Latest Offerings</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/les-meilleurs-outils-libres-de-synchronisation-sur-le-cloud-pour-les-pc-protection-et-acces-facile-aux-fichiers/"><u>Les Meilleurs Outils Libres De Synchronisation Sur Le Cloud Pour Les PC: Protection Et Accès Facile Aux Fichiers</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/resolved-ending-windows-recovery-modes-continuous-loop/"><u>Resolved: Ending Windows Recovery Mode's Continuous Loop</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-unable-to-get-settings-issue-in-nvidia-geforce-experience/"><u>Resolving 'Unable to Get Settings' Issue in NVIDIA GeForce Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformez-votre-fichier-mpg-en-mp4-sans-frais-conversion-video-rapide-avec-movavi/"><u>Transformez Votre Fichier MPG en MP4 Sans Frais - Conversion Vidéo Rapide Avec Movavi</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728496666623-windows-1011ssd/"><u>Windows 10/11対応：高性能な大容量SSDに安全にデータ移行のガイド</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-11-a-comprehensive-tutorial-for-retrieving-unintentionally-erased-excel-files/"><u>Windows 11: A Comprehensive Tutorial for Retrieving Unintentionally Erased Excel Files</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-win111087wd/"><u>Windows 系统(Win11/10/8/7)中WD备份功能故障症状及迅速解决方法</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-stream-in-superior-quality-on-facebook-network/"><u>[New] 2024 Approved How To Stream in Superior Quality on Facebook Network</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easily-find-and-add-compatible-toshiba-copier-drivers-to-your-windows-device/"><u>Easily Find & Add Compatible Toshiba Copier Drivers to Your Windows Device</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-microsoft-surface-pro-going-strong-download-and-install-necessary-windows-drivers-here/"><u>Get Your Microsoft Surface Pro Going Strong – Download and Install Necessary Windows Drivers Here!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/high-quality-fiat-emblem-backgrounds-for-pc-download-and-use-with-ease-yl-computing-solutions/"><u>High-Quality Fiat Emblem Backgrounds for PC: Download & Use with Ease - YL Computing Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-ace-3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Ace 3 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-apple-iphone-6s-plus-by-drfone-ios/"><u>How To Unlink Apple ID From Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/is-real-time-threat-detection-feature-of-windows-defender-effective-insights-from-yl-computing/"><u>Is Real-Time Threat Detection Feature of Windows Defender Effective? - Insights From YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-13t-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi 13T</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/resolving-scan-operation-errors-expert-solutions-from-yl-computings-software-suite/"><u>Resolving Scan Operation Errors: Expert Solutions From YL Computing's Software Suite</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamline-and-simplify-efficiently-removing-games-from-steam/"><u>Streamline & Simplify: Efficiently Removing Games From Steam</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-2021-beatsource-chart-hits-years-best-plays-on-pcdj/"><u>Top 2021 Beatsource Chart Hits: Year's Best Plays on PCDJ</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/understanding-distinct-features-comparing-computer-viruses-with-worms-insights-from-yl-software-solutions/"><u>Understanding Distinct Features: Comparing Computer Viruses with Worms - Insights From YL Software Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/update-captions-and-comments-after-publishing-on-instagram-a-how-to-guide/"><u>Update Captions & Comments After Publishing on Instagram: A How-To Guide</u></a></li>
 </ul></div>
 
