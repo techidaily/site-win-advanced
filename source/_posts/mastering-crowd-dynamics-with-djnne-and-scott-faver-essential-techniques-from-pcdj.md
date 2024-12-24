@@ -1,7 +1,7 @@
 ---
 title: Mastering Crowd Dynamics with DJNNE and Scott Faver – Essential Techniques From PCDJ
-date: 2024-12-10T08:00:50.350Z
-updated: 2024-12-14T20:11:28.981Z
+date: 2024-12-18T16:56:39.405Z
+updated: 2024-12-24T12:25:45.666Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ This week, we felt inclined to share a video recently shot and released by Disc 
 During this weeks segment DJNN hosts Scott Faver, known in the industry as the Game Master. He share’s his insights in reading the vibe from a group of people so he can play to his audiences tastes in music. DJing is all about being a great “selector” of music, to ensure a packed dance floor and memorable occasion (_and more referrals!_):  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,22 +42,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/readingthevibe.jpg?fit=530
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-eyecapture-screen-logger-x/"><u>[New] In 2024, EyeCapture Screen Logger X</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-masterclass-setting-up-countdowns-in-obs-studio-for-2024/"><u>[New] Masterclass Setting Up Countdowns in OBS Studio for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/best-free-stunning-4k-starry-sky-walls-and-backgrounds-download-high-res-images-at-yl-computing/"><u>Best Free Stunning 4K Starry Sky Walls & Backgrounds - Download High-Res Images at YL Computing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/captivating-ocean-views-at-dusk-premium-sunset-beach-hd-imagery-and-photos-from-yl-software/"><u>Captivating Ocean Views at Dusk: Premium Sunset Beach HD Imagery & Photos From YL Software</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/download-your-favorite-red-bull-tv-shows-in-high-quality-formats-mp4-and-avi-downloading-tutorial/"><u>Download Your Favorite Red Bull TV Shows in High Quality Formats: MP4 & AVI Downloading Tutorial</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-effective-is-microsofts-windows-defender-in-shielding-against-cyber-threats-expert-analysis-by-yl-software/"><u>How Effective Is Microsoft's Windows Defender in Shielding Against Cyber Threats? – Expert Analysis by YL Software</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-securely-set-up-dual-or-multi-graphics-card-configurations-with-guidance-from-yl-computing/"><u>How to Securely Set Up Dual or Multi-Graphics Card Configurations with Guidance From YL Computing</u></a></li>
-<li><a href="https://facebook.techidaily.com/investigating-prior-facebook-connections/"><u>Investigating Prior Facebook Connections</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mastering-screen-recordings-in-gotomeeting-for-2024/"><u>Mastering Screen Recordings in GoToMeeting for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/resolving-monitor-issues-what-if-you-encounter-a-blank-display-insights-by-yl-computing/"><u>Resolving Monitor Issues: What If You Encounter a Blank Display? Insights by YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-windows-11-sound-cut-outs-effective-techniques-for-stable-audio-experience/"><u>Solve Windows 11 Sound Cut-Outs: Effective Techniques for Stable Audio Experience</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-accessing-and-using-powerpoint-files-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing and Using PowerPoint Files - Tips From YL Computing</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210055420-9789389716382-the-master-key-system/"><u>The Master Key System | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-customizing-w11s-transparent-bar/"><u>The Ultimate Guide to Customizing W11's Transparent Bar</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-guide-how-to-fix-when-your-windows-pc-wont-detect-an-external-hdd-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How to Fix When Your Windows PC Won't Detect an External HDD - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-fixing-windows-compatibility-with-blizzards-battlenet-launcher/"><u>Troubleshooting Steps: Fixing Windows Compatibility with Blizzard's Battle.net Launcher</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/which-hardware-is-inside-your-pc-find-out-with-yl-computings-detailed-explanation/"><u>Which Hardware Is Inside Your PC? Find Out with YL Computing’s Detailed Explanation!</u></a></li>
+<li><a href="https://win-great.techidaily.com/toute-linformation-necessaire-comment-migrer-efficacement-vos-donnees-du-disque-dur-vers-un-ssd-via-usb-le-guide-detaille/"><u>[Toute L'information Nécessaire !] Comment Migrer Efficacement Vos Données Du Disque Dur Vers Un SSD via USB : Le Guide Détaillé.</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ideal-timing-aids-the-best-clock-apps-for-your-big-day-for-2024/"><u>[Updated] Ideal Timing Aids The Best Clock Apps For Your Big Day for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-ioss-best-selection-of-premium-psp-emulators/"><u>[Updated] IOS's Best Selection of Premium PSP Emulators</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-11-innovative-sites-for-crafting-impactful-fb-cover-photos-for-2024/"><u>[Updated] Top 11 Innovative Sites for Crafting Impactful FB Cover Photos for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1-unlocking-audio-files-on-windows-11-a-step-by-step-guide-techease-solutions/"><u>1. Unlocking Audio Files on Windows 11: A Step-by-Step Guide - TechEase Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-a78-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-google-pixel-8-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Google Pixel 8 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-extensive-breakdown-gecata-tracking-device-assessment/"><u>2024 Approved Extensive Breakdown Gecata Tracking Device Assessment</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/complete-guide-to-renaming-files-and-directories-tips-from-yl-computings-expert-tools/"><u>Complete Guide to Renaming Files and Directories - Tips From YL Computing's Expert Tools</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/hd-beach-scenes-high-resolution-wallpapers-and-backgrounds-for-summer-vibes-yl-computing-solutions/"><u>HD Beach Scenes - High-Resolution Wallpapers & Backgrounds for Summer Vibes | YL Computing Solutions</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-locate-your-pcs-device-manager-a-guide-by-yl-computing/"><u>How to Locate Your PC's Device Manager: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-speed-up-your-sluggish-pc-expert-tips-from-yl-computing/"><u>How to Speed Up Your Sluggish PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-precision-portals-to-ps3-gaming-on-windows/"><u>In 2024, Precision Portals to Ps3 Gaming on Windows</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-a-non-responsive-printer-solutions-and-tips-yl-computing-experts/"><u>Troubleshooting a Non-Responsive Printer: Solutions & Tips - YL Computing Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-low-frames-per-second-in-counter-strike-2-maximize-pc-performance/"><u>Troubleshooting Low Frames Per Second in Counter-Strike 2: Maximize PC Performance</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-how-to-fix-your-unresponsive-keyboard-and-mouse-expert-tips-from-yl-computing/"><u>Troubleshooting: How to Fix Your Unresponsive Keyboard and Mouse - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/uncovering-typical-reasons-behind-graphics-card-issues-insights-from-yl-computing-and-software/"><u>Uncovering Typical Reasons Behind Graphics Card Issues: Insights From YL Computing & Software</u></a></li>
+<li><a href="https://win11.techidaily.com/wmv-vs-mp4-understanding-the-key-differences-and-how-to-convert-wmv-video-format/"><u>WMV vs MP4: Understanding the Key Differences and How to Convert WMV Video Format</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/yl-software-insights-mastering-image-sequence-customization-in-windows-photo-viewer/"><u>YL Software Insights: Mastering Image Sequence Customization in Windows Photo Viewer</u></a></li>
 </ul></div>
 

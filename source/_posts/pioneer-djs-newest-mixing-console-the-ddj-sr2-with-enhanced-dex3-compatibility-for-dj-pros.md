@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ's Newest Mixing Console: The DDJ-SR2 with Enhanced DEX3 Compatibility for DJ Pros"
-date: 2024-12-13T11:58:05.911Z
-updated: 2024-12-14T18:26:11.549Z
+date: 2024-12-22T18:42:59.978Z
+updated: 2024-12-23T18:00:52.324Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Now that we’ve released a custom map (available below), [DEX 3](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a look at some of the key features included with the DDJ-SR2:
@@ -86,7 +86,7 @@ The built-in 2-channel mixer on the DDJ-SR2 is ideal for scratch performances. T
 _Have questions about the **Pioneer DJ DDJ-SR2** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -108,20 +108,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/ddjsr2cover-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nlocking-the-secrets-to-parallel-playback-prowess-for-2024/"><u>[New] Unlocking the Secrets to Parallel Playback Prowess for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-best-practices-leveraging-videos-to-boost-education/"><u>[Updated] In 2024, Best Practices Leveraging Videos to Boost Education</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/analyzing-the-consequences-a-deep-dive-into-the-impact-of-the-sino-japanese-conflict-by-yl-computing/"><u>Analyzing the Consequences: A Deep Dive Into the Impact of the Sino-Japanese Conflict by YL Computing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-fix-an-uncooperative-computer-mouse-solutions-from-yl-computing/"><u>How to Fix an Uncooperative Computer Mouse: Solutions From YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovations-in-ai-discovering-the-distinctive-aspects-of-bert-versus-traditional-gpt-methodologies/"><u>Innovations in AI: Discovering the Distinctive Aspects of BERT Versus Traditional GPT Methodologies</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/master-windows-clock-customization-expert-techniques-by-yl-software/"><u>Master Windows Clock Customization: Expert Techniques by YL Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/reviewing-the-core-of-magix-photo-framework/"><u>Reviewing the Core of MAGIX Photo Framework</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silencing-intermittent-audio-in-bluetooth-devices-on-windows-10-and-11-pcs/"><u>Silencing Intermittent Audio in Bluetooth Devices on Windows 10 and 11 PCs</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-guide-how-to-fix-a-malfunctioning-sound-card-tips-from-yl-computing/"><u>Troubleshooting Guide: How to Fix a Malfunctioning Sound Card - Tips From YL Computing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-guide-how-to-fix-when-your-windows-pc-wont-detect-an-external-hdd-expert-advice-from-yl-computing/"><u>Troubleshooting Guide: How to Fix When Your Windows PC Won't Detect an External HDD - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-best-split-screen-video-editor-online-and-offline/"><u>Updated Best Split Screen Video Editor Online & Offline</u></a></li>
-<li><a href="https://facebook.techidaily.com/visual-storytelling-creating-collages-for-facebook-narratives/"><u>Visual Storytelling: Creating Collages for Facebook Narratives</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/which-hardware-is-inside-your-pc-find-out-with-yl-computings-detailed-explanation/"><u>Which Hardware Is Inside Your PC? Find Out with YL Computing’s Detailed Explanation!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-from-bland-to-blockbuster-framing-videos-in-a-square-perspective/"><u>[New] From Bland to Blockbuster Framing Videos in a Square Perspective</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-passion-to-paychecks-your-vlog-venture-guide/"><u>[New] From Passion to Paychecks Your Vlog Venture Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1-unlocking-audio-files-on-windows-11-a-step-by-step-guide-techease-solutions/"><u>1. Unlocking Audio Files on Windows 11: A Step-by-Step Guide - TechEase Solutions</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/combat-persistent-attempting-data-recovery-errors-in-ios-fixes-unveiled/"><u>Combat Persistent 'Attempting Data Recovery' Errors in iOS – Fixes Unveiled</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-locate-your-pcs-device-manager-a-guide-by-yl-computing/"><u>How to Locate Your PC's Device Manager: A Guide by YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-zero-30-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Zero 30 5G Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/inside-look-how-youtuber-shorts-work-for-2024/"><u>Inside Look How Youtuber Shorts Work for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/propella-7s-40-evaluation-sleek-design-agile-performance-budget-friendly/"><u>Propella 7S 4.0 Evaluation: Sleek Design, Agile Performance, Budget-Friendly</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/resolving-memory-issues-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Resolving Memory Issues on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/smooth-soundscape-in-windows-fixing-soundcard-irritations/"><u>Smooth Soundscape in Windows: Fixing Soundcard Irritations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/spartan-written-perfection-pursued/"><u>Spartan' Written: Perfection Pursued</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/updating-system-drivers-made-simple-with-expert-advice-from-yl-computing/"><u>Updating System Drivers Made Simple with Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/yl-software-insights-mastering-image-sequence-customization-in-windows-photo-viewer/"><u>YL Software Insights: Mastering Image Sequence Customization in Windows Photo Viewer</u></a></li>
 </ul></div>
 
