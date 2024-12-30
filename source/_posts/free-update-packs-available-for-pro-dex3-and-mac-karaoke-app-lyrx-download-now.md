@@ -1,7 +1,7 @@
 ---
 title: Free Update Packs Available for Pro DEX3 and Mac Karaoke App LYRX - Download Now
-date: 2024-12-17T06:52:40.893Z
-updated: 2024-12-23T19:12:22.743Z
+date: 2024-12-25T19:27:26.665Z
+updated: 2024-12-29T21:38:59.981Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ DEX 3.9.0.5 | Global Support For Party Tyme Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 [LEARN MORE ABOUT DEX 3 ![Party Tyme Karaoke Subscription for DEX 3 karaoke software](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/DEX3-PartyTyme.jpg?fit=300%2C169&ssl=1 "Party Tyme Karaoke Subscription for DEX 3 karaoke software")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.9.0.5 is now available as a free update for existing DEX 3 owners. Largely a maintenance release with under-the-hood performance improvements, DEX 3 version 3.9.0.5 brings world-wide (with the exemption of Japan) support for the Party Tyme Karaoke Subscription service.
@@ -46,7 +46,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [DOWNLOAD DEX 3.9.0.5 FREE TRIAL](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### LYRX v1.1.1 | Global Support For Party Tyme Karaoke And Ultra-Wide Screen Support
@@ -54,7 +54,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [LEARN MORE ABOUT LYRX ![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?fit=300%2C188&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX version 1.1.1 also brings global support for the Party Tyme Karaoke Subscription (Japan being the only exemption) as well as support for ultra-wide displays (21:9 aspect ratio). A few minor tweaks to the user interface have been applied as well as a few minor bug fixes and various performance improvements.
@@ -75,7 +75,7 @@ LYRX with Party Tyme Karaoke provides KJs and karaoke venues the perfect duet of
 [LEARN MORE ABOUT THE PARTY TYME KARAOKE SUBSCRIPTION](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -97,24 +97,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/lyrxdex3updatept-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nvestment-edutainment-the-best-channels-reviewed-for-2024/"><u>[New] Investment Edutainment The Best Channels Reviewed for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-forging-a-massive-online-following-on-facebook-for-2024/"><u>[Updated] Forging a Massive Online Following on Facebook for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-stepwise-guide-backing-up-and-exporting-mobile-camera-images-for-social-media-for-2024/"><u>[Updated] Stepwise Guide Backing Up & Exporting Mobile Camera Images for Social Media for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-accelerating-powerpoint-video-streams/"><u>2024 Approved Accelerating PowerPoint Video Streams</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/a-beginners-guide-to-navigating-the-world-of-digital-assets-with-expert-advice-from-yl-software/"><u>A Beginner's Guide to Navigating the World of Digital Assets with Expert Advice From YL Software</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/choreographing-a-stellar-tiktok-wrap-up-for-2024/"><u>Choreographing a Stellar TikTok Wrap-Up for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-diagnose-the-root-causes-of-abrupt-computer-turnoffs-with-guidance-from-yl-solutions/"><u>How to Diagnose the Root Causes of Abrupt Computer Turnoffs with Guidance From YL Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721792010336-introducing-grok-by-elon-musk-explore-its-capabilities-and-find-out-the-price-tag/"><u>Introducing Grok by Elon Musk – Explore Its Capabilities and Find Out the Price Tag</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/mastering-file-extraction-a-windowed-approach-by-your-trusted-source-yl-software-solutions/"><u>Mastering File Extraction: A Windowed Approach by Your Trusted Source, YL Software Solutions</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/premium-hd-wallpapers-of-freddy-krueger-backgrounds-photos-and-images-crafted-with-yl-computing/"><u>Premium HD Wallpapers of Freddy Krueger: Backgrounds, Photos & Images Crafted with YL Computing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/printer-troubleshooting-essentials-for-smooth-operation-tips-from-yl-software-solutions/"><u>Printer Troubleshooting Essentials for Smooth Operation - Tips From YL Software Solutions</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/quick-fixes-accelerate-your-pcs-startup-tips-from-yl-software/"><u>Quick Fixes: Accelerate Your PC's Startup - Tips From YL Software</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/securing-dj-opportunities-at-local-establishments-proven-tips-and-tricks-revealed-video/"><u>Securing DJ Opportunities at Local Establishments: Proven Tips and Tricks Revealed (Video)</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-purchasing-trading-and-safely-storing-your-digital-assets-learn-from-yl-computings-expertise/"><u>Step-by-Step Guide: Purchasing, Trading & Safely Storing Your Digital Assets - Learn From YL Computing's Expertise!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unlock-exceptional-savings-on-high-performance-laptops-for-black-friday-2024-expert-tips-and-deals/"><u>Unlock Exceptional Savings on High-Performance Laptops for Black Friday 2024 | Expert Tips & Deals</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-driver-reconfiguration-expert-tips-by-yl-software-team/"><u>Windows Driver Reconfiguration: Expert Tips by YL Software Team</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-cutting-edge-photo-and-video-enhancement-top-8-editing-apps-for-modern-devices/"><u>[New] Cutting-Edge Photo & Video Enhancement Top 8 Editing Apps for Modern Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-social-media-presence-with-personalized-instagram-icons-for-2024/"><u>[New] Elevate Your Social Media Presence with Personalized Instagram Icons for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-keywords-for-peak-marketing-results/"><u>[New] Leveraging Keywords for Peak Marketing Results</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-hosting-regular-online-gatherings/"><u>[New] The Ultimate Guide to Hosting Regular Online Gatherings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-integrating-social-spaces-tiktok-uploads-on-facebook/"><u>[Updated] 2024 Approved Integrating Social Spaces TikTok Uploads on Facebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-step-by-step-locating-your-next-social-video-fb-2023/"><u>[Updated] 2024 Approved Step-by-Step Locating Your Next Social Video (FB 2023)</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/adjusting-your-sign-in-settings-a-step-by-step-guide-with-yl-computing/"><u>Adjusting Your Sign-In Settings: A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/advanced-zoom-furnishings-with-professional-graphics-discover-our-yl-software-library/"><u>Advanced Zoom Furnishings with Professional Graphics - Discover Our YL Software Library</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/captivating-ocean-views-at-dusk-premium-sunset-beach-hd-imagery-and-photos-from-yl-software/"><u>Captivating Ocean Views at Dusk: Premium Sunset Beach HD Imagery & Photos From YL Software</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/diagnose-and-repair-core-pc-components-advanced-guidance-by-yl-computing/"><u>Diagnose and Repair Core PC Components: Advanced Guidance by YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/discover-the-new-country-music-collection-with-august-2014s-update-on-karaoke-cloud-pro-pcdj-revolutionized/"><u>Discover the New Country Music Collection with August 2014'S Update on Karaoke Cloud Pro | PCDJ Revolutionized!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/exploring-the-impact-of-the-taiping-rebellion-on-chinas-socio-economic-landscape-insights-by-yl-computing/"><u>Exploring the Impact of the Taiping Rebellion on China's Socio-Economic Landscape - Insights by YL Computing</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/high-quality-dodge-cummins-heavy-duty-trucks-hd-wallpapers-background-photos-and-images-for-pcs-and-mac-download-from-yl-computing/"><u>High-Quality Dodge Cummins Heavy-Duty Trucks HD WALLPAPERS, BACKGROUND PHOTOS & IMAGES for PCs and Mac - Download From YL Computing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-90-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor 90 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-renaming-your-podcast-leading-ai-generators-explored/"><u>In 2024, Renaming Your Podcast Leading AI Generators Explored</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-accessing-and-using-powerpoint-files-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing and Using PowerPoint Files - Tips From YL Computing</u></a></li>
 </ul></div>
 

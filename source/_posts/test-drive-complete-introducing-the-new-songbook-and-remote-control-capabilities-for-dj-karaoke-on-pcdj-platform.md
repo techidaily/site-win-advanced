@@ -1,7 +1,7 @@
 ---
 title: "Test Drive Complete: Introducing the New Songbook & Remote Control Capabilities for DJ Karaoke on PCDJ Platform."
-date: 2024-12-17T11:57:52.087Z
-updated: 2024-12-24T05:47:20.507Z
+date: 2024-12-26T21:13:50.376Z
+updated: 2024-12-30T02:41:52.866Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What is SongBookDB?_
@@ -31,7 +31,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 [![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?resize=461%2C550&ssl=1 "songbookdb")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?fit=461%2C550&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 SongbookDB is a karaoke song book app (_web-app, Android, and soon iOS_) that lets the public view and browse KJ’s songbooks on their mobile devices.
@@ -59,13 +59,13 @@ We’re in the final stages of integration now and are looking for a few beta te
 What we’re testing right now is support for PCDJ Karaoki’s TSV files (_TSV files are exported from Karaoki cases_). Export a TSV from PCDJ Karaoki, and upload to SongBook DB. As we get closer to a release, beta testers that sign up now will get a priority look at the full platform and release candidate additionally!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If you’d like to take part in the beta test, please fill out the form below and we’ll get in touch with you shortly:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,18 +87,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimagejpg.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-a-to-z-guide-to-recording-games-using-obs/"><u>[New] 2024 Approved The A-to-Z Guide to Recording Games Using OBS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ync-splice-and-spruce-pro-video-editing-in-one-tool-for-2024/"><u>[New] Sync, Splice & Spruce Pro Video Editing in One Tool for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-essential-routine-upkeep-measures-how-to-maintain-optimal-performance-for-your-computer-yl-software/"><u>1. Essential Routine Upkeep Measures: How to Maintain Optimal Performance for Your Computer (YL Software)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-melodic-memories-in-mobile-formats/"><u>2024 Approved Melodic Memories in Mobile Formats</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/explore-your-pcs-health-finding-device-listings-and-system-status-in-windows-control-panel-with-yl-computing/"><u>Explore Your PC's Health: Finding Device Listings and System Status in Windows Control Panel with YL Computing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/harmony-rides-with-dj-shani-and-jason-jones-spinning-records-this-thursday-join-us-on-djntv/"><u>Harmony Rides with DJ Shani and Jason Jones Spinning Records This Thursday – Join Us on #DJNTV!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-repairing-windows-11-and-10-os-errors-by-correcting-system-files/"><u>Master the Art of Repairing Windows 11 & 10 OS Errors by Correcting System Files</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/mastering-usb-device-recognition-on-windows-10-with-proven-solutions/"><u>Mastering USB Device Recognition on Windows 10 with Proven Solutions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-5-leading-digital-audio-workstation-options-for-professional-guitarists-updated/"><u>New In 2024, 5 Leading Digital Audio Workstation Options for Professional Guitarists, Updated</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/precision-recording-tips-for-gamers-and-videographers-for-2024/"><u>Precision Recording Tips for Gamers and Videographers for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-device-drivers-with-expert-tips-from-yl-software-team/"><u>Troubleshooting Device Drivers with Expert Tips From YL Software Team</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-low-speaker-output-in-windows-11/"><u>Troubleshooting Low Speaker Output in Windows 11</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/yl-softwares-colorful-light-accent-wallpapers-in-hd-quality-for-dynamic-desktops/"><u>YL Software's Colorful Light Accent Wallpapers in HD Quality for Dynamic Desktops</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-lg-360-vr-headset-review/"><u>[New] 2024 Approved LG 360 VR Headset Review</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-imprint-clipart-with-inner-circle-light-defocus-method-ps/"><u>[Updated] In 2024, Imprint Clipart with Inner Circle Light Defocus Method PS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-from-fanfare-to-fame-facebook-features-for-viral-voyages/"><u>2024 Approved From Fanfare to Fame Facebook Features for Viral Voyages</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/can-you-rely-on-windows-defender-for-malware-removal-exploring-the-capabilities-with-yl-software-experts/"><u>Can You Rely on Windows Defender for Malware Removal? Exploring the Capabilities with YL Software Experts</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/essential-guide-to-digital-dj-gear-and-setup-what-every-beginner-must-understand/"><u>Essential Guide to Digital DJ Gear & Setup – What Every Beginner Must Understand</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/get-the-new-dex-3701-update-for-pcdj-software-ultimate-toolkit-for-disc-jockeys-and-video-editors/"><u>Get The New DEX 3.7.0.1 Update for PCDJ Software | Ultimate Toolkit for Disc Jockeys & Video Editors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-13-pro-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone 13 Pro IMEI Checker</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sonys-roadmap-to-innovation-key-releases-news-highlights-and-expert-analysis/"><u>Sony's Roadmap to Innovation – Key Releases, News Highlights, and Expert Analysis</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/spotting-and-purging-redundant-photographs-in-external-memory-drives-a-step-by-step-guide/"><u>Spotting & Purging Redundant Photographs in External Memory Drives: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-finding-your-pcs-free-memory-tips-from-yl-software/"><u>Step-by-Step Guide: Finding Your PC's Free Memory - Tips From YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrade-your-vintage-apple-ii-computer-with-a-high-definition-media-extension/"><u>Upgrade Your Vintage Apple II Computer with a High-Definition Media Extension</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/yl-software-guide-how-to-optimize-and-minimize-your-image-files-easily/"><u>YL Software Guide: How to Optimize and Minimize Your Image Files Easily</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/yl-softwares-insight-is-there-a-fee-for-accessing-your-crypto-wallet-balance-check-tool/"><u>YL Software's Insight: Is There a Fee for Accessing Your Crypto Wallet Balance Check Tool?</u></a></li>
 </ul></div>
 

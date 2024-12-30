@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ's Newest Mixing Console: The DDJ-SR2 with Enhanced DEX3 Compatibility for DJ Pros"
-date: 2024-12-22T18:42:59.978Z
-updated: 2024-12-23T18:00:52.324Z
+date: 2024-12-24T22:51:40.753Z
+updated: 2024-12-30T02:04:15.518Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Now that we’ve released a custom map (available below), [DEX 3](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a look at some of the key features included with the DDJ-SR2:
@@ -86,7 +86,7 @@ The built-in 2-channel mixer on the DDJ-SR2 is ideal for scratch performances. T
 _Have questions about the **Pioneer DJ DDJ-SR2** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -108,18 +108,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/ddjsr2cover-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-from-bland-to-blockbuster-framing-videos-in-a-square-perspective/"><u>[New] From Bland to Blockbuster Framing Videos in a Square Perspective</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-passion-to-paychecks-your-vlog-venture-guide/"><u>[New] From Passion to Paychecks Your Vlog Venture Guide</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1-unlocking-audio-files-on-windows-11-a-step-by-step-guide-techease-solutions/"><u>1. Unlocking Audio Files on Windows 11: A Step-by-Step Guide - TechEase Solutions</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/combat-persistent-attempting-data-recovery-errors-in-ios-fixes-unveiled/"><u>Combat Persistent 'Attempting Data Recovery' Errors in iOS – Fixes Unveiled</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-locate-your-pcs-device-manager-a-guide-by-yl-computing/"><u>How to Locate Your PC's Device Manager: A Guide by YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-zero-30-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Zero 30 5G Device</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/inside-look-how-youtuber-shorts-work-for-2024/"><u>Inside Look How Youtuber Shorts Work for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/propella-7s-40-evaluation-sleek-design-agile-performance-budget-friendly/"><u>Propella 7S 4.0 Evaluation: Sleek Design, Agile Performance, Budget-Friendly</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/resolving-memory-issues-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Resolving Memory Issues on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-soundscape-in-windows-fixing-soundcard-irritations/"><u>Smooth Soundscape in Windows: Fixing Soundcard Irritations</u></a></li>
-<li><a href="https://network-issues.techidaily.com/spartan-written-perfection-pursued/"><u>Spartan' Written: Perfection Pursued</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/updating-system-drivers-made-simple-with-expert-advice-from-yl-computing/"><u>Updating System Drivers Made Simple with Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/yl-software-insights-mastering-image-sequence-customization-in-windows-photo-viewer/"><u>YL Software Insights: Mastering Image Sequence Customization in Windows Photo Viewer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-exploring-video-threads-on-youtube-for-2024/"><u>[Updated] Exploring Video Threads on YouTube for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-hidden-gems-in-the-world-of-snapchat-ringtones-online/"><u>[Updated] Hidden Gems in the World of Snapchat Ringtones Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-dominating-viewers-spaces-channel-empire-rules/"><u>[Updated] In 2024, Dominating Viewers' Spaces Channel Empire Rules</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamline-communications-with-these-best-5-capture-tools/"><u>[Updated] In 2024, Streamline Communications with These Best 5 Capture Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-cinematic-supreme-our-selection-of-top-7-4k-cameras/"><u>2024 Approved Cinematic Supreme Our Selection of Top 7 4K Cameras</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/high-definition-paw-patrol-themed-desktops-premium-wallpaper-and-image-collections-yl-computing-solutions/"><u>High-Definition Paw Patrol Themed Desktops: Premium Wallpaper & Image Collections - YL Computing Solutions</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/optimizing-your-personal-computer-key-strategies-from-yl-computings-expertise/"><u>Optimizing Your Personal Computer: Key Strategies From YL Computing's Expertise</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ce-spheres-pinnacle-channels-top-15-yt-lists/"><u>Science Sphere's Pinnacle Channels Top 15 YT Lists</u></a></li>
+<li><a href="https://win-blog.techidaily.com/slash-the-strain-on-your-system-6-techniques-to-diminish-zooms-cpu-usage/"><u>Slash the Strain on Your System: 6 Techniques to Diminish Zoom's CPU Usage</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/stay-current-with-ease-how-to-verify-your-control-panels-up-to-date-status-by-yl-technologies/"><u>Stay Current with Ease: How To Verify Your Control Panel's Up-to-Date Status by YL Technologies</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-identifying-common-graphics-card-issues-with-easy-diagnostic-tools/"><u>Step-by-Step Guide: Identifying Common Graphics Card Issues with Easy Diagnostic Tools</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-a-non-functional-dvd-drive-with-expert-advice-from-yl-computing/"><u>Troubleshooting a Non-Functional DVD Drive with Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-scanner-and-pc-connections-effective-strategies-by-yl-software-professionals/"><u>Troubleshooting Scanner and PC Connections: Effective Strategies by YL Software Professionals</u></a></li>
 </ul></div>
 
