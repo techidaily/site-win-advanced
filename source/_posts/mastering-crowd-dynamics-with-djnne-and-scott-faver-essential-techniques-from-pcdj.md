@@ -1,7 +1,7 @@
 ---
 title: Mastering Crowd Dynamics with DJNNE and Scott Faver – Essential Techniques From PCDJ
-date: 2024-12-28T23:22:23.096Z
-updated: 2024-12-30T03:22:47.716Z
+date: 2025-01-07T19:36:37.625Z
+updated: 2025-01-08T17:09:05.093Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ This week, we felt inclined to share a video recently shot and released by Disc 
 During this weeks segment DJNN hosts Scott Faver, known in the industry as the Game Master. He share’s his insights in reading the vibe from a group of people so he can play to his audiences tastes in music. DJing is all about being a great “selector” of music, to ensure a packed dance floor and memorable occasion (_and more referrals!_):  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,16 +42,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/readingthevibe.jpg?fit=530
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-how-do-green-screens-work-a-complete-beginners-guide/"><u>[New] 2024 Approved How Do Green Screens Work? [A Complete Beginner's Guide]</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-elevating-titles-in-after-effects-best-practices/"><u>[Updated] In 2024, Elevating Titles in After Effects Best Practices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-clearsnap-for-windows-quick-and-clean-shots/"><u>2024 Approved ClearSnap for Windows Quick & Clean Shots</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/configuring-windows-update-options-through-the-control-panel-a-step-by-step-guide-tips-from-yl-computing/"><u>Configuring Windows Update Options Through the Control Panel: A Step-by-Step Guide - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/bility-in-viewing-with-youtube-tv-options/"><u>Flexibility in Viewing with YouTube TV Options</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pivotal-processes-for-privacy-preserving-photography/"><u>In 2024, Pivotal Processes for Privacy-Preserving Photography</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-step-by-step-blueprint-crafting-engaging-youtube-content-via-windows-movie-maker/"><u>In 2024, Step-by-Step Blueprint Crafting Engaging YouTube Content via Windows Movie Maker</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/karaoke-enthusiast-new-subscription-deals-and-over-80-tracks-added-apr-5-13-perfect-for-party-djs/"><u>Karaoke Enthusiast? New Subscription Deals & Over 80 Tracks Added Apr 5-13, Perfect for Party DJs!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/preventive-measures-and-fixes-for-your-computers-heat-problem-advice-by-yl-software/"><u>Preventive Measures & Fixes for Your Computer's Heat Problem - Advice by YL Software</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/re-no-cost-media-content-from-prime-4-youtube-vids/"><u>Procure No-Cost Media Content From Prime 4 YouTube Vids</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/securing-dj-opportunities-at-local-establishments-proven-tips-and-tricks-revealed-video/"><u>Securing DJ Opportunities at Local Establishments: Proven Tips and Tricks Revealed (Video)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-complete-guide-to-utilizing-ios-screenshot-feature/"><u>[Updated] 2024 Approved A Complete Guide to Utilizing IO's Screenshot Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-essential-image-collections-the-best-macbook-wallpaper-packs/"><u>[Updated] Essential Image Collections The Best MacBook Wallpaper Packs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-manufacture-jokes-memes-using-adobe/"><u>2024 Approved Manufacture Jokes Memes Using Adobe</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/automatisches-backup-von-dateien-auf-eine-externe-seagate-festplatte/"><u>Automatisches Backup Von Dateien Auf Eine Externe Seagate Festplatte</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/can-you-trust-windows-defender-to-securely-inspect-downloads-and-emails-a-comprehensive-guide-byteguardians/"><u>Can You Trust Windows Defender to Securely Inspect Downloads & Emails? A Comprehensive Guide | ByteGuardians</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/does-windows-11-include-built-in-protection-with-windows-defender-expert-insights-from-yl-computing/"><u>Does Windows 11 Include Built-In Protection with Windows Defender – Expert Insights From YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-cutting-edge-vision-enhancement-how-budget-friendly-xr-glasses-beat-the-latest-iphone-trends-and-alleviate-tech-envy/"><u>Experience Cutting-Edge Vision Enhancement: How Budget-Friendly XR Glasses Beat the Latest iPhone Trends & Alleviate Tech Envy</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/high-definition-paw-patrol-themed-desktops-premium-wallpaper-and-image-collections-yl-computing-solutions/"><u>High-Definition Paw Patrol Themed Desktops: Premium Wallpaper & Image Collections - YL Computing Solutions</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-effective-is-windows-defender-in-identifying-malware-learn-insights-from-yl-software-experts/"><u>How Effective Is Windows Defender in Identifying Malware? Learn Insights From YL Software Experts</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/identifying-the-root-cause-of-sound-glitches-on-your-windows-pc-a-deep-dive-by-yl-computing/"><u>Identifying the Root Cause of Sound Glitches on Your Windows PC: A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/macrium-reflectos-for-ssd/"><u>Macrium Reflectを使った効果的なOSインストール方法 for SSD | 代わりに良いアプローチ</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/optimizing-your-personal-computer-key-strategies-from-yl-computings-expertise/"><u>Optimizing Your Personal Computer: Key Strategies From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-identifying-common-graphics-card-issues-with-easy-diagnostic-tools/"><u>Step-by-Step Guide: Identifying Common Graphics Card Issues with Easy Diagnostic Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-allure-of-benq-sw320-4k-pro-display/"><u>The Allure of BenQ SW320 4K Pro Display</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211316694-9781611250503-the-god-molecule/"><u>The God Molecule | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-incognito-mode-on-top-web-browsers-google-chrome-mozilla-firefox-microsoft-edge-apple-safari-and-opera/"><u>The Ultimate Guide to Incognito Mode on Top Web Browsers: Google Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari, and Opera</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-a-non-functional-dvd-drive-with-expert-advice-from-yl-computing/"><u>Troubleshooting a Non-Functional DVD Drive with Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-scanner-and-pc-connections-effective-strategies-by-yl-software-professionals/"><u>Troubleshooting Scanner and PC Connections: Effective Strategies by YL Software Professionals</u></a></li>
 </ul></div>
 

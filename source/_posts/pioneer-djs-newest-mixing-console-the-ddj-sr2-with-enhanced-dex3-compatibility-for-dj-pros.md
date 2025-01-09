@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ's Newest Mixing Console: The DDJ-SR2 with Enhanced DEX3 Compatibility for DJ Pros"
-date: 2024-12-24T22:51:40.753Z
-updated: 2024-12-30T02:04:15.518Z
+date: 2025-01-05T02:03:30.106Z
+updated: 2025-01-08T19:25:55.644Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Now that we’ve released a custom map (available below), [DEX 3](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a look at some of the key features included with the DDJ-SR2:
@@ -86,7 +86,7 @@ The built-in 2-channel mixer on the DDJ-SR2 is ideal for scratch performances. T
 _Have questions about the **Pioneer DJ DDJ-SR2** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -108,19 +108,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/ddjsr2cover-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-exploring-video-threads-on-youtube-for-2024/"><u>[Updated] Exploring Video Threads on YouTube for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-hidden-gems-in-the-world-of-snapchat-ringtones-online/"><u>[Updated] Hidden Gems in the World of Snapchat Ringtones Online</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-dominating-viewers-spaces-channel-empire-rules/"><u>[Updated] In 2024, Dominating Viewers' Spaces Channel Empire Rules</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-streamline-communications-with-these-best-5-capture-tools/"><u>[Updated] In 2024, Streamline Communications with These Best 5 Capture Tools</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-cinematic-supreme-our-selection-of-top-7-4k-cameras/"><u>2024 Approved Cinematic Supreme Our Selection of Top 7 4K Cameras</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/high-definition-paw-patrol-themed-desktops-premium-wallpaper-and-image-collections-yl-computing-solutions/"><u>High-Definition Paw Patrol Themed Desktops: Premium Wallpaper & Image Collections - YL Computing Solutions</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/optimizing-your-personal-computer-key-strategies-from-yl-computings-expertise/"><u>Optimizing Your Personal Computer: Key Strategies From YL Computing's Expertise</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ce-spheres-pinnacle-channels-top-15-yt-lists/"><u>Science Sphere's Pinnacle Channels Top 15 YT Lists</u></a></li>
-<li><a href="https://win-blog.techidaily.com/slash-the-strain-on-your-system-6-techniques-to-diminish-zooms-cpu-usage/"><u>Slash the Strain on Your System: 6 Techniques to Diminish Zoom's CPU Usage</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/stay-current-with-ease-how-to-verify-your-control-panels-up-to-date-status-by-yl-technologies/"><u>Stay Current with Ease: How To Verify Your Control Panel's Up-to-Date Status by YL Technologies</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-identifying-common-graphics-card-issues-with-easy-diagnostic-tools/"><u>Step-by-Step Guide: Identifying Common Graphics Card Issues with Easy Diagnostic Tools</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-a-non-functional-dvd-drive-with-expert-advice-from-yl-computing/"><u>Troubleshooting a Non-Functional DVD Drive with Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-scanner-and-pc-connections-effective-strategies-by-yl-software-professionals/"><u>Troubleshooting Scanner and PC Connections: Effective Strategies by YL Software Professionals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>[Updated] Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-troubleshooting-guide-manual-setup-vs-seamless-switching/"><u>AirPods Troubleshooting Guide: Manual Setup Vs. Seamless Switching</u></a></li>
+<li><a href="https://win-bits.techidaily.com/benotigt-die-aktivierung-eines-iphones-ein-systemupdate-schritt-fur-schritt-anleitung/"><u>Benötigt Die Aktivierung Eines iPhones Ein Systemupdate: Schritt-Für-Schritt-Anleitung!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/ensuring-your-pcs-optimal-functionality-expert-advice-by-yl-software/"><u>Ensuring Your PC's Optimal Functionality: Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/essential-guidelines-for-creating-dj-logos-proven-dos-and-donts/"><u>Essential Guidelines for Creating DJ Logos: Proven Dos and Don'ts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-streaming-made-simple-your-guide-2023-edition-for-2024/"><u>Facebook Streaming Made Simple Your Guide, 2023 Edition for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/high-resolution-2k-and-widescreen-wallpaper-collections-by-yl-computing-premium-desktop-backgrounds-for-ultra-hd-displays/"><u>High-Resolution 2K & Widescreen Wallpaper Collections by YL Computing: Premium Desktop Backgrounds for Ultra HD Displays</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/master-windows-clock-customization-expert-techniques-by-yl-software/"><u>Master Windows Clock Customization: Expert Techniques by YL Software</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-flashback-2022s-snowboard-x-winners-for-2024/"><u>Ultimate Flashback 2022'S Snowboard X Winners for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-10-graphics-card-troubleshooting-easy-reset-methods-revealed-by-yl-software/"><u>Windows 10 Graphics Card Troubleshooting: Easy Reset Methods Revealed by YL Software</u></a></li>
 </ul></div>
 
