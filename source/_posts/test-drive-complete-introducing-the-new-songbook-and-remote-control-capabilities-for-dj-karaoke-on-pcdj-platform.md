@@ -1,7 +1,7 @@
 ---
 title: "Test Drive Complete: Introducing the New Songbook & Remote Control Capabilities for DJ Karaoke on PCDJ Platform."
-date: 2025-01-03T06:16:59.015Z
-updated: 2025-01-08T16:11:56.420Z
+date: 2025-01-08T06:50:04.634Z
+updated: 2025-01-15T06:57:34.885Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What is SongBookDB?_
@@ -31,7 +31,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 [![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?resize=461%2C550&ssl=1 "songbookdb")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?fit=461%2C550&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 SongbookDB is a karaoke song book app (_web-app, Android, and soon iOS_) that lets the public view and browse KJ’s songbooks on their mobile devices.
@@ -59,13 +59,13 @@ We’re in the final stages of integration now and are looking for a few beta te
 What we’re testing right now is support for PCDJ Karaoki’s TSV files (_TSV files are exported from Karaoki cases_). Export a TSV from PCDJ Karaoki, and upload to SongBook DB. As we get closer to a release, beta testers that sign up now will get a priority look at the full platform and release candidate additionally!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If you’d like to take part in the beta test, please fill out the form below and we’ll get in touch with you shortly:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,21 +87,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimagejpg.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-inshot-tips-achieving-seamless-video-segmentation/"><u>[New] 2024 Approved Inshot Tips Achieving Seamless Video Segmentation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-enhancing-narratives-with-temporal-and-spatial-shifts/"><u>[New] In 2024, Enhancing Narratives with Temporal & Spatial Shifts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-building-brand-awareness-best-practices-for-snapchat/"><u>[Updated] 2024 Approved Building Brand Awareness Best Practices for Snapchat</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-boosting-income-a-complete-guide-to-youtube-ad-profits-for-2024/"><u>[Updated] Boosting Income A Complete Guide to YouTube Ad Profits for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-chrome-users-explore-our-curated-list-of-voice-modification-apps/"><u>[Updated] Chrome Users, Explore Our Curated List of Voice Modification Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-record-internet-radio-a-simple-guide/"><u>[Updated] How To Record Internet Radio - A Simple Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-enhance-ppts-appeal-through-soundtracks/"><u>2024 Approved Enhance PPT's Appeal Through Soundtracks</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/descubra-o-sua-melhor-escolha-gratuita-em-alternativas-a-macrium-reflect-para-sistemas-windows-1187/"><u>Descubra O Sua Melhor Escolha Gratuita Em Alternativas a Macrium Reflect Para Sistemas Windows 11/8/7</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/diy-laptop-building-a-comprehensive-step-by-step-tutorial/"><u>DIY Laptop Building: A Comprehensive Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effiziente-methoden-zum-vollstandigen-loschen-aller-daten-von-deinem-computer-top-tipps/"><u>Effiziente Methoden Zum Vollständigen Löschen Aller Daten Von Deinem Computer – Top-Tipps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/extended-review-for-uncomplicated-hdr-techniques-for-2024/"><u>Extended Review for Uncomplicated HDR Techniques for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/guide-to-easily-sync-and-transfer-documents-between-pc-and-ipads-ipad-pro-air-and-mini/"><u>Guide to Easily Sync and Transfer Documents Between PC & iPads (iPad Pro, Air & Mini)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/keep-your-feed-free-no-fb-vids-here/"><u>Keep Your Feed Free No FB Vids Here</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/os-windowsvirtualbox/"><u>OS WindowsインストールをVIRTUALBOXにうまく転送する方法 - 簡単ガイド</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/seagate-dashboardwindows-1011/"><u>Seagate DashboardがWindows 10/11上で正常に動作しない原因と修正方法</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/utilizing-command-line-arguments-for-multi-window-operation-in-emeditor-text-editor/"><u>Utilizing Command-Line Arguments for Multi-Window Operation in EmEditor Text Editor</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/comment-installer-windows-10-concurrentement-sur-plusieurs-pcs-methode-etape-par-etape/"><u>« Comment Installer Windows 지 10 Concurrentement Sur Plusieurs PCs : Méthode Étape Par Étape »</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-snagting-smiles-on-iphones-and-androids-from-twitters-timeline-for-2024/"><u>[New] Snagting Smiles on iPhones & Androids From Twitter's Timeline for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-key-steps-for-an-optimal-chromebook-zooming-experience/"><u>[Updated] 2024 Approved Key Steps for an Optimal Chromebook Zooming Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-5-android-screen-recorders-essential-app-selection/"><u>[Updated] Top 5 Android Screen Recorders Essential App Selection</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728489721734-usb/"><u>四种保存好友删除后视频的有效技巧：从USB上复原</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/clonar-unidades-en-windows-11-sin-coste-tus-mejores-opciones-libres-y-faciles-de-uso/"><u>Clonar Unidades en Windows 11 Sin Coste - Tus Mejores Opciones Libres Y Fáciles De Uso</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/complete-walkthrough-on-retrieving-and-rebuilding-lost-html-webpage-code/"><u>Complete Walkthrough on Retrieving and Rebuilding Lost HTML Webpage Code</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-control-set-active-hours-to-avoid-surprises-on-windows-11/"><u>Cutting Edge Control: Set Active Hours to Avoid Surprises on Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-motorola-edge-40-neo-by-drfone-android-unlock-android-unlock/"><u>Device unlock Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-system-boosted-free-update-for-killer-network-drivers-on-windows-systems-win10-8-7/"><u>Get Your System Boosted: Free Update for Killer Network Drivers on Windows Systems (Win10, 8, 7)</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/guida-facile-per-installare-windows-11-su-un-nuovo-disco-rigido/"><u>Guida Facile per Installare Windows 11 Su Un Nuovo Disco Rigido</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-music/"><u>How to recover old music from your Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/i-piu-eccellenti-editor-di-video-online-per-professionisti-la-tua-guida-completa/"><u>I Più Eccellenti Editor Di Video Online per Professionisti: La Tua Guida Completa</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/problema-resuelto-error-de-tamano-en-disco-destino-con-clonzilla/"><u>Problema Resuelto: Error De Tamaño en Disco Destino Con Clonzilla</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/troubleshooting-common-issues-why-your-graphics-card-may-cease-to-work-yl-technology-advice/"><u>Troubleshooting Common Issues: Why Your Graphics Card May Cease to Work - YL Technology Advice</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-1110-hdd-iso/"><u>Windows 11/10 內建方式為 HDD 制成 ISO 影像的全面指南</u></a></li>
 </ul></div>
 
