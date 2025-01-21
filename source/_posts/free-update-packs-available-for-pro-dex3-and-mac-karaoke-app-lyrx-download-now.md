@@ -1,7 +1,7 @@
 ---
 title: Free Update Packs Available for Pro DEX3 and Mac Karaoke App LYRX - Download Now
-date: 2025-01-08T23:07:58.418Z
-updated: 2025-01-15T00:18:51.929Z
+date: 2025-01-18T18:07:12.944Z
+updated: 2025-01-21T05:58:29.116Z
 tags:
   - product
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ DEX 3.9.0.5 | Global Support For Party Tyme Karaoke
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/fe07e4a07925d03fd4feb686ae505e57245e98882
 [LEARN MORE ABOUT DEX 3 ![Party Tyme Karaoke Subscription for DEX 3 karaoke software](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/07/DEX3-PartyTyme.jpg?fit=300%2C169&ssl=1 "Party Tyme Karaoke Subscription for DEX 3 karaoke software")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DEX 3.9.0.5 is now available as a free update for existing DEX 3 owners. Largely a maintenance release with under-the-hood performance improvements, DEX 3 version 3.9.0.5 brings world-wide (with the exemption of Japan) support for the Party Tyme Karaoke Subscription service.
@@ -46,7 +46,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [DOWNLOAD DEX 3.9.0.5 FREE TRIAL](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### LYRX v1.1.1 | Global Support For Party Tyme Karaoke And Ultra-Wide Screen Support
@@ -54,7 +54,7 @@ Stream and/or download from an HD collection of hit karaoke songs from the top p
 [LEARN MORE ABOUT LYRX ![LYRX karaoke program from MAC with karaoke subscription](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/08/LYRX11_screenshot1.png?fit=300%2C188&ssl=1 "LYRX karaoke program from MAC with karaoke subscription")](http://www.lyrxkaraoke.com)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 LYRX version 1.1.1 also brings global support for the Party Tyme Karaoke Subscription (Japan being the only exemption) as well as support for ultra-wide displays (21:9 aspect ratio). A few minor tweaks to the user interface have been applied as well as a few minor bug fixes and various performance improvements.
@@ -75,7 +75,7 @@ LYRX with Party Tyme Karaoke provides KJs and karaoke venues the perfect duet of
 [LEARN MORE ABOUT THE PARTY TYME KARAOKE SUBSCRIPTION](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -97,16 +97,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/lyrxdex3updatept-coverimag
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-essential-tips-for-adapting-to-facebooks-algorithm-update/"><u>[New] 2024 Approved Essential Tips for Adapting to Facebook's Algorithm Update</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/hort-sensation-keywords-for-enhancing-video-shows-virality-for-2024/"><u>[New] Short Sensation Keywords for Enhancing Video Shows' Virality for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-781011/"><u>安全なデータ処理: Windows 7/8/10/11で古くなったバックアップイメージを除去する効果的な方法</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-adventures-with-the-foremost-6-gopro-mounts-revealed-for-2024/"><u>Mastering Adventures with the Foremost 6 GoPro Mounts Revealed for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/memahami-2-langkah-kritikal-untuk-klon-disk-pada-windows-server-201/"><u>Memahami 2 Langkah Kritikal Untuk Klon Disk Pada Windows Server 201</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/nas/"><u>NAS 資料夾週期性檔存技術：使用外置硬碟的二種方法</u></a></li>
-<li><a href="https://win-net.techidaily.com/quick-guide-setting-up-a-secure-system-image-for-windows-11-startup/"><u>Quick Guide: Setting Up a Secure System Image for Windows 11 Startup</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/repurposing-your-unused-tablet-as-a-pet-entertainment-device/"><u>Repurposing Your Unused Tablet as a Pet Entertainment Device</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/the-leading-software-solutions-for-generating-restore-points-on-windows-10-systems/"><u>The Leading Software Solutions for Generating Restore Points on Windows 10 Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-8-innovative-affordable-online-srt-services-exposed/"><u>Top 8 Innovative, Affordable Online SRT Services Exposed</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015172758-unstuck-with-your-logitech-g533-mic-heres-how-to-fix-it/"><u>Unstuck with Your Logitech G533 Mic? Here's How to Fix It</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-directed-camera-roll-efficient-sync-with-snapchat-features-for-2024/"><u>[Updated] Directed Camera Roll Efficient Sync with Snapchat Features for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-practices-in-digital-media-capturing/"><u>[Updated] In 2024, Best Practices in Digital Media Capturing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-13-mini-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 13 mini to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/capcutpc/"><u>CapCutアプリPC環境で動画群一画面化テクニック</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/essential-troubleshooting-fixing-driver-issues-in-windows-systems-using-yl-computings-software-solutions/"><u>Essential Troubleshooting: Fixing Driver Issues in Windows Systems Using YL Computing's Software Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-xr-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone XR</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-install-imovie-on-windows-os-easy-steps-to-create-and-edit-hd-videos/"><u>How to Install iMovie on Windows OS – Easy Steps to Create and Edit HD Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-apple-iphone-14-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Apple iPhone 14 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/relaunching-file-explorer-a-step-bystep-guide/"><u>Relaunching File Explorer: A Step-Bystep Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/transform-your-screen-with-lush-forests-hd-wallpaper-collection-from-yl-software-for-immersive-visual-experience/"><u>Transform Your Screen with Lush Forests: HD Wallpaper Collection From YL Software for Immersive Visual Experience</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-guide-restoring-functionality-to-your-unresponsive-computer-mouse-with-tips-from-yl-software/"><u>Troubleshooting Guide: Restoring Functionality to Your Unresponsive Computer Mouse with Tips From YL Software</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/uncovering-solutions-how-to-fix-undetected-graphics-cards-expert-advice-from-yl-computing/"><u>Uncovering Solutions: How To Fix Undetected Graphics Cards - Expert Advice From YL Computing</u></a></li>
 </ul></div>
 
