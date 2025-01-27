@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ's Newest Mixing Console: The DDJ-SR2 with Enhanced DEX3 Compatibility for DJ Pros"
-date: 2025-01-05T02:03:30.106Z
-updated: 2025-01-08T19:25:55.644Z
+date: 2025-01-19T22:14:42.419Z
+updated: 2025-01-26T18:08:42.973Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Now that we’ve released a custom map (available below), [DEX 3](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a look at some of the key features included with the DDJ-SR2:
@@ -86,7 +86,7 @@ The built-in 2-channel mixer on the DDJ-SR2 is ideal for scratch performances. T
 _Have questions about the **Pioneer DJ DDJ-SR2** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -108,16 +108,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/ddjsr2cover-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>[Updated] Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
-<li><a href="https://fox-that.techidaily.com/airpods-troubleshooting-guide-manual-setup-vs-seamless-switching/"><u>AirPods Troubleshooting Guide: Manual Setup Vs. Seamless Switching</u></a></li>
-<li><a href="https://win-bits.techidaily.com/benotigt-die-aktivierung-eines-iphones-ein-systemupdate-schritt-fur-schritt-anleitung/"><u>Benötigt Die Aktivierung Eines iPhones Ein Systemupdate: Schritt-Für-Schritt-Anleitung!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/ensuring-your-pcs-optimal-functionality-expert-advice-by-yl-software/"><u>Ensuring Your PC's Optimal Functionality: Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/essential-guidelines-for-creating-dj-logos-proven-dos-and-donts/"><u>Essential Guidelines for Creating DJ Logos: Proven Dos and Don'ts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebook-streaming-made-simple-your-guide-2023-edition-for-2024/"><u>Facebook Streaming Made Simple Your Guide, 2023 Edition for 2024</u></a></li>
-<li><a href="https://win-hot.techidaily.com/high-resolution-2k-and-widescreen-wallpaper-collections-by-yl-computing-premium-desktop-backgrounds-for-ultra-hd-displays/"><u>High-Resolution 2K & Widescreen Wallpaper Collections by YL Computing: Premium Desktop Backgrounds for Ultra HD Displays</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/master-windows-clock-customization-expert-techniques-by-yl-software/"><u>Master Windows Clock Customization: Expert Techniques by YL Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-flashback-2022s-snowboard-x-winners-for-2024/"><u>Ultimate Flashback 2022'S Snowboard X Winners for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-10-graphics-card-troubleshooting-easy-reset-methods-revealed-by-yl-software/"><u>Windows 10 Graphics Card Troubleshooting: Easy Reset Methods Revealed by YL Software</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-stepwise-approach-to-adding-video-tracks-to-your-youtube-playlists/"><u>[New] 2024 Approved Stepwise Approach to Adding Video Tracks to Your YouTube Playlists</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-end-humor-scripts/"><u>[New] High-End Humor Scripts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-how-to-effectively-convert-iphone-photos-jpeg-png-into-pdfs-for-2024/"><u>[Updated] How to Effectively Convert iPhone Photos (JPEG, PNG) Into PDFs for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-removing-your-likes-across-all-tracks-in-spotify/"><u>Complete Guide: Removing Your Likes Across All Tracks in Spotify</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-v29-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo V29 Quickly | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-vimeo-video-integration-in-ppts/"><u>Mastering Vimeo Video Integration in PPTs</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/overcoming-image-quality-problems-reasons-behind-fuzzy-and-smudged-scans-explained-by-yl-software/"><u>Overcoming Image Quality Problems: Reasons Behind Fuzzy & Smudged Scans Explained by YL Software</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/secure-strategies-for-cryptocurrency-trading-insights-from-yl-computings-expertise/"><u>Secure Strategies for Cryptocurrency Trading: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/solving-printer-response-issues-expert-tips-from-yl-software-professionals/"><u>Solving Printer Response Issues - Expert Tips From YL Software Professionals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-developers-guide-to-chatgpt-in-vs-code/"><u>The Developer's Guide to ChatGPT in VS Code</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-miniature-dream-dwellings-exploring-stylish-micro-homes-techradar/"><u>Top 5 Miniature Dream Dwellings - Exploring Stylish Micro-Homes | TechRadar</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-guide-resolving-your-printers-connection-issues-on-a-network-insights-by-yl-computing/"><u>Troubleshooting Guide: Resolving Your Printer's Connection Issues on a Network - Insights by YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-scanner-problems-discover-why-it-wont-recognize-your-computer-with-yl-software-solutions/"><u>Troubleshooting Scanner Problems: Discover Why It Won't Recognize Your Computer with YL Software Solutions</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/understanding-reasons-behind-hard-disk-drive-malfunction-an-insight-by-yl-computing/"><u>Understanding Reasons Behind Hard Disk Drive Malfunction: An Insight by YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unraveling-historical-effects-how-did-the-taiping-rebellion-shape-society-learn-with-yl-computings-analysis-yl-software-expertise/"><u>Unraveling Historical Effects: How Did the Taiping Rebellion Shape Society? Learn with YL Computing's Analysis | YL Software Expertise</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-the-art-of-choosing-high-impact-youtube-channels/"><u>Unveiling the Art of Choosing High-Impact Youtube Channels</u></a></li>
 </ul></div>
 
