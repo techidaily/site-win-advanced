@@ -1,7 +1,7 @@
 ---
 title: "Test Drive Complete: Introducing the New Songbook & Remote Control Capabilities for DJ Karaoke on PCDJ Platform."
-date: 2025-02-07T03:36:07.556Z
-updated: 2025-02-09T03:30:19.873Z
+date: 2025-02-14T22:52:16.546Z
+updated: 2025-02-18T16:05:20.867Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _What is SongBookDB?_
@@ -31,7 +31,7 @@ We’ve explored many options to accomplish this, including designing our own pl
 [![](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?resize=461%2C550&ssl=1 "songbookdb")](https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb.jpg?fit=461%2C550&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 SongbookDB is a karaoke song book app (_web-app, Android, and soon iOS_) that lets the public view and browse KJ’s songbooks on their mobile devices.
@@ -59,13 +59,13 @@ We’re in the final stages of integration now and are looking for a few beta te
 What we’re testing right now is support for PCDJ Karaoki’s TSV files (_TSV files are exported from Karaoki cases_). Export a TSV from PCDJ Karaoki, and upload to SongBook DB. As we get closer to a release, beta testers that sign up now will get a priority look at the full platform and release candidate additionally!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### If you’d like to take part in the beta test, please fill out the form below and we’ll get in touch with you shortly:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,15 +87,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/10/songbookdb-coverimagejpg.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-big-sur-unveiled-your-guide-to-a-flawless-mac-os-shift/"><u>[New] Big Sur Unveiled Your Guide to a Flawless Mac OS Shift</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-a05s-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Itel A05s</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/analyzing-the-consequences-a-deep-dive-into-the-impact-of-the-sino-japanese-conflict-by-yl-computing/"><u>Analyzing the Consequences: A Deep Dive Into the Impact of the Sino-Japanese Conflict by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A2 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/master-windows-clock-customization-expert-techniques-by-yl-software/"><u>Master Windows Clock Customization: Expert Techniques by YL Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/optimize-intel-driver-support-for-windows-11-7-and-81/"><u>Optimize Intel Driver Support for Windows 11, 7, and 8.1</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/pioneer-djs-newest-mixing-console-the-ddj-sr2-with-enhanced-dex3-compatibility-for-dj-pros/"><u>Pioneer DJ's Newest Mixing Console: The DDJ-SR2 with Enhanced DEX3 Compatibility for DJ Pros</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1727787561150-top-rated-smartwatches-comprehensive-analysis-by-tech-experts/"><u>Top-Rated Smartwatches - Comprehensive Analysis by Tech Experts</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-guide-how-to-fix-a-malfunctioning-sound-card-tips-from-yl-computing/"><u>Troubleshooting Guide: How to Fix a Malfunctioning Sound Card - Tips From YL Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-apowersofts-capabilities-tested-against-market-contenders/"><u>[New] 2024 Approved Apowersoft's Capabilities Tested Against Market Contenders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-cutting-edge-solutions-for-webmicrone-capture-with-these-9-tools-23/"><u>[New] In 2024, Cutting-Edge Solutions for Webmicrone Capture with These 9 Tools ('23)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-tips-for-creating-and-editing-snapchat-duos-for-2024/"><u>[Updated] Quick Tips for Creating and Editing Snapchat Duos for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1-how-to-customize-your-own-photo-slideshow-dimensions-and-hues-in-flipbook-flipbuilder-guide/"><u>1. How to Customize Your Own Photo Slideshow Dimensions and Hues in FlipBook - FlipBuilder Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1726027779212-datmp4/"><u>複雑さ無くDATファイルをMP4に容易に変更するチュートリアル</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-pin-for-smooth-projections-on-windows-11/"><u>Bypass PIN for Smooth Projections on WIndows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-why-the-ring-video-doorbell-pro-is-a-clever-choice-for-your-home/"><u>Comprehensive Review: Why the Ring Video Doorbell Pro Is a Clever Choice for Your Home</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easy-tutorial-for-transforming-quicktime-videos-into-prores-on-microsofts-latest-operating-systems/"><u>Easy Tutorial for Transforming QuickTime Videos Into ProRes on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y100a-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y100A</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-elite-gameplay-in-simulated-fluids-and-flows/"><u>In 2024, Elite Gameplay in Simulated Fluids & Flows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-motorola-moto-g14-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Motorola Moto G14 Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-transforming-view-counts-with-strategic-video-tagging-techniques/"><u>In 2024, Transforming View Counts with Strategic Video Tagging Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-trending-on-twitter-unpacking-top-10-tiktok-videos/"><u>In 2024, Trending on Twitter Unpacking Top 10 TikTok Videos</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/mp4m4atop5/"><u>MP4ファイルをM4Aに変換する人気無料ツールTOP5: 高画質音声楽しむ方法</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/pcweverse/"><u>PC用にWeverseのスクリーン録画テクニックを学ぶ</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-rated-kodi-matrix-tv-interface-comprehensive-guide-on-19-must-have-addons-regular-updates/"><u>Top Rated Kodi Matrix TV Interface: Comprehensive Guide on 19 Must-Have Addons - Regular Updates</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/ultimate-guide-top-5-universal-hdri-players-of-2024/"><u>Ultimate Guide: Top 5 Universal HDRI Players of 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/understanding-the-laws-on-dvd-copying-a-comprehensive-overview/"><u>Understanding the Laws on DVD Copying: A Comprehensive Overview</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/warzone-on-your-screen-discover-the-best-strategies-to-record-and-share-gameplay-on-pc-with-our-expert-tips-methodologies-explained/"><u>Warzone on Your Screen: Discover the Best Strategies to Record and Share Gameplay on PC with Our Expert Tips (Methodologies Explained)</u></a></li>
 </ul></div>
 

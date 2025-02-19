@@ -1,7 +1,7 @@
 ---
 title: Mastering Crowd Dynamics with DJNNE and Scott Faver – Essential Techniques From PCDJ
-date: 2025-02-03T02:47:54.774Z
-updated: 2025-02-08T23:26:03.103Z
+date: 2025-02-11T16:49:59.595Z
+updated: 2025-02-18T16:10:48.694Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ This week, we felt inclined to share a video recently shot and released by Disc 
 During this weeks segment DJNN hosts Scott Faver, known in the industry as the Game Master. He share’s his insights in reading the vibe from a group of people so he can play to his audiences tastes in music. DJing is all about being a great “selector” of music, to ensure a packed dance floor and memorable occasion (_and more referrals!_):  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,17 +42,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/07/readingthevibe.jpg?fit=530
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-identifying-causes-for-disappearing-youtube-shorts-thumbnails/"><u>[New] Identifying Causes for Disappearing YouTube Shorts Thumbnails</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-plug-in-proweries-expert-analysis/"><u>[New] PLUG-IN PROWERIES Expert Analysis</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-transform-your-tech-for-successful-social-media-livestreams/"><u>[Updated] In 2024, Transform Your Tech for Successful Social Media Livestreams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6-warnings-for-the-unquestioning-advocate-of-ai/"><u>6 Warnings for the Unquestioning Advocate of AI</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/get-your-hands-on-the-premium-tech-early-apple-slashes-prices-of-the-latest-m2-macbook-air-to-just-799-beating-prime-day-rush/"><u>Get Your Hands on the Premium Tech Early: Apple Slashes Prices of the Latest M2 MacBook Air to Just $799, Beating Prime Day Rush</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/high-quality-fiat-emblem-backgrounds-for-pc-download-and-use-with-ease-yl-computing-solutions/"><u>High-Quality Fiat Emblem Backgrounds for PC: Download & Use with Ease - YL Computing Solutions</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/is-real-time-threat-detection-feature-of-windows-defender-effective-insights-from-yl-computing/"><u>Is Real-Time Threat Detection Feature of Windows Defender Effective? - Insights From YL Computing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/resolving-scan-operation-errors-expert-solutions-from-yl-computings-software-suite/"><u>Resolving Scan Operation Errors: Expert Solutions From YL Computing's Software Suite</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-2021-beatsource-chart-hits-years-best-plays-on-pcdj/"><u>Top 2021 Beatsource Chart Hits: Year's Best Plays on PCDJ</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-employment-7-predictions-on-how-generative-ai-shapes-our-future-work/"><u>Transforming Employment: 7 Predictions on How Generative AI Shapes Our Future Work</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/understanding-distinct-features-comparing-computer-viruses-with-worms-insights-from-yl-software-solutions/"><u>Understanding Distinct Features: Comparing Computer Viruses with Worms - Insights From YL Software Solutions</u></a></li>
-<li><a href="https://discover-best.techidaily.com/yl-software-tutorial-effortlessly-track-your-crypto-assets-with-a-wallet-balance-checker/"><u>YL Software Tutorial: Effortlessly Track Your Crypto Assets with a Wallet Balance Checker</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-shine-brightly-youtubes-17-must-have-illumination/"><u>[New] In 2024, Shine Brightly! YouTube's #17 Must-Have Illumination</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-standout-cinematography-experts-for-2024/"><u>[Updated] Unveiling Standout Cinematography Experts for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-and-download-microsofts-virtual-academy-lessons-as-high-quality-video-files-mp4wmvaviflv/"><u>Convert and Download Microsoft's Virtual Academy Lessons as High-Quality Video Files (MP4/WMV/AVI/FLV)</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-any-audio-link-into-an-mp3-file-with-ease-for-pc-and-mac/"><u>Convert Any Audio Link Into an MP3 File with Ease - For PC & Mac</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/convert-your-favorite-youtube-videos-into-premium-mp3-files-with-image-thumbnails/"><u>Convert Your Favorite YouTube Videos Into Premium MP3 Files With Image Thumbnails</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/converting-vimeo-content-into-itunes-compatible-formats-mp4-mov-mp3/"><u>Converting Vimeo Content Into iTunes Compatible Formats (MP4, MOV, MP3)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-palette-perfection-quick-tricks-for-color-enhancement/"><u>Digital Palette Perfection Quick Tricks for Color Enhancement</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/download-deezer-tracks-in-lossless-flac-format-and-preserve-album-covers-for-an-enhanced-listening-experience/"><u>Download Deezer Tracks in Lossless FLAC Format and Preserve Album Covers for an Enhanced Listening Experience</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/download-medquestreviews-content-access-your-favorite-medical-education-videos/"><u>Download MedQuestReviews Content: Access Your Favorite Medical Education Videos</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effortless-downloads-with-alavsoft-your-go-to-solution-for-macoswindows-beyond-traditional-youtube-dl/"><u>Effortless Downloads with Alavsoft: Your Go-To Solution for macOS/Windows, Beyond Traditional YouTube-Dl!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fundamentals-of-fiction-fabrication/"><u>Fundamentals of Fiction Fabrication</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-y100i-power-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-key-aspects-you-should-evaluate-before-choosing-an-ai-chatbot-platform/"><u>Top 7 Key Aspects You Should Evaluate Before Choosing an AI Chatbot Platform</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nokia-c300-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nokia C300 Screen | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-poco-c51-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Poco C51 FRP Bypass</u></a></li>
 </ul></div>
 

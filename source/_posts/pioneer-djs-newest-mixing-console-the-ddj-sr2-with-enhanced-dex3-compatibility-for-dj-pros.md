@@ -1,7 +1,7 @@
 ---
 title: "Pioneer DJ's Newest Mixing Console: The DDJ-SR2 with Enhanced DEX3 Compatibility for DJ Pros"
-date: 2025-02-05T06:09:02.351Z
-updated: 2025-02-08T21:50:57.657Z
+date: 2025-02-12T19:34:57.301Z
+updated: 2025-02-19T07:20:53.924Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Now that we’ve released a custom map (available below), [DEX 3](https://tools.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s a look at some of the key features included with the DDJ-SR2:
@@ -86,7 +86,7 @@ The built-in 2-channel mixer on the DDJ-SR2 is ideal for scratch performances. T
 _Have questions about the **Pioneer DJ DDJ-SR2** **DJ controller** and how it works with DEX 3 or DEX 3 RE **DJ software**? Please leave them in the comments sections below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -108,21 +108,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/ddjsr2cover-template.jpg?f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/apture-spectacular-video-on-youtube-top-webcam-picks-for-2024/"><u>[New] Capture Spectacular Video on YouTube Top Webcam Picks for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-streamlined-zoom-utilization-a-chromebook-perspective-for-2024/"><u>[New] Streamlined Zoom Utilization A Chromebook Perspective for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-fast-revenues-forecasting-toolkit-for-vids/"><u>[Updated] Fast Revenues Forecasting Toolkit for Vids</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/beste-2-wd-datensicherungsprogramme-fur-windows-11-and-10-kostenlos-herunterladen/"><u>Beste 2 WD-Datensicherungsprogramme Für Windows 11 & 10 - Kostenlos Herunterladen</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/comment-retrouver-des-fichiers-supprimes-et-videos-dans-la-corbeille-le-guide-ultime-en-6-etapes/"><u>Comment Retrouver Des Fichiers Supprimés Et Vidéos Dans La Corbeille : Le Guide Ultime en 6 Étapes</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/depasser-lechec-dacces-5-astuces-pour-resoudre-les-problemes-de-securite-avec-windows-11/"><u>Dépasser L'Échec D'Accès : 5 Astuces Pour Résoudre Les Problèmes De Sécurité Avec Windows 11</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/expert-techniques-startup-sequence-for-dell-pcs-utilizing-usb-media-and-uefi-configuration/"><u>Expert Techniques: Startup Sequence for Dell PCs Utilizing USB Media & UEFI Configuration</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-nier-automata-software-crash-solved/"><u>Fixes For Nier Automata Software Crash - Solved!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/guia-paso-a-paso-para-clonar-un-ssd-a-una-memoria-usb-en-windows-versiones-7-8-y-10/"><u>Guía Paso a Paso Para Clonar Un SSD a Una Memoria USB en Windows (Versiones 7, 8 Y 10)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-livestream-elite-top-equipment-for-youtube-content-creators/"><u>In 2024, Livestream Elite Top Equipment For YouTube Content Creators</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728467641928-macrium-reflect/"><u>Macrium Reflect 系統儲存體轉移 - 無需煩惱的硬碟更新方法</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-13-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 13 Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/scrubbers-use-a-liquid-medium-to-remove-pollutants-from-gas-streams-by-absorption-or-chemical-reaction/"><u>Scrubbers Use a Liquid Medium to Remove Pollutants From Gas Streams by Absorption or Chemical Reaction.</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-enabling-high-dynamic-range-auto-hdr-on-windows-11/"><u>Step-by-Step Guide to Enabling High Dynamic Range (Auto HDR) on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-motorola-moto-g34-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Motorola Moto G34 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-updating-your-samsung-phones-usb-drivers/"><u>Ultimate Guide: Updating Your Samsung Phone's USB Drivers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-airwaves-to-your-iphone-mastery-of-podcast-downloads/"><u>[New] From Airwaves to Your iPhone Mastery of Podcast Downloads</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-capture-every-angle-how-to-create-dynamic-viewpoint-driven-reaction-vids-for-youtube-success/"><u>[New] In 2024, Capture Every Angle – How to Create Dynamic, Viewpoint-Driven Reaction Vids for YouTube Success</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-gamer-wealth-wave-the-year-ahead/"><u>[New] In 2024, Gamer Wealth Wave The Year Ahead</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-maximize-engagement-secrets-of-successful-youtube-seo/"><u>[Updated] Maximize Engagement Secrets of Successful YouTube SEO</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-affordable-openai-image-modifiers/"><u>Best Affordable OpenAI Image Modifiers</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/complete-guide-to-renaming-files-and-directories-tips-from-yl-computings-expert-tools/"><u>Complete Guide to Renaming Files and Directories - Tips From YL Computing's Expert Tools</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/hd-beach-scenes-high-resolution-wallpapers-and-backgrounds-for-summer-vibes-yl-computing-solutions/"><u>HD Beach Scenes - High-Resolution Wallpapers & Backgrounds for Summer Vibes | YL Computing Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-locate-your-pcs-device-manager-a-guide-by-yl-computing/"><u>How to Locate Your PC's Device Manager: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-to-speed-up-your-sluggish-pc-expert-tips-from-yl-computing/"><u>How to Speed Up Your Sluggish PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/online-game-console-simulation-enjoy-retro-gaming-in-your-web-browser-instantly/"><u>Online Game Console Simulation: Enjoy Retro Gaming in Your Web Browser Instantly!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/omplete-handbook-to-excellent-youtube-audio-production/"><u>The Complete Handbook to Excellent YouTube Audio Production</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-a-non-responsive-printer-solutions-and-tips-yl-computing-experts/"><u>Troubleshooting a Non-Responsive Printer: Solutions & Tips - YL Computing Experts</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/troubleshooting-how-to-fix-your-unresponsive-keyboard-and-mouse-expert-tips-from-yl-computing/"><u>Troubleshooting: How to Fix Your Unresponsive Keyboard and Mouse - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/uncovering-typical-reasons-behind-graphics-card-issues-insights-from-yl-computing-and-software/"><u>Uncovering Typical Reasons Behind Graphics Card Issues: Insights From YL Computing & Software</u></a></li>
 </ul></div>
 
