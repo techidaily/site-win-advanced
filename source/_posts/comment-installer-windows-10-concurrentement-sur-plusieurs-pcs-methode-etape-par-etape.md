@@ -1,7 +1,7 @@
 ---
 title: "« Comment Installer Windows 지 10 Concurrentement Sur Plusieurs PCs : Méthode Étape Par Étape »"
-date: 2025-02-06T19:10:42.002Z
-updated: 2025-02-09T01:39:56.073Z
+date: 2025-03-06T17:39:39.527Z
+updated: 2025-03-07T18:39:10.123Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e642ab24591a56b8d090783a.jpg
@@ -47,14 +47,6 @@ When a storage device or computer is infected by a ransomware virus, your files 
 If you are looking for methods on how to recover ransomware-infected files, you have come to the right place. In the following chapter, we will show you some practical ways to [recover lost data](https://tools.techidaily.com/ubackup/products/) from ransomware attacks.
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to recover files from ransomware attack in 4 ways
 
@@ -106,17 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -130,21 +114,9 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -159,10 +131,6 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
@@ -199,10 +167,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
@@ -226,10 +190,6 @@ Help Us Improve This Article
 Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Free Get MyRecover Now
 
@@ -256,24 +216,24 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-eyecatch-protector-cam-cover-for-2024/"><u>[New] Eyecatch Protector Cam Cover for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/6-essential-strategies-to-fix-common-windows-11-problems-and-restore-performance/"><u>6 Essential Strategies to Fix Common Windows 11 Problems and Restore Performance</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728467934166-usb/"><u>間違えてUSB上の重要なファイルを削除してしまった！完全修復法について学ぶ</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/alternate-strategies-for-syncing-local-files-with-microsofts-cloud-service-a-guide-to-backup-your-user-folder-to-onedrive/"><u>Alternate Strategies for Syncing Local Files with Microsoft's Cloud Service: A Guide to Backup Your User Folder to OneDrive</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/clone-prozeduren-fur-das-kopieren-von-windows-server-2011-auf-eine-frische-festplatte-eine-anleitung-mit-zwei-methoden/"><u>Clone-Prozeduren Für Das Kopieren Von Windows Server 2011 Auf Eine Frische Festplatte: Eine Anleitung Mit Zwei Methoden</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/discover-why-high-speed-gigabit-internet-is-essential-are-you-and-your-devices-ready/"><u>Discover Why High-Speed Gigabit Internet Is Essential: Are You and Your Devices Ready?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-features-and-benefits-of-onyx-boox-note-air3-a-comprehensive-color-e-reader-review/"><u>Exploring the Features & Benefits of Onyx Boox Note Air3: A Comprehensive Color E-Reader Review</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/guia-completa-como-hacer-una-copia-de-seguridad-imagen-de-sistema-con-los-programas-gratuitos-mas-eficaces-para-windows-1110plus/"><u>Guía Completa: Cómo Hacer Una Copia De Seguridad Imagen De Sistema Con Los Programas Gratuitos Más Eficaces Para Windows 11/10+</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/guia-paso-a-paso-para-habilitar-la-configuracion-de-respaldo-automatico-antes-del-despliegue-en-windows-7/"><u>Guía Paso a Paso Para Habilitar La Configuración De Respaldo Automático Antes Del Despliegue en Windows 7</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-transfer-your-operating-system-from-an-hdd-to-a-new-ssd-without-rebuilding-it/"><u>How to Transfer Your Operating System From an HDD to a New SSD Without Rebuilding It</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-google-pixel-7a-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Google Pixel 7a to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-spark-20-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Spark 20 Pro to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagram-fraud-busters-efficient-and-economical-methods-for-2024/"><u>Instagram Fraud Busters Efficient & Economical Methods for 2024</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/losungen-fur-das-problem-windows-11-wird-nicht-gestartet-erfolgreich-vorankommen-mit-5-tipps/"><u>Lösungen Für Das Problem: Windows 11 Wird Nicht Gestartet – Erfolgreich Vorankommen Mit 5 Tipps</u></a></li>
-<li><a href="https://fox-that.techidaily.com/mastering-the-art-of-iphone-snapshots-top-8-handy-hints-and-problem-resolutions/"><u>Mastering the Art of iPhone Snapshots: Top 8 Handy Hints & Problem Resolutions</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-capturing-the-essence-of-cricket-soundscape-for-2024/"><u>New Capturing the Essence of Cricket Soundscape for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/schaffe-nahtlose-foto-synchro-zwischen-macos-geraten-sicheres-erzwingen-fur-professionelle-datensicherheit/"><u>Schaffe Nahtlose Foto-Synchro Zwischen macOS Geräten – Sicheres Erzwingen Für Professionelle Datensicherheit</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-the-zenith-phase-unveiling-the-best-times-in-smartphone-history/"><u>Understanding the Zenith Phase - Unveiling the Best Times in Smartphone History</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728479173631-365/"><u>オフィス365 メール転送ができない原因と改善策</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastermind-mind-games-trivia-channel-hunt-for-24/"><u>[New] Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-skyrocketing-your-iphone-film-quality-essential-filmmaking-insights-for-2024/"><u>[New] Skyrocketing Your iPhone Film Quality Essential Filmmaking Insights for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-bites-of-wisdom-youtube-tvs-unique-selling-points/"><u>2024 Approved Bites of Wisdom YouTube TV's Unique Selling Points</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-notebook-driver-software-free-download-and-upgrade-options/"><u>ASUS Notebook Driver Software: Free Download & Upgrade Options</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/best-methods-for-moving-your-files-transition-from-windows-81-to-windows-11/"><u>Best Methods for Moving Your Files: Transition From Windows 8.1 to Windows 11</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effektiv-sichern-sie-ihre-e-mail-adressen-in-gmail-ein-umfassender-leitfaden/"><u>Effektiv Sichern Sie Ihre E-Mail Adressen in Gmail: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/effiziente-methoden-zum-vollstandigen-loschen-aller-daten-von-deinem-computer-top-tipps/"><u>Effiziente Methoden Zum Vollständigen Löschen Aller Daten Von Deinem Computer – Top-Tipps</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/guide-to-easily-sync-and-transfer-documents-between-pc-and-ipads-ipad-pro-air-and-mini/"><u>Guide to Easily Sync and Transfer Documents Between PC & iPads (iPad Pro, Air & Mini)</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/herunterladen-von-aomei-backupper-fur-windows-aik-erste-schritte-zum-installieren/"><u>Herunterladen Von AOMEI Backupper Für Windows AIK - Erste Schritte Zum Installieren</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970235484-how-to-fix-asus-wireless-network-adapter-pce-ac56-drivers-for-windows-10-8-and-ebian-solved/"><u>How to Fix ASUS Wireless Network Adapter (PCE-AC56) Drivers for Windows 10, 8 & Ebian – Solved!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-fullview-pacts-the-art-of-media-company-selection/"><u>In 2024, FullView Pacts The Art of Media Company Selection</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-youtubes-creative-commons-for-content-sharing-for-2024/"><u>Navigating YouTube's Creative Commons for Content Sharing for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-realme-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Realme .</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/pubg-voice-chat-not-functioning-expert-advice-to-restore-it/"><u>PUBG Voice Chat Not Functioning? Expert Advice to Restore It</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-play-music-10-best-apps-phones/"><u>Quick Play Music 10 Best Apps, Phones</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/resolving-the-no-android-device-detected-issue-with-ios-step-by-step-guide/"><u>Resolving the 'No Android Device Detected' Issue with iOS - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/seagate-dashboardwindows-1011/"><u>Seagate DashboardがWindows 10/11上で正常に動作しない原因と修正方法</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/transferieren-sie-musik-von-cd-auf-das-iphone-einfach-perfekt-itunes-oder-nicht/"><u>Transferieren Sie Musik Von CD Auf Das iPhone Einfach Perfekt - ITunes Oder Nicht?</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/yahoo-windows/"><u>Yahooメール Windows パソコンにおけるバックアップ手順 三通り</u></a></li>
 </ul></div>
 

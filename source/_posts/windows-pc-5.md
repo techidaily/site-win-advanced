@@ -1,7 +1,7 @@
 ---
 title: 如何在Windows PC上恢復删除的照片 - 选择你喜欢的5种方法！
-date: 2025-02-07T05:36:43.210Z
-updated: 2025-02-08T16:49:10.695Z
+date: 2025-03-05T19:23:10.079Z
+updated: 2025-03-07T20:13:08.660Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf3958002401b8a3af1db05343b435b.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 Wie kann man den Papierkorb vom Desktop entfernen? Eine effiziente Methode finden Sie auf dieser Seite. Sie können auch erfahren, wie Sie gelöschte Dateien aus dem Papierkorb wiederherstellen können, nachdem dieser geleert wurde, und Sie erhalten entsprechende Tipps zur Wiederherstellung des Papierkorbs.
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Von[Holiday](https://tools.techidaily.com/ubackup/products/)/ Aktualisiert am 14.09.2024
 
@@ -65,10 +61,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 1**. Öffnen Sie die Windows-Einstellungen, indem Sie die Tasten „**Win + I**“ drücken, und klicken Sie auf die Schaltfläche „**Personalisierung**“.
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
@@ -118,17 +110,9 @@ Sicherer Download
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
@@ -153,25 +137,13 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -206,10 +178,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
 ![Holiday](https://www.ubackup.com/assets/images/author/Holiday.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -249,10 +217,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -268,20 +232,22 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-capturing-life-one-click-at-a-time-the-ultimate-guide-for-documenting-your-sims-journey-in-sims-4/"><u>[New] Capturing Life, One Click at a Time The Ultimate Guide for Documenting Your Sim's Journey in Sims 4</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-step-by-step-enablingdisabling-picture-in-picture/"><u>[New] In 2024, Step by Step Enabling/Disabling Picture-in-Picture</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-your-social-presence-essential-tips-for-sending-gifs-on-snapchat/"><u>[Updated] 2024 Approved Elevate Your Social Presence Essential Tips for Sending GIFs on Snapchat</u></a></li>
-<li><a href="https://extra-information.techidaily.com/achieving-sonic-harmony-advanced-crossfading-in-audacity-for-2024/"><u>Achieving Sonic Harmony Advanced Crossfading in Audacity for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/elite-endorsements-whos-the-crown-jewel-meta-verified-or-blue-badged/"><u>Elite Endorsements: Who's the Crown Jewel – Meta Verified or Blue Badged?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/experts-guide-to-utilizing-morphvox-voice-changers/"><u>Expert's Guide to Utilizing MorphVOX Voice Changers</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/exploring-the-objectives-of-japan-in-wwii-insights-from-yl-software-experts/"><u>Exploring the Objectives of Japan in WWII: Insights From YL Software Experts</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/future-proof-your-data-top-strategies-to-avoid-information-loss-expert-tips-by-yl-computing/"><u>Future-Proof Your Data: Top Strategies to Avoid Information Loss - Expert Tips by YL Computing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-efficient-is-windows-defender-at-guarding-your-pc-insights-from-yl-computings-analysis/"><u>How Efficient Is Windows Defender at Guarding Your PC: Insights From YL Computing's Analysis</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/how-to-optimize-your-computer-with-windows-update-knowledge-guidance-from-yl-software-experts/"><u>How to Optimize Your Computer with Windows Update Knowledge – Guidance From YL Software Experts</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/identifying-the-root-cause-of-your-pcs-heating-issues-expert-advice-from-yl-computing/"><u>Identifying the Root Cause of Your PC's Heating Issues: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-optimizing-playback-speed-a-guide-for-spotify-users/"><u>In 2024, Optimizing Playback Speed A Guide for Spotify Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-examination-of-google-pixel-5-striking-a-balance-between-affordability-and-elite-functions/"><u>In-Depth Examination of Google Pixel 5: Striking a Balance Between Affordability and Elite Functions</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/preventing-gpu-overheat-issues-professional-advice-by-yl-software-experts/"><u>Preventing GPU Overheat Issues: Professional Advice by YL Software Experts</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/securing-your-investments-a-guide-to-staying-safe-with-cryptocurrencies-by-yl-computing-and-yl-software-experts/"><u>Securing Your Investments: A Guide to Staying Safe with Cryptocurrencies by YL Computing & YL Software Experts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-thriving-in-twitter-live-tv-mode/"><u>[New] Thriving in Twitter Live TV Mode</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevating-pc-and-mac-use-of-dslr-for-online-sharing/"><u>[Updated] 2024 Approved Elevating PC & Mac Use of DSLR for Online Sharing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-781011/"><u>安全なデータ処理: Windows 7/8/10/11で古くなったバックアップイメージを除去する効果的な方法</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728486241215-windows-11/"><u>确保数据安全：使用密码保护文件夹在Windows 11上的有效方法</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/cloning-large-disks-to-smaller-drives-can-clonezilla-handle-the-task-comprehensive-guide-inside/"><u>Cloning Large Disks to Smaller Drives: Can Clonezilla Handle the Task? Comprehensive Guide Inside!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/comprehensive-strategy-for-restoring-access-to-cryptowall-locked-data-files/"><u>Comprehensive Strategy for Restoring Access to Cryptowall Locked Data Files</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhancing-digital-presence-through-state-of-the-art-cookiebot-solutions/"><u>Enhancing Digital Presence Through State-of-the-Art Cookiebot Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/forge-business-identity-no-cost-customizable-logo-templates-available/"><u>Forge Business Identity No-Cost Customizable Logo Templates Available</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/memahami-2-langkah-kritikal-untuk-klon-disk-pada-windows-server-201/"><u>Memahami 2 Langkah Kritikal Untuk Klon Disk Pada Windows Server 201</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/nas/"><u>NAS 資料夾週期性檔存技術：使用外置硬碟的二種方法</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-settings-no-more-sifu-performance-lag/"><u>Optimizing Your PC Settings: No More 'Sifu' Performance Lag</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-infinix-hot-30-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Infinix Hot 30 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-use-of-recycled-plastics-creating-quality-3d-printing-material/"><u>Revolutionary Use of Recycled Plastics: Creating Quality 3D Printing Material</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-into-better-imaging-with-these-gopro-extras-for-2024/"><u>Step Into Better Imaging with These GoPro Extras for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/the-leading-software-solutions-for-generating-restore-points-on-windows-10-systems/"><u>The Leading Software Solutions for Generating Restore Points on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/time-reversal-tactics-for-iphone-movies-for-2024/"><u>Time-Reversal Tactics for iPhone Movies for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unveiling-the-most-effective-data-copy-solutions-for-windows-10-users/"><u>Unveiling the Most Effective Data Copy Solutions for Windows 10 Users</u></a></li>
 </ul></div>
 

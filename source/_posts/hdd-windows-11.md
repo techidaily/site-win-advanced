@@ -1,7 +1,7 @@
 ---
 title: 容易なHDDイメージのバックアップ - Windows 11で学ぶ基本的テクニック
-date: 2025-02-03T23:41:33.281Z
-updated: 2025-02-08T23:33:48.434Z
+date: 2025-03-03T21:46:49.550Z
+updated: 2025-03-07T18:16:53.564Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6eef0863a0474a1aae2b4b5f25.jpg
@@ -38,10 +38,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -58,10 +54,6 @@ Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist e
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass keine wichtigen Dateien darin enthalten sind. Hier sind die Schritte, um das Papierkorbsymbol vom Desktop zu entfernen:
@@ -74,17 +66,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
@@ -130,10 +114,6 @@ Sicherer Download
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
 Angesichts der Bedeutung von Sicherheitsmaßnahmen wie regelmäßigen Backups, um Datenverlust zu vermeiden, fragen Sie sich vielleicht, ob es spezielle Software zur Datenverlustprävention für Windows-Computer gibt.
@@ -165,15 +145,7 @@ Sicherer Download
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -243,15 +215,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -268,20 +232,18 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-6-cool-minecraft-house-ideas/"><u>[New] In 2024, Top 6 Cool Minecraft House Ideas</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-dji-phantom-3s-superior-flight-control-features/"><u>[New] Unveiling DJI Phantom 3'S Superior Flight Control Features</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-insights-on-maintaining-engagement-after-algorithm-shifts-for-2024/"><u>[Updated] Insights on Maintaining Engagement After Algorithm Shifts for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-three-key-strategies-to-record-and-review-education-talks-on-macbooks/"><u>2024 Approved Three Key Strategies to Record and Review Education Talks on MacBooks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/4k-gimbal-picks-top-ten-mirrorless-companions-for-2024/"><u>4K Gimbal Picks Top Ten Mirrorless Companions for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/comprehensive-list-of-professional-tools-for-correcting-photograph-damage/"><u>Comprehensive List of Professional Tools for Correcting Photograph Damage</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/fast-track-termination-of-slow-programs-with-a-secret-win11-feature-discover-how-on-zdnet/"><u>Fast-Track Termination of Slow Programs with a Secret Win11 Feature - Discover How on ZDNet</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-11-pro-max-5-ways-to-get-into-a-locked-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 11 Pro Max? 5 Ways to get into a Locked iPhone 11 Pro Max</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-playlist-rearrangement-made-simple/"><u>In 2024, YouTube Playlist Rearrangement Made Simple</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/microsoft-plans-another-overhaul-of-windows-update-timetable-insider-insights-from-zdnet/"><u>Microsoft Plans Another Overhaul of Windows Update Timetable: Insider Insights From ZDNet</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/optimal-user-profile-selection-during-windows-11-installation-tips-and-decision-guide/"><u>Optimal User Profile Selection During Windows 11 Installation - Tips & Decision Guide</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/steps-to-retrieve-data-from-a-locked-laptop-lost-your-passcode/"><u>Steps to Retrieve Data From a Locked Laptop: Lost Your Passcode?</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/the-ultimate-walkthrough-for-tweaking-windows-dns-settings-and-understanding-its-benefits/"><u>The Ultimate Walkthrough for Tweaking Windows DNS Settings & Understanding Its Benefits</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-rated-laptop-docking-solutions-comprehensive-reviews-and-buyers-guide-pcmag/"><u>Top-Rated Laptop Docking Solutions: Comprehensive Reviews & Buyer's Guide - PCMag</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/top-rated-surface-devices-in-depth-analysis-and-comparison-techadvocate/"><u>Top-Rated Surface Devices : In-Depth Analysis & Comparison | TechAdvocate</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-make-a-splash-with-instagram-reels-using-tried-and-true-tiktok-hacks/"><u>[New] In 2024, Make a Splash with Instagram Reels Using Tried-and-True TikTok Hacks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-unveiling-the-power-of-vivacut/"><u>[New] In 2024, Unveiling the Power of VivaCut</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-blended-vocalists-one-platform-at-a-time/"><u>[Updated] Blended Vocalists, One Platform at a Time</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-podcasters-roadmap-to-seo-excellence/"><u>2024 Approved The Podcaster’s Roadmap to SEO Excellence</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/beta11-text-editor-application-emeditor/"><u>Beta11] Text Editor Application - EmEditor</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/complete-step-by-step-tutorial-on-retrieving-information-from-your-patriot-sd-card/"><u>Complete Step-by-Step Tutorial on Retrieving Information From Your Patriot SD Card</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-fix-error-code-0xc0000001-on-windows-pcs/"><u>Easy Steps To Fix Error Code 0XC0000001 on Windows PCs</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/gopro-googlegopro/"><u>GoPro 刪回功能：如何在Google重新保存你失去的GoPro影片和照片</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/iphoneaomei-fonebackup/"><u>IPhone之间的数据传输技巧：利用AOMEI FoneBackup完成文件转移</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-f14-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy F14 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-how-to-create-funny-talking-avatars-using-oddcast-text-to-speech/"><u>Updated 2024 Approved How to Create Funny Talking Avatars Using Oddcast Text to Speech</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/verfahren-zur-bereitstellung-von-systembildern-uber-ein-netzwerksystem-an-zahlreiche-rechner/"><u>Verfahren Zur Bereitstellung Von Systembildern Über Ein Netzwerksystem an Zahlreiche Rechner</u></a></li>
 </ul></div>
 

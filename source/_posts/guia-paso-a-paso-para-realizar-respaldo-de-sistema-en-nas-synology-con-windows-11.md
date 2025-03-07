@@ -1,7 +1,7 @@
 ---
 title: Guía Paso a Paso Para Realizar Respaldo De Sistema en NAS Synology Con Windows 11
-date: 2025-02-05T06:59:53.074Z
-updated: 2025-02-09T00:58:29.352Z
+date: 2025-02-28T20:27:21.387Z
+updated: 2025-03-07T17:36:16.601Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/44262321bc90c68bb30ae630045aeeb3d770e257348f6459d0e721b586277723.jpg
@@ -52,10 +52,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1\. Recover files from ransomware with data recovery software
 
 Usually, ransomware removes the original data after the intrusion. The encrypted files it creates are not the original files, but copies. Therefore, with the help of professional data recovery software, you can easily retrieve your original files deleted by ransomware.
@@ -76,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -91,14 +83,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -114,17 +98,9 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -156,27 +132,15 @@ Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
 If there is no restore point, it might be because the system protection isn't turned on. You can check **Protection Settings** on the System Protection tab. If the Protection Settings for your system drive shows as **Off**, you can click on **Configure** \> **Turn on System protection**, and then OK to turn it on.
 
 [![Turn On System Protection Ok](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/turn-on-system-protection-ok.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Notes:✎...
 
@@ -206,10 +170,6 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -256,20 +216,18 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-sites-to-explore-glossy-golden-typography-designs/"><u>[Updated] Prime Sites to Explore Glossy, Golden Typography Designs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-music-law-guide-for-instagram-users/"><u>[Updated] The Music Law Guide for Instagram Users</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/adapting-display-settings-in-emeditors-hex-feature-default-wrap-preferences-modified-automatically/"><u>Adapting Display Settings in EmEditor's Hex Feature - Default Wrap Preferences Modified Automatically</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/bios-to-uefi/"><u>BIOS-to-UEFI 系统还原进程：完成启动模式转换</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/comment-reinitialiser-les-droits-dacces-au-systeme-de-fichiers-ntfs-sous-windows-10-guide-pratique-5-solutions-efficaces/"><u>Comment Réinitialiser Les Droits D'Accès Au Système De Fichiers NTFS Sous Windows 10 : Guide Pratique - 5 Solutions Efficaces</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-how-to-capture-motion-blur-photos-with-iphone/"><u>In 2024, How to Capture Motion Blur Photos with iPhone</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/placebo-group-18-developed-heart-disease/"><u>Placebo Group: 18% Developed Heart Disease.</u></a></li>
-<li><a href="https://video-capture.techidaily.com/prime-lineup-ultimate-cycle-races/"><u>Prime Lineup Ultimate Cycle Races</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/profi-software-zur-wiederherstellung-von-usb-daten-auf-windows-10-myrecover/"><u>Profi-Software Zur Wiederherstellung Von USB-Daten Auf Windows 10 - MyRecover</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/restaurer-et-extraire-facilement-des-fichiers-a-partir-dune-carte-sd-formatee/"><u>Restaurer Et Extraire Facilement Des Fichiers À Partir D'une Carte SD Formatée</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/secure-backup-solutions-top-free-alternatives-to-shadowprotect/"><u>Secure Backup Solutions: Top Free Alternatives to ShadowProtect</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sham-interface-extension-larcenizes-fb-credentials/"><u>Sham Interface Extension: Larcenizes FB Credentials</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-guide-overcoming-windows-network-error-code-0x800704cf/"><u>Solved Guide: Overcoming Windows Network Error Code 0X800704CF</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-fixing-age-of-empires-2-compatibility-with-windows-10/"><u>Troubleshooting Steps for Fixing Age of Empires 2 Compatibility with Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-covert-command-channels-how-to-hide-menus/"><u>Windows 11’S Covert Command Channels: How to Hide Menus</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-strategic-lines-for-striking-iphone-photography/"><u>[Updated] Strategic Lines for Striking iPhone Photography</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/beste-2-wd-datensicherungsprogramme-fur-windows-11-and-10-kostenlos-herunterladen/"><u>Beste 2 WD-Datensicherungsprogramme Für Windows 11 & 10 - Kostenlos Herunterladen</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/comment-retrouver-des-fichiers-supprimes-et-videos-dans-la-corbeille-le-guide-ultime-en-6-etapes/"><u>Comment Retrouver Des Fichiers Supprimés Et Vidéos Dans La Corbeille : Le Guide Ultime en 6 Étapes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-adapter-issues-cleared-now-functional/"><u>Display Adapter Issues Cleared, Now Functional</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-resolve-your-csgo-game-crashes-instantly/"><u>Effortless Solutions: Resolve Your CSGO Game Crashes Instantly</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/expert-techniques-startup-sequence-for-dell-pcs-utilizing-usb-media-and-uefi-configuration/"><u>Expert Techniques: Startup Sequence for Dell PCs Utilizing USB Media & UEFI Configuration</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/external-hard-drive-issue-fixing-the-frustrating-0x80071ac3-error-now-working/"><u>External Hard Drive Issue: Fixing the Frustrating 0X80071AC3 Error – Now Working!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728467641928-macrium-reflect/"><u>Macrium Reflect 系統儲存體轉移 - 無需煩惱的硬碟更新方法</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionary-asus-thor-series-the-mighty-hammer-shaped-mjolnir-uninterruptible-power-supply/"><u>Revolutionary Asus Thor Series: The Mighty Hammer-Shaped Mjolnir Uninterruptible Power Supply</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-infinix-zero-30-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Infinix Zero 30 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/unleashing-the-power-of-chatgpt-discover-8-unusual-uses/"><u>Unleashing the Power of ChatGPT: Discover 8 Unusual Uses</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-and-silent-hp-laptops-effective-solutions-to-restore-sound-output/"><u>Windows 10 and Silent HP Laptops - Effective Solutions to Restore Sound Output</u></a></li>
 </ul></div>
 

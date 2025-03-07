@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Aktualisierung Verursacht Systemschaden – Hilfe Sofort!
-date: 2025-02-07T20:33:19.591Z
-updated: 2025-02-09T02:16:26.068Z
+date: 2025-02-28T18:14:30.147Z
+updated: 2025-03-07T20:04:57.482Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/58e5d972b07e7d47a47d775672521bb7b4d26dbdad2027a1e368bc81a0dd6f11.jpg
@@ -38,10 +38,6 @@ Teilen Sie dies: [![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Zusammenfassung](https://tools.techidaily.com/ubackup/products/)
 7. [Häufig gestellte Fragen](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ist es sicher, den Papierkorb zu löschen?
 
 Kann ich den Ordner „Papierkorb“ von meiner D-Festplatte löschen, da er 9 GB Speicherplatz belegt? Wenn ich ihn öffne, ist nichts darin enthalten. Und es gibt einen anderen Ordner mit demselben Namen auf meiner C-Festplatte, der ebenfalls Platz beansprucht. Ist es also sicher, den Papierkorb zu löschen?
@@ -66,17 +62,9 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
@@ -94,17 +82,9 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
 
@@ -134,10 +114,6 @@ Sicherer Download
 
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
 
 Angesichts der Bedeutung von Sicherheitsmaßnahmen wie regelmäßigen Backups, um Datenverlust zu vermeiden, fragen Sie sich vielleicht, ob es spezielle Software zur Datenverlustprävention für Windows-Computer gibt.
@@ -165,17 +141,9 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -249,10 +217,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -268,22 +232,16 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-abc-of-advertising-a-trifecta-strategy-to-drive-engagement-on-fb-platforms/"><u>[New] 2024 Approved The ABC of Advertising A Trifecta Strategy to Drive Engagement on FB Platforms</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-diving-into-3d-worlds-iphones-approach-to-vr-viewing/"><u>[New] In 2024, Diving Into 3D Worlds IPhone's Approach to VR Viewing</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-business-model-101-how-to-turn-snaps-into-dollars/"><u>[New] Snapchat Business Model 101 How to Turn Snaps Into Dollars</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-eating-entertainment-tiktoks-top-culinary-shows/"><u>[Updated] 2024 Approved Eating Entertainment TikTok's Top Culinary Shows</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-building-wealth-through-video-content-revenue/"><u>[Updated] Building Wealth Through Video Content Revenue</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-smartphone-security-iphone-xs-face-id-versus-galaxy-recognition/"><u>2024 Approved Smartphone Security IPhone X’s Face ID Versus Galaxy Recognition</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/5pya5paw44gu44oq44od44kv44ki44od44ox44k44k544kv566h55cg5oim55wl/"><u>最新のバックアップタスク管理戦略</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-90-gt-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor 90 GT</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/come-effettuare-la-conversione-da-mbr-a-uefi-senza-modifiche-al-layout-della-partizione/"><u>Come Effettuare La Conversione Da MBR a UEFI Senza Modifiche Al Layout Della Partizione</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/comprehensive-tutorial-on-restoring-sony-vaio-notebooks-to-original-configuration-with-windows-10-instructions/"><u>Comprehensive Tutorial on Restoring Sony Vaio Notebooks to Original Configuration with Windows 10 Instructions</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/effiziente-methode-zur-ubertragung-von-iphone-kontakten-nach-gmail/"><u>Effiziente Methode Zur Übertragung Von iPhone Kontakten Nach Gmail</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/expert-guide-navigating-the-downloading-of-surface-device-firmware/"><u>Expert Guide: Navigating the Downloading of Surface Device Firmware</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/gratis-5-alami-terbaik-bagi-menyusun-clone-ssd-rencana-lebih-simpel-untuk-mengubah-hdd-menjadi-ssd-dengan-wajib-bahan-kupas/"><u>Gratis 5 Alami Terbaik Bagi Menyusun Clone SSD: Rencana Lebih Simpel Untuk Mengubah HDD Menjadi SSD Dengan Wajib Bahan Kupas</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-6-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, Apple iPhone 6 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/step-by-step-guide-retrieving-lost-information-from-damaged-storage-devices/"><u>Step-by-Step Guide: Retrieving Lost Information From Damaged Storage Devices</u></a></li>
-<li><a href="https://facebook.techidaily.com/transforming-facebook-into-a-reflective-mirror-of-you/"><u>Transforming Facebook Into a Reflective Mirror of You</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/1728474258282-windows-115/"><u>Windows 11のシステム・スレッド・エクセプションが未処理になったというエラーを解決する5つの方法</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-demystifying-viewer-statistics-on-instagram-images/"><u>[Updated] 2024 Approved Demystifying Viewer Statistics on Instagram Images</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-drone-selections-on-a-budget-affordable-options-above-for-2024/"><u>[Updated] Drone Selections on a Budget Affordable Options Above for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/can-you-use-windows-defender-simultaneously-with-third-party-antivirus-solutions-insights-from-yl-computing/"><u>Can You Use Windows Defender Simultaneously with Third-Party Antivirus Solutions? - Insights From YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/enhancing-pc-stability-how-effective-is-new-thermal-paste-in-minimizing-processor-errors-learn-from-yl-softwares-analysis/"><u>Enhancing PC Stability: How Effective Is New Thermal Paste in Minimizing Processor Errors? Learn From YL Software's Analysis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/eradicate-coffee-stains-in-snapshits-iphones-free-red-eye-fix-for-2024/"><u>Eradicate Coffee Stains in Snapshits IPhone's Free Red-Eye Fix for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-honor-play-7t-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Honor Play 7T Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/initial-reviews-of-the-samsung-galaxy-s24-ultra-smartphone-what-experts-say/"><u>Initial Reviews of the Samsung Galaxy S24 Ultra Smartphone - What Experts Say!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/securing-your-system-adjusting-firewall-settings-in-windows-control-panel-expert-advice-from-yl-software/"><u>Securing Your System: Adjusting Firewall Settings in Windows Control Panel - Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/step-by-step-tutorial-for-quick-youtube-videos-capture-using-yls-one-click-youtube-downloader/"><u>Step-by-Step Tutorial for Quick YouTube Videos Capture Using YL's One-Click YouTube Downloader</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unveiling-arc-the-revolutionary-tech-by-yl-computing-enhancing-your-broadcast-needs/"><u>Unveiling ARC: The Revolutionary Tech by YL Computing Enhancing Your Broadcast Needs!</u></a></li>
 </ul></div>
 

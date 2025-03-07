@@ -1,7 +1,7 @@
 ---
 title: "Best Methods for Moving Your Files: Transition From Windows 8.1 to Windows 11"
-date: 2025-02-12T03:13:28.682Z
-updated: 2025-02-19T00:41:16.610Z
+date: 2025-03-05T20:40:28.003Z
+updated: 2025-03-07T19:19:29.977Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1cac3e933531323d55d47dcdde.png
@@ -24,17 +24,9 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -42,10 +34,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -109,10 +97,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
 Et la sauvegarde incrémentielle nécessite une récupération plus complexe tandis que la sauvegarde différentielle est beaucoup plus facile. Pour connaître les différences entre elles, consultez « [Sauvegarde incrémentielle ou différentielle](https://tools.techidaily.com/ubackup/products/) ».
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -141,17 +121,9 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,14 +170,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-mac-screenshots-and-screen-recording/"><u>[New] 2024 Approved Mastering Mac Screenshots & Screen Recording</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ow-to-securely-extract-and-convert-youtube-audios-as-mp3/"><u>[New] How To Securely Extract and Convert YouTube Audios as MP3</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enhancing-social-reach-youtube-videos-on-facebook-sites-for-2024/"><u>[Updated] Enhancing Social Reach YouTube Videos on Facebook Sites for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-quickfire-engagement-top-30plus-youtube-hashes/"><u>[Updated] Quickfire Engagement Top 30+ YouTube Hashes</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/complete-step-by-step-tutorial-restoring-tracks-from-your-memory-card/"><u>Complete Step-by-Step Tutorial: Restoring Tracks From Your Memory Card</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/datensicherung-fur-gesperrte-und-geoffnete-dateien-effiziente-losungen/"><u>Datensicherung Für Gesperrte Und Geöffnete Dateien: Effiziente Lösungen</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/protect-your-videos-with-these-free-watermarking-tools-for-2024/"><u>Protect Your Videos with These Free Watermarking Tools for 2024</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/reinventez-votre-vieux-ordinateur-avec-un-nouvel-os-transformez-et-reutilisez-efficacement/"><u>Réinventez Votre Vieux Ordinateur Avec Un Nouvel OS – Transformez Et Réutilisez Efficacement!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows2/"><u>Windowsサーバーにおける2種類の同期手法:ファイル同時更新ガイド</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-secrets-unveiled-best-practices-in-remote-audio-capture/"><u>[New] 2024 Approved Secrets Unveiled Best Practices in Remote Audio Capture</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-inferno-captures-best-slow-motion-cameras/"><u>[New] Inferno Captures Best Slow-Motion Cameras</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-guide-to-seamless-inshot-video-segments/"><u>A Guide to Seamless Inshot Video Segments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-productivity-and-ease-10-most-effective-ai-pdf-tools/"><u>Boost Productivity & Ease: 10 Most Effective AI PDF Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/chuckles-churner-visual-composer-for-2024/"><u>Chuckles Churner Visual Composer for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/fixen-sie-das-problem-trotz-kriterienerfullung-installiert-sich-windows-11-nicht-hilfe-und-ratschlage/"><u>Fixen Sie Das Problem: Trotz Kriterienerfüllung Installiert Sich Windows 11 Nicht - Hilfe Und Ratschläge</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/forensische-datentrager-wiederherstellungstechniken-ein-leitfaden-mit-myrecover/"><u>Forensische Datenträger Wiederherstellungstechniken: Ein Leitfaden Mit MyRecover</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/leichte-anleitung-zum-wiederherstellen-ihrer-dateien-auf-einer-kaputten-festplatte-eines-computers/"><u>Leichte Anleitung Zum Wiederherstellen Ihrer Dateien Auf Einer Kaputten Festplatte Eines Computers</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/optimal-free-trial-secure-your-dynamic-volume-backups-using-top-rated-backup-solutions/"><u>Optimal Free Trial: Secure Your Dynamic Volume Backups Using Top-Rated Backup Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-mystery-of-a-missing-msvcr80dll-a-step-by-step-guide/"><u>Solving the Mystery of a Missing msvcr80.dll: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-winxvideo-enhancements-ai-powered-techniques-for-recording-compressing-and-converting-videos/"><u>Step-by-Step Guide to WinXVideo Enhancements - AI-Powered Techniques for Recording, Compressing & Converting Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-gt-neo-5-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme GT Neo 5 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-5-utilitaires-de-recuperation-de-fichiers-synology-solutions-pour-recuperer-des-donnees-sur-un-serveur-nas/"><u>Top 5 Utilitaires De Récupération De Fichiers Synology: Solutions Pour Récupérer Des Données Sur Un Serveur NAS</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/top-logiciels-de-restauration-dimages-pour-les-systemes-derniers-de-windows-windows-11-10-8-et-7/"><u>Top Logiciels De Restauration D'Images Pour Les Systèmes Derniers De Windows : Windows 11, 10, 8 Et 7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-insights-into-the-art-of-srt-file-creation/"><u>Ultimate Insights Into the Art of SRT File Creation</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/win-11-efi-system-partition-recovery-guide-quick-fix-for-boot-issues/"><u>Win 11 EFI System Partition Recovery Guide - Quick Fix for Boot Issues</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/windows-11-file-management-issues-top-tips-for-optimal-performance-and-efficient-data-handling/"><u>Windows 11 File Management Issues : Top Tips for Optimal Performance and Efficient Data Handling</u></a></li>
 </ul></div>
 

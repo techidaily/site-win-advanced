@@ -1,7 +1,7 @@
 ---
 title: "1. Como Reconstruir Informações De Um Disco Rígido Que Foi Formatado Sem Querer: Guia Grátis"
-date: 2024-12-25T20:44:01.566Z
-updated: 2024-12-29T22:44:58.937Z
+date: 2025-02-28T19:43:54.953Z
+updated: 2025-03-07T18:50:24.472Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b71585737d9811b8df3523624.jpg
@@ -50,19 +50,11 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 | **Pros**      | **✔** Established reputation **✔** Powerful imaging and cloning **✔** Support for RAID arrays                                                                                                                                                                                    | **✔** User-friendly interface **✔** Active development **✔** Comprehensive backup and clone solutions                                                                                                                                                                                         |
 | **Cons**      | **✖** Discontinued **✖** Complex interface **✖** Compatibility issues                                                                                                                                                                                                            | **✖** Advanced features locked in the free version                                                                                                                                                                                                                                            |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## About Norton Ghost
 
 Norton Ghost is one **disk imaging and cloning tool** that firstly developed in the 1990s. It can help you make backup images of the whole hard disk, selected partitions or only those files that mean the most to you. When something goes wrong, Norton Ghost can [restore your computer to previous functional status](https://tools.techidaily.com/ubackup/products/). Besides, it can also help you clone one hard drive to another hard drive.
 
 In a word, if you want to make an image back for your computer or want to clone to the new hard drive, Norton Ghost is not a bad choice. However, now Norton Ghost is **no longer available for the Home user**. It was **discontinued by Symantec in 2013**. Indeed you can still download the latest version - Norton Ghost 15, but it only offers a 30-day free trial and then you need to pay for it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Use Norton Ghost 15 Step by Step
 
@@ -83,10 +75,6 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
 
 ### Restore Image with Norton Ghost
@@ -100,10 +88,6 @@ Click **Recover My Files** if you want to recover files or folder, or **Recover 
 2\. Whichever you choose, you can type the file name you need in the box under **Find files to recover** and click **Search** to find it.
 
 [![Recover My Files](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/find-files-to-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3\. After the scanning, select the file you need and click **Recover Files...**
 
@@ -158,10 +142,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
@@ -184,10 +164,6 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Clone Hard Drive
 
 You can directly clone hard drive to another one with the **[Disk Clone](https://tools.techidaily.com/ubackup/products/)** feature. If you are cloning HDD to SSD, you can make use of the "**SSD Alignment**" feature to improve the read/write speed of the destination SSD.
@@ -206,10 +182,6 @@ That’s all for how to use Norton Ghost 15\. Indeed Norton Ghost is a good tool
 For backup and restore features, you have 4 corresponding options plus two premium features - Universal Restore and Explore Image. It helps to perform dissimilar hardware restore for system or disk and restore files from other backup types, such as, system, disk, or partition. 
 
 For the clone feature, you have two free options plus System Clone. So you can copy boot drive to another one successfully, even to smaller drive. And it is able to accelerate the reading and writing speed of the target disk if it is an SSD. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs about Norton Ghost
 
@@ -237,10 +209,6 @@ Was the provided information useful? Your vote is important to us!
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Lena](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Lena is an editor of FoneTool, she covers backup & restore, and phone data management and so on. She enjoys helping people find solutions to their problems. She loves traveling, eating, reading and so on. She takes most of time with her family when she is not working.
@@ -265,10 +233,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -276,10 +240,6 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -298,17 +258,18 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-international-ranks-youtube-stars-with-the-most-loyal-viewers/"><u>[New] In 2024, International Ranks YouTube Stars With the Most Loyal Viewers</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-mastering-zoom-audio-high-fidelity-and-unmuted-channels/"><u>[Updated] 2024 Approved Mastering Zoom Audio High Fidelity & Unmuted Channels</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-chuckles-on-the-clouds-designing-hits-for-fb-and-instagram-meme-culture/"><u>[Updated] Chuckles on the Clouds Designing Hits for FB & Instagram Meme Culture</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-6-budget-friendly-4k-sharp-projectors/"><u>2024 Approved Top 6 Budget-Friendly 4K Sharp Projectors</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/can-you-safely-utilize-a-legacy-windows-graphics-card-driver-unveiling-the-truth-with-yl-computing/"><u>Can You Safely Utilize a Legacy Windows Graphics Card Driver? Unveiling the Truth with YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-tutorial-how-to-easily-delete-applications-in-windows-10-environment/"><u>Complete Tutorial: How to Easily Delete Applications in Windows 10 Environment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-generating-funny-images-through-adobe/"><u>In 2024, Generating Funny Images Through Adobe</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/mastering-windows-11-how-to-successfully-update-your-gpus-drivers/"><u>Mastering Windows 11: How to Successfully Update Your GPU's Drivers</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/unraveling-the-conclusion-of-the-chinese-civil-war-insights-from-yl-computing-and-yl-software/"><u>Unraveling the Conclusion of the Chinese Civil War: Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/vintage-inspired-red-folder-graphical-symbols-from-yl-softwares-exclusive-icon-collection-enhance-your-visual-content-today/"><u>Vintage-Inspired Red Folder Graphical Symbols From YL Software's Exclusive Icon Collection – Enhance Your Visual Content Today!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/yl-software-tutorial-managing-installed-programs-with-windows-control-panel-steps/"><u>YL Software Tutorial: Managing Installed Programs with Windows Control Panel Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-hdr-conversion-playbook-starting-with-sdr/"><u>[Updated] 2024 Approved The Ultimate HDR Conversion Playbook - Starting with SDR</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-epic-visual-storyteller-suite-top-tier-for-2024/"><u>[Updated] Epic Visual Storyteller Suite - Top Tier for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-iphone-close-up-techniques-for-photo-excellence/"><u>[Updated] Innovative iPhone Close-Up Techniques for Photo Excellence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skyrocket-savings-on-clouds-compare-prices-s-lows/"><u>[Updated] Skyrocket Savings on Clouds Compare Prices 'S Lows</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/can-you-trust-windows-defender-to-securely-inspect-downloads-and-emails-a-comprehensive-guide-byteguardians/"><u>Can You Trust Windows Defender to Securely Inspect Downloads & Emails? A Comprehensive Guide | ByteGuardians</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/does-windows-11-include-built-in-protection-with-windows-defender-expert-insights-from-yl-computing/"><u>Does Windows 11 Include Built-In Protection with Windows Defender – Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-effective-is-windows-defender-in-identifying-malware-learn-insights-from-yl-software-experts/"><u>How Effective Is Windows Defender in Identifying Malware? Learn Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/identifying-the-root-cause-of-sound-glitches-on-your-windows-pc-a-deep-dive-by-yl-computing/"><u>Identifying the Root Cause of Sound Glitches on Your Windows PC: A Deep Dive by YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/latest-smartphones-and-their-fit-with-gear-vr-technology-for-2024/"><u>Latest Smartphones and Their Fit With Gear VR Technology for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/optimizing-your-personal-computer-key-strategies-from-yl-computings-expertise/"><u>Optimizing Your Personal Computer: Key Strategies From YL Computing's Expertise</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/resolving-system-threats-steps-for-dealing-with-computer-viruses-guided-by-yl-software-experts/"><u>Resolving System Threats: Steps for Dealing with Computer Viruses, Guided by YL Software Experts</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/stunning-iron-man-wallpaper-pack-for-pc-and-laptops-hd-imagery-collection-from-yl-software/"><u>Stunning Iron Man Wallpaper Pack for PC and Laptops – HD Imagery Collection From YL Software</u></a></li>
 </ul></div>
 
